@@ -963,6 +963,14 @@ Sebuah selector CSS yang mengatur tampilan elemen HTML class slide dan berada pa
   
 }
 
+Sebuah selector CSS mengatur tampilan elemen label dengan kelas signup dan terletal di class slide-controls. Dengan ketentuan:
+
+•	Teks menggunakan warna hitam
+
+
+
+
+
 
 
 
