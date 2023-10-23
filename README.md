@@ -1437,6 +1437,20 @@ Mencari elemen &lt;label&gt; dengan class CSS signup kemudian menyimpannya pada 
 
 Mencari elemen &lt;a&gt; yang berada dalam elemen dengan class CSS signup-link pada elemen &lt;form> kemudian menyimpannya pada variabel signupLink
 
+b.	Fungsi untuk tombol signup
+
+signupBtn.onclick = (() =&gt; {
+  loginForm.style.marginLeft = "-50%";
+  loginText.style.marginLeft = "-50%";
+});
+
+Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tombol daftar. Dengan ketentuan:
+•	Merubah jarak kiri (marginleft) dari elemen-elemen loginForm dan loginText menjadi -50%
+•	Elemen akan bergeser ke kiri dan menghasilkan efek transisi dengan menggesernya ke luar tampilan
+
+
+
+
 
 
 
