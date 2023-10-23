@@ -1453,6 +1453,23 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tombol daftar.
 
 •	Elemen akan bergeser ke kiri dan menghasilkan efek transisi dengan menggesernya ke luar tampilan
 
+c.	Fungsi untuk tombol login
+
+loginBtn.onclick = (() =&gt; {
+
+  loginForm.style.marginLeft = "0%";
+  
+  loginText.style.marginLeft = "0%";
+  
+});
+
+Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tombol login. Dengan ketentuan:
+
+•	Merubah margin kiri dari elemen-elemen loginForm dan loginText menjadi 0%
+
+•	Elemen akan kembali ke posisi awal.
+
+
 
 
 
