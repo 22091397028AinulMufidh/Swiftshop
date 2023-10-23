@@ -235,7 +235,7 @@ Beberapa fungsi yang ada pada Swift Shop Website, antara lain :
 
 
 
-2.3	Penggolongan Karakteristik Pengguna
+<h3>2.3	Penggolongan Karakteristik Pengguna<h3>
 
 Tingkatan kelas dalam Swift Shop Website mengatur hak akses dan persyaratan berikut :
 
