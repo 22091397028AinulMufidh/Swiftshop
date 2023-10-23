@@ -1119,6 +1119,23 @@ Sebuah selector CSS yang mengatur tampilam elemen dengan class form-inner dan be
 
 •	Lebar diatur dua kali lebih lebar dari aslinya
 
+20.	/* Aturan CSS untuk elemen form dalam .form-inner */
+    
+.form-container .form-inner form {
+
+  width: 50%; 
+  
+  transition: all 0.6s cubic-bezier(0.68,-0.55,0.265,1.55); 
+  
+}
+
+Sebuah selector CSS yang mengatur tampilan elemen yang berada pada class form-inner. Dengan ketentuan:
+
+•	Lebar form menjadi  50% dari .form-inner
+
+•	Efek transisi 0,6 detik dengan kurva waktu cubic-bezier
+
+
 
 
 
