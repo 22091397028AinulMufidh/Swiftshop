@@ -1225,6 +1225,22 @@ Sebuah selector CSS yang mengatur tampilan teks petunjuk pada input. Dengan kete
 
 •	Efek transisi berdurasi 0,3 detik
 
+25.	/* Aturan CSS teks placeholder input saat dalam fokus */
+    
+form .field input:focus::placeholder {
+
+  color: #1a75ff; 
+  
+}
+
+Sebuah selector CSS yang mengatur tampilan teks petunjuk saat input pada mode fokus. Dengan ketentuan:
+
+•	Warna teks biru saat input mode fokus
+
+
+
+
+
 
 
 
