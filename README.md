@@ -1357,6 +1357,35 @@ Sebuah selector CSS yang mengatur tampilan lapisan tombol saat dihover. Dengan k
 
 •	Lapisan bergeser ke posisi awal yaitu ke kiri saat tombol dihover
 
+33.	/* Aturan CSS untuk tombol input submit */
+    
+form .btn input[type="submit"] {
+
+  height: 100%; 
+  
+  width: 100%; 
+  
+  z-index: 1; 
+  
+  position: relative; 
+  
+  background: none; 
+  
+  border: none; 
+  
+  color: #fff; 
+  
+  padding-left: 0; 
+  
+  border-radius: 15px; 
+  
+  font-size: 20px; 
+  
+  font-weight: 500; 
+  
+  cursor: pointer; 
+
+
 
 
 
