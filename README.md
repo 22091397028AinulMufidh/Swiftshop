@@ -1385,6 +1385,33 @@ form .btn input[type="submit"] {
   
   cursor: pointer; 
 
+}
+
+Sebuah selector CSS yang mengatur tampilan tombol input submit. Dengan ketentuan:
+
+•	Tinggi elemen mengisi keseluruhan hingga 100%
+
+•	Lebar elemen mengisis keseluruhan hingga 100%
+
+•	Z-index 1 yang berarti berada di atas elemen dengan z-index 0 tetapi di bawah elemen dengan index yang lebih tinggi dari 1.
+
+•	Posisi elemen akan relative mengikuti aliran dokumen html
+
+•	Latar belakang dihapus
+
+•	Garis tepi dihapus
+
+•	Teks berwarna putih
+
+•	Padding jarak kiri menjadi 0
+
+•	Sudut bulat sebesar 15 piksel
+
+•	Ukuran font sebesar 20 piksel
+
+•	Ketebalan font 500
+
+•	Kursor diubah menjadi tanda panah ketika diarahkan
 
 
 
