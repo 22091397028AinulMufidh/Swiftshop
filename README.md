@@ -1049,6 +1049,16 @@ Mengubah tampilan label class signup ketika dicentang. Dengan ketentuan:
 
 •	Mencegah pemilihan teks oleh pengguna
 
+15.	/* Aturan CSS tampilan label dengan class .login saat pilihan "signup" dicentang */
+#signup:checked ~ label.login {
+
+  color: #000; 
+  
+Sebuah selector CSS yang merubah tampilan label class login ketika pilihan signup dicentang. Dengan ketentuan:
+
+•	Warna teks hitam
+
+
 
 
 
