@@ -988,6 +988,26 @@ Sebuah selector CSS mengatur tampilan elemen label dengan kelas signup dan terle
   
 }
 
+Sebuah selector CSS yang mengatur tampilan elemen class slider-tab dan berada pada class slide controls. Dengan ketentuan:
+
+•	Elemen berada di tempat relatif
+
+•	Tinggi elemenn 100% dan mengisi seluruh ketinggian yang berisi slider-tab 
+
+•	Lebar elemen setengah dari elemen yang berisi slider tab
+
+•	Elemen berada dari sisi kiri elemen yang memiliki class slide controls
+
+•	Elemen berada  di bawah eleen lain yang memiliki indeks z lebih tinggi
+
+•	Sudut lengkung elemen 15 piksel
+
+•	Background linear dan berwarna gradien oranye
+
+•	Perubahan animasi pada elemen terjadi 0,6 detik yang dimulai lambat berakhir cepat
+
+
+
 
 
 
