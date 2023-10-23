@@ -648,6 +648,14 @@ Berfungsi untuk mengelompokkan tombol dalam formulir
 
 Merupakan elemen kosong yang berfungsi untuk membuat efek visual/layer sehingga tombol terlibat lebih manarik
 
+•	&lt;input type="submit" value="Login"&gt;
+
+Sebuah elemen input yang digunakan untuk mengirimkan formulir. Dengan memiliki atribut type yang diatur menjadi submit, sehingga dapat mengirimkan data formuir dan kata “Login” sebagai label yang dapat dilihat oleh pengguna
+
+•	&lt;div class="signup-link">Buat akun <a href="">Daftar sekarang</a></div&gt;
+
+Sebuah elemen div yang berkaitan dengan “signup-link” dan digunakan sebagai opsi kepada pengguna yangbelum punya akun untuk mendaftar
+
 
 
 
