@@ -431,6 +431,10 @@ Website yang kami kembangkan memiliki beberapa kebutuhan yang berkaitan dengan k
 2.	Sistem harus mampu menangani minimal 500 pengguna secara bersamaan.
 3.	Keamanan data harus dipastikan dengan mengenkripsi data pelanggan.
 4.	Antarmuka pengguna harus intuitif dan responsif.
+   
+4.2	Persyaratan Keamanan
+Persyaratan keamanan Swift Shop Website melibatkan enkripsi data, perlindungan data pelanggan, manajemen akses, pemantauan aktivitas, perlindungan aplikasi, dan kebijakan kata sandi kuat. Juga, perlindungan terhadap penipuan dan kecurangan, pemantauan ketersediaan, pemeliharaan rutin, serta pelatihan staff dalam praktik keamanan. Dengan ini, Swift Shop Website akan menjaga keamanan data dan kepercayaan pelanggan
+
 
 
 
