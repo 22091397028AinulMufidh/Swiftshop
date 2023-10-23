@@ -232,3 +232,21 @@ Beberapa fungsi yang ada pada Swift Shop Website, antara lain :
 8.	Kelola akun dan profil pengguna : Pengguna  dapat mengelola informasi akun mereka, termasuk alamat pengiriman, kata sandi, dan preferensi lainnya.
 
 9.	Integrasi dengan gateway pembayaran dan penyedia pengiriman : Integrasikan dengan layanan gateway pembayaran seperti PayPal, Stripe, dan penyedia pengiriman seperti FedEx atau UPS untuk mengelola pembayaran dan pengiriman produk secara efisien.
+
+
+
+2.3	Penggolongan Karakteristik Pengguna
+
+Tingkatan kelas dalam Swift Shop Website mengatur hak akses dan persyaratan berikut :
+
+1.	Pengunjung : Hanya dapat melihat produk dan informasi umum, tidak perlu registrasi.
+
+2.	Pengguna Terdaftar : Dapat menambahkan produk ke keranjang dan mengelola akun setelah pendaftaran.
+
+3.	Pelanggan : Setelah melakukan pembelian, dapat menyelesaikan proses pembayaran dan melacak pesanan.
+
+4.	Anggota Premium/Berlangganan : Dapatkan akses eksklusif dengan berlangganan atau membayar biaya tambahan.
+
+5.	Admin/Staff Toko : Pengelolaan website dan pesanan, hanya oleh personel yang berwenang.
+
+6.	Pemilik Toko : Kewenangan penuh untuk mengelola bisnis e-commerce.
