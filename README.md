@@ -1295,6 +1295,23 @@ Sebuah selector CSS yang mengatur tampilan tautan pada elemen class .pass-link d
 
 Sebuah selector CSS yang mengatur tautan saat ditahan atau hover pada elemen class. Dengan ketentuan:
 
+•	Garis bawah muncul ketika tautan dipilih atau hover
+
+30.	/* Aturan CSS untuk elemen dengan class .btn */
+    
+form .btn {
+
+  height: 50px; 
+  
+  width: 100%; 
+  
+  border-radius: 15px; 
+  
+  position: relative; 
+  
+  overflow: hidden; 
+  
+}
 
 
 
