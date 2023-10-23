@@ -536,7 +536,7 @@ LOGIN DAN SIGNUP
 
 Penjelasan HTML Login dan signup:
 
-a.	&lt!DOCTYPE html&gt;
+a.	&lt;!DOCTYPE html&gt;
 
 Sebuah pernyataan yang mengidentifikasi bahwa pada halaman web ini menggunakan dokumen HTML yang paling terbaru
 
