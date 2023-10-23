@@ -515,6 +515,11 @@ Appendix B: Analysis Models
 
 ![Flowchart](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/5c65c5b9-78bb-42db-9083-bd3d9a1e85a9)
 
+Appendix C: To Be Determined List
+
+Pada Swift Shop Website terdapat beberapa hal yang masih perlu diperjelas dan ditentukan sebelum proses pengembangan dimulai, yaitu : 
+
+
 
 
 
