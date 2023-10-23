@@ -450,6 +450,17 @@ Berikut beberapa aturan bisnis yang diterapkan dalam Swift Shop Website:
 4.	Informasi produk yang lengkap dan pemantauan ketersediaan.
 5.	Kepatuhan hukum dan kredibilitas yang terpercaya.
 
+6.	Persyaratan Lainnya
+   
+1.	Persyaratan Basis Data
+   
+Mencakup persyaratan yang berkaitan dengan cara data disimpan, diakses dan dikelola pada sistem Swift Shop Website, yaitu:
+
+-	Struktur Basis Data: Mencakup pengelolaan data produk, pelanggan, stok, harga dan transaksi disimpan di dalamnya.
+-	Keamanan Basis Data: Mencakup pengelolaan perlindungan informasi pelanggan dan transaksi.
+-	Integritas Basis Data: Mencakup pengelolaan sistem yang berinteraksi dengan data seperti melakukan pembaruan data ketika pembelian dilakukan.
+
+
 
 
 
