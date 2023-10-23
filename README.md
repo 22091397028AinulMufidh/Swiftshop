@@ -896,6 +896,23 @@ Sebuah selector CSS yang mengatur elemen class title dalam wrapper. Dengan keten
 
 Sebuah selector CSS yang mengatur tampilan elemen HTML class slide-controls dan berada pada class wrapper. Dengan ketentuan:
 
+•	Elemen berada di posisi yang asli
+
+•	Tata letak elemen dapat diatur secara fleksibel
+
+•	Tinggi elemen 50 piksel
+
+•	Lebar elemen hingga mencakup seluruh elemen “wrapper”
+
+•	Menyembunyikan ekonten apabila melebihi batas
+
+•	Margin dengan jarak atas 30 piksel, jarak bawah 10 piksel, tanpa jarak kanan kiri
+
+•	Garis batas ketebalan 1 piksel dan warna abu abu muda
+
+•	Sudut bulat elemen ukuran jari-jari 15 piksel
+
+
 
 
 
