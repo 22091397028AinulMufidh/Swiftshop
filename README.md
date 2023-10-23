@@ -1059,7 +1059,7 @@ Sebuah selector CSS yang merubah tampilan label class login ketika pilihan signu
 
 •	Warna teks hitam
 
-/* Aturan tampilan label dengan class .signup saat pilihan "login" dicentang */
+16.	/* Aturan tampilan label dengan class .signup saat pilihan "login" dicentang */
 
 #login:checked ~ label.signup {
 
@@ -1070,6 +1070,25 @@ Sebuah selector CSS yang merubah tampilan label class login ketika pilihan signu
 Sebuah selector CSS yang merubah tampilan label signup ketika pengguna memilih opsi login. Dengan ketentuan:
 
 •	Warna teks hitam
+
+17.	/* Aturan CSS tampilan label dengan class .login saat pilihan "login" dicentang */
+    
+#login:checked ~ label.login {
+
+  cursor: default;
+  
+  user-select: none; 
+  
+}
+
+Sebuah selector CSS yang mengubah tampilan label class login ketika pengguna memilih opsi login. Dengan ketentuan:
+
+•	Kursor mouse menjadi kursor default
+
+•	Mencegah pemilihan teks oleh pengguna
+
+
+
 
 
 
