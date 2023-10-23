@@ -478,7 +478,21 @@ Mencakup persyaratan pada Swift Shop Website yang wajib dilakukan sesuai dengan 
 -	Tujuan Bisnis: Dengan adanya situs web swift shop diharapkan mampu meningkatkan jangkauan pasar, menaikkan jumlah penjualan, dan branding yang lebih kuat.
 -	Tujuan Teknis: Dapat melakukan perbaikan operasional, keamanan, dan skala akses sistem yang lebih luas.
 
+Appendix A: Glossary
+
 ![Appendix glossary](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/c7170a11-2f28-44ec-9cfc-6c20dcaae0cf)
+
+Appendix B: Analysis Models
+
+1.	Data Flow Diagram (DFD)
+
+-	Data Flow Diagram Level 0
+
+![DFD 0](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/970328b1-47d9-4839-aac4-e4e48765943e)
+
+-	Data Flow Diagram Level 1 Bagian 1
+
+![dfd level 1 revisii drawio](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/e835545e-30d1-4d2a-a1c7-5b1c34486774)
 
 
 
