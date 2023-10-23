@@ -1209,6 +1209,23 @@ Sebuah selector CSS yang mengatur tampilan input dalam focus ketika diklik ataup
 
 •	Warna tepi input berubah menjadi biru saat input dalam fokus
 
+24.	/* Aturan CSS untuk teks placeholder dalam input */
+    
+.form-inner form .field input::placeholder {
+
+  color: #999; /* Mengatur warna teks placeholder menjadi abu-abu (#999) */
+  
+  transition: all 0.3s ease; /* Efek transisi selama 0.3 detik */
+  
+}
+
+Sebuah selector CSS yang mengatur tampilan teks petunjuk pada input. Dengan ketentuan:
+
+•	Warna teks petunjuk abu abu
+
+•	Efek transisi berdurasi 0,3 detik
+
+
 
 
 
