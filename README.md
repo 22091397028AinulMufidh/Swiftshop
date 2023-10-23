@@ -559,6 +559,18 @@ Sebuah elemen <link> yang menghubungkan halaman web dengan file CSS eksternal, d
 -rel="stylesheet" : Membuktikan bahwa file yang dihubungkan merupakan file CSS untuk mengubah atau mengendalikan tampilan halaman web
 -href="./style.css": Menentukan lokasi atau URL dari file CSS eksternal untuk mengatur halaman tampilan halaman web sehingga “style.css” harus berada tepat dengan direktori yang sama dengan halaman web.
 
+d.	<body>
+
+Sebuah bagian yang memuat isi utama dari sebuah elemen web yang isinya akan muncul kepada pengguna ketika mengakses halaman web. Dengan ketentuan:
+
+•	<div class="wrapper">
+Sebuah elemen yang menggunakan atribut class dengan nilai “wrapper” yang mengelompokkan atau mengatur tata letak konten di dalamnya. 
+•	<div class="title-text">
+Sebuah elemen yang merupakan turunan dari sebelumnya, berfungsi mengelompokkan teks-teks di dalamnya.
+•	<div class="title login">
+Berfungsi untuk memberikan judul “Form Login”
+•	<div class="title signup">
+Berfungsi untuk memberikan judul “Form Registrasi”
 
 
 
