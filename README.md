@@ -842,6 +842,20 @@ Sebuah selector CSS yang mengatur tampilan elemen clss tittle-text dan berada pa
 
 •	Lebar elemen menjadi 2x lipat lebih lebar dari biasanya
 
+7.	/* Aturan CSS untuk elemen dengan kelas "title" dalam "wrapper" */
+   
+.wrapper .title{
+
+  width: 50%;
+  
+  font-size: 35px;
+  
+  font-weight: 600;
+  
+  text-align: center;
+  
+  transition: all 0.6s cubic-bezier(0.68,-0.55,0.265,1.55);
+
 
 
 
