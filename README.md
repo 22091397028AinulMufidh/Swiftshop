@@ -421,6 +421,17 @@ Dokumentasi pengguna pada Swift Shop Website harus mencakup panduan singkat tent
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
 2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
 3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman
+   
+4.	Persyaratan Non Fungsional
+   
+4.1	Persyaratan Kinerja
+
+Website yang kami kembangkan memiliki beberapa kebutuhan yang berkaitan dengan kinerja website seperti waktu respons, kecepatan pemrosesan, kapasitas, dan efisiensi jaringan yang dijelaskan sebagai berikut :
+1.	Waktu untuk membuka halaman harus di bawah 3 detik.
+2.	Sistem harus mampu menangani minimal 500 pengguna secara bersamaan.
+3.	Keamanan data harus dipastikan dengan mengenkripsi data pelanggan.
+4.	Antarmuka pengguna harus intuitif dan responsif.
+
 
 
 
