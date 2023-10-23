@@ -680,7 +680,7 @@ Berfungsi untuk mengumpulkan tombol pendaftaran ke dalam field terpisah, sehingg
 
 Sebuah tombol daftar yang berfungsi untuk mengirimkan informasi yang telah diiisi pengguna ke tempat yang sudah ditentukan pada atribut action
 
-•	&lt;div class="signup-link">Sudah punya akun? <a href="">Login</a></div&gt;
+•	&lt;div class="signup-link">Sudah punya akun? &lt;a href=""&gt;Login&lt;/a&gt; &lt;/div&gt;
 
 Sebuah tautan yang berfungsi membantu pengguna menuju halaman link. Dengan memiliki class “signuplink” maka tampilannya dapat diatur menggunakan CSS
 
