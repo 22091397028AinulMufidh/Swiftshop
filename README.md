@@ -262,3 +262,26 @@ Perangkat lunak berbasis web ini dapat diakses melalui berbagai perangkat sepert
 
 Dokumentasi pengguna pada Swift Shop Website harus mencakup panduan singkat tentang pendaftaran, navigasi, pencarian produk, pengelolaan keranjang belanja, proses checkout, manajemen akun, pengembalian dan garansi, bantuan, kebijakan privasi, tata cara pengaduan, dan tutorial video. Dokumentasi ini akan mudah diakses dan terus diperbarui.
 
+3.	Persyatatan Fungsional
+   
+3.1	Katalog Produk
+
+3.1.1	Deskripsi dan Prioritas
+
+	Deskripsi: Fitur ini mencakup daftar lengkap produk dengan deskripsi, harga, dan gambar.
+ 
+	Prioritas: Tinggi.
+ 
+3.1.2	Urutan Stimulus/Respon
+
+	Stimulus: Pengguna mengakses halaman produk.
+ 
+	Respon: Tampilan daftar produk dengan informasi terperinci.
+ 
+3.1.3	Persyaratan Fungsional
+
+1.	Fitur harus mampu menampilkan daftar produk dengan judul, deskripsi, harga, gambar, dan ketersediaan.
+2.	Pengguna harus dapat mengurutkan dan mengelompokkan produk berdasarkan kategori atau fitur lainnya.
+3.	Fitur pencarian produk harus memungkinkan pengguna mencari produk berdasarkan kata kunci.
+
+
