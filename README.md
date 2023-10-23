@@ -300,7 +300,9 @@ Dokumentasi pengguna pada Swift Shop Website harus mencakup panduan singkat tent
  
 3.2.3	Persyaratan Fungsional
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
+
 2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
+
 3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman.
 
 
