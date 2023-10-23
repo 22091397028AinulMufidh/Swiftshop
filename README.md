@@ -718,7 +718,28 @@ Penjelasan CSS Login dan Signup
 Sebuah perintah untuk mengimpor huruf Poppins dari google fonts ke dalam situs web. Dengan ketentuan: 
 
 •	Berisikan alamat web yang menuju ke file CSS yang  berisi informasi tentang jenis huruf poppins dengan berbagai ketebalan
+
 •	Menggunakan display=swap yang berarti apabila jenis huruf belum ada di perangkat pengguna, maka perubahan jenis hurufnya akan terjadi tanpa gangguan yang mencolok
+
+2.	/* Aturan CSS untuk semua elemen */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+Sebuah aturan CSS yang mempengaruhi aturan semua elemen di halaman. Dengan ketentuan:
+
+•	Margin 0 yang berarti menghilangkan ruang kosong di sekitar elemen luar
+
+•	Padding 0 yang berarti konten di dalam html akan berbatasan langsung dengan tepi elemen dalam
+
+•	Mengatur kotak elemen sehingga dapat mencakup padding dan batas
+
+•	Menggunaka jenis huruf poppins dan sans-serf
+
+
 
 
 
