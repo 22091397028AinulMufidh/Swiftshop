@@ -704,6 +704,13 @@ i.	&lt;/body&gt;
 
 Sebuah elemen penutup bagian tubuh dokumen html dan mnutup bagian yang berisikan konten
 
+j. 	&lt;/html&gt;
+
+Sebuah elemen penutup untuk seluruh dokumen html dan halaman web
+
+
+
+
 
 
 
