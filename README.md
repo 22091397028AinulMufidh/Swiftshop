@@ -600,17 +600,29 @@ Berfungsi untuk mengumpulkan elemen yang berhubungan dengan tombol Login dan Daf
 
 Sebuah elemen input dengan dua atribut yairu “name” dengan nilai “slide” dan “id” dengan nilai “login” dan ditandai sebagai “checked” yang berarti apabila pilihan pertama login, maka akan terpilih secara otomatis saat membuka halaman
 
-•	&lt;input type="radio" name="slide" id="signup"gt;
+•	&lt;input type="radio" name="slide" id="signup"&gt;
 
 Sebuah elemen  input radio tetapi pilihan kedua yang disebut “daftar” dan dapat dipilih apabila ingin mendaftar
 
-•	&lt;label for="login" class="slide login">Login</labelgt;
+•	&lt;label for="login" class="slide login">Login</label&gt;
 
 Sebuah elemen label yang berkaitan dengan input login yang berfungsi untuk memasukkan kata sandi saat melakuka login
 
-•	&lt;label for="signup" class="slide signup">Daftar</labelgt;
+•	&lt;label for="signup" class="slide signup">Daftar</label&gt;
 
 Sebuah elemen label yang berkaitan dengan input sign up yang berfungsi untuk membuat akun baru atau melakukan pendaftaran apabila belum memiliki akun
+
+•	&lt;div class="slider-tab"></div&gt;
+
+Sebuah elemen div yang disebut slider tab dan digunakan untuk mwngontrol atau menunujukkan bagian tab atau geser pada halaman web, namun elemen ini kosong yang berarti tidak ada kontennya
+
+•	&lt;div class="form-inner"&gt;
+
+Berfungsi sebagai tempat di mana seluruh formular login disimpan di dalamnya
+
+•	&lt;form action="#" class="login"&gt;
+
+Sebuah elemen formular dengan tanda pagar di dalamnya dan memiiki label login yang digunakan untuk mengumpulkan informasi login dari pengguna, seperti email dan kata sandi
 
 
 
