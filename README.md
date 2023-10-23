@@ -164,3 +164,25 @@ Lingkup pada Swift Shop Website dapat mencakup fitur berikut :
 6.	Integrasi Pembayaran dan Pengiriman.
 
 7.	Manajemen Akun Pengguna.
+
+
+
+1.5	Batasan Desain dan Implementasi
+
+Keterbatasan desain dan implementasi pada Swift Shop Website meliputi :
+
+1.	Keamanan Data Pelanggan : Perlindungan data pribadi dan pembayaran.
+
+2.	Antarmuka Pengguna yang Intuitif : Navigasi yang mudah dipahami.
+
+3.	Kinerja Situs Web : Waktu pemuatan cepat dan kinerja bagus.
+
+4.	Ketersediaan : Pemantauan yang kuat dan rencana pemulihan.
+
+5.	Manajemen persediaan : Memantau inventaris produk.
+
+6.	Integrasi Dengan Sistem Pembayaran : Metode pembayaran yang didukung.
+
+7.	Peralatan Memenuhi : Akses di beberapa perangkat.
+
+8.	Analisis dan Pemantauan : Alat pelacakan perilaku pengguna.
