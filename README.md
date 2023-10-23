@@ -684,6 +684,10 @@ Sebuah tombol daftar yang berfungsi untuk mengirimkan informasi yang telah diiis
 
 Sebuah tautan yang berfungsi membantu pengguna menuju halaman link. Dengan memiliki class “signuplink” maka tampilannya dapat diatur menggunakan CSS
 
+f.	&lt/form&gt;
+Sebuah penutup dari elemen formulir sebelumnya
+
+
 
 
 
