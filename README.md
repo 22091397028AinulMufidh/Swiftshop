@@ -676,6 +676,15 @@ Sebuah elemen dengan tipe teks yang berarti pengguna wajib memasukkan teks. Deng
 
 Berfungsi untuk mengumpulkan tombol pendaftaran ke dalam field terpisah, sehingga dapat diubah tampilannya melalui CSS
 
+•	&lt;input type="submit" value="Daftar"&gt;
+
+Sebuah tombol daftar yang berfungsi untuk mengirimkan informasi yang telah diiisi pengguna ke tempat yang sudah ditentukan pada atribut action
+
+•	&lt;div class="signup-link">Sudah punya akun? <a href="">Login</a></div&gt;
+
+Sebuah tautan yang berfungsi membantu pengguna menuju halaman link. Dengan memiliki class “signuplink” maka tampilannya dapat diatur menggunakan CSS
+
+
 
 
 
