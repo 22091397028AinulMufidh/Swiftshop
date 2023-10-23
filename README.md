@@ -494,6 +494,10 @@ Appendix B: Analysis Models
 
 ![dfd level 1 revisii drawio](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/e835545e-30d1-4d2a-a1c7-5b1c34486774)
 
+-	Data Flow Diagram Level 1 Bagian 2
+
+![dfd 2 1 revisii](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/5111a80b-ac7e-4d93-9334-f0786defcd05)
+
 
 
 
