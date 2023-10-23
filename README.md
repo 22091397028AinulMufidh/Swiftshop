@@ -1469,6 +1469,23 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tombol login. 
 
 •	Elemen akan kembali ke posisi awal.
 
+d.	Fungsi untuk tautan signup
+
+signupLink.onclick = (() =&gt; {
+
+  signupBtn.click();
+  
+  return false;
+  
+});
+
+Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup. Dengan ketentuan:
+
+•	Melakukan Tindakan klik pada tautan signup degan perintah click()
+
+•	Menghentikan aksi saat mengklik tautan dengan mengembalikan nilai false untuk mencegah pengguna dialihkan ke tautan halaman lain.
+
+
 
 
 
