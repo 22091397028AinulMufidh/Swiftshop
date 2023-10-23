@@ -1313,6 +1313,18 @@ form .btn {
   
 }
 
+Sebuah selector CSS yang mengatur tampilan elemen pada class.btn. Dengan ketentuan:
+
+•	Tinggi elemen 50 piksel
+
+•	Lebar 100%
+
+•	Sudut bulat sebesar 15 piksel
+
+•	Posisi elemen akan relative mengikuti aliran dokumen html
+
+•	Konten yang melebihi elemen akan disembunyikan
+
 
 
 
