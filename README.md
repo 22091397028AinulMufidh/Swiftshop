@@ -598,7 +598,22 @@ Berfungsi untuk mengumpulkan elemen yang berhubungan dengan tombol Login dan Daf
  
 •	&lt;input type="radio" name="slide" id="login" checked&gt;
 
-Sebuah elemen input dengan dua atribut yairu “name” dengan nilai “slide” dan “id” 
+Sebuah elemen input dengan dua atribut yairu “name” dengan nilai “slide” dan “id” dengan nilai “login” dan ditandai sebagai “checked” yang berarti apabila pilihan pertama login, maka akan terpilih secara otomatis saat membuka halaman
+
+•	&lt;input type="radio" name="slide" id="signup"gt;
+
+Sebuah elemen  input radio tetapi pilihan kedua yang disebut “daftar” dan dapat dipilih apabila ingin mendaftar
+
+•	&lt;label for="login" class="slide login">Login</labelgt;
+
+Sebuah elemen label yang berkaitan dengan input login yang berfungsi untuk memasukkan kata sandi saat melakuka login
+
+•	&lt;label for="signup" class="slide signup">Daftar</labelgt;
+
+Sebuah elemen label yang berkaitan dengan input sign up yang berfungsi untuk membuat akun baru atau melakukan pendaftaran apabila belum memiliki akun
+
+
+
 
 
 
