@@ -1197,6 +1197,20 @@ Sebuah selector CSS yang mengatur tampilan elemen input dengan class field dalam
 
 •	Efek transisi berdurasi 0,3 detik
 
+23.	/* Aturan CSS untuk input dalam fokus */
+    
+.form-inner form .field input:focus {
+
+  border-color: #1a75ff; 
+  
+}
+
+Sebuah selector CSS yang mengatur tampilan input dalam focus ketika diklik ataupun dipilih. Dengan ketentuan:
+
+•	Warna tepi input berubah menjadi biru saat input dalam fokus
+
+
+
 
 
 
