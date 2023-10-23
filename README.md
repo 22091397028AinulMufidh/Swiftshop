@@ -624,6 +624,19 @@ Berfungsi sebagai tempat di mana seluruh formular login disimpan di dalamnya
 
 Sebuah elemen formular dengan tanda pagar di dalamnya dan memiiki label login yang digunakan untuk mengumpulkan informasi login dari pengguna, seperti email dan kata sandi
 
+•	&lt;div class="field"&gt;
+
+Sebuah elemen div dengan atribut field yang digunakan untuk mengelompokkan elemen dalam formular, seperti email dan kata sandi.
+
+•	&lt;input type="text" placeholder="Masukkan Email Anda" required&gt;
+
+Sebuah elemen input teks yang bisa digunakan untuk menuliskan email yang wajib diisi sebelum mengirimkan formulir
+
+•	&lt;input type="password" placeholder="Masukkan Kata Sandi Anda" required&gt;
+
+Sebuah elemen input tipe sandi yang bisa digunakan untuk mengisi kata sandi yang wajib diisi sebelum mengirimkan formulir
+
+
 
 
 
