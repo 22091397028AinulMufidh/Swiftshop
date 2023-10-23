@@ -956,6 +956,14 @@ Sebuah selector CSS yang mengatur tampilan elemen HTML class slide dan berada pa
 
 •	Transisi perubahan warna, lebar, tinggi posisi elemen dengan durasi 0,6 detik
 
+10.	/* Aturan CSS untuk elemen label dengan kelas "signup" dalam "slide-controls" */
+.slide-controls label.signup{
+
+  color: #000;
+  
+}
+
+
 
 
 
