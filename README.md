@@ -700,6 +700,11 @@ Sebuah penutup tiga elemen &ltdivgt;
  
 Sebuah bagian JavaScript yang berfungsi mengaitkan kemudian dapat menjalankan file script eksternal yang disebut “script.js” ke halaman web. 
 
+i.	&lt;/body&gt;
+
+Sebuah elemen penutup bagian tubuh dokumen html dan mnutup bagian yang berisikan konten
+
+
 
 
 
