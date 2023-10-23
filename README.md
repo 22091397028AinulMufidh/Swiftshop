@@ -488,7 +488,8 @@ Appendix B: Analysis Models
 
 -	Data Flow Diagram Level 0
 
-![DFD 0](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/970328b1-47d9-4839-aac4-e4e48765943e)
+![dfd level 0 revisi drawio](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/eca2772f-5c81-43e1-92dd-e6431518aee7)
+
 
 -	Data Flow Diagram Level 1 Bagian 1
 
@@ -497,6 +498,10 @@ Appendix B: Analysis Models
 -	Data Flow Diagram Level 1 Bagian 2
 
 ![dfd 2 1 revisii](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/5111a80b-ac7e-4d93-9334-f0786defcd05)
+
+2.	Entity Relationship Diagram (ERD)
+   
+![ERD](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/af6f2eaf-141c-4c3d-b215-ec16059c89eb)
 
 
 
