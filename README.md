@@ -709,6 +709,21 @@ j. 	&lt;/html&gt;
 Sebuah elemen penutup untuk seluruh dokumen html dan halaman web
 
 
+Penjelasan CSS Login dan Signup
+
+1.	Mengimpor huruf poppins
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+Sebuah perintah untuk mengimpor huruf Poppins dari google fonts ke dalam situs web. Dengan ketentuan: 
+
+•	Berisikan alamat web yang menuju ke file CSS yang  berisi informasi tentang jenis huruf poppins dengan berbagai ketebalan
+•	Menggunakan display=swap yang berarti apabila jenis huruf belum ada di perangkat pengguna, maka perubahan jenis hurufnya akan terjadi tanpa gangguan yang mencolok
+
+
+
+
+
 
 
 
