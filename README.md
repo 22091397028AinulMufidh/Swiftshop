@@ -656,9 +656,20 @@ Sebuah elemen input yang digunakan untuk mengirimkan formulir. Dengan memiliki a
 
 Sebuah elemen div yang berkaitan dengan “signup-link” dan digunakan sebagai opsi kepada pengguna yangbelum punya akun untuk mendaftar
 
-e.	&ltform&gt
+e.	&lt;form&gt;
 
 Sebuah elemen awal formulir yang digunakan untuk mengumpulkan data dari pengguna. Dengan ketentuan:
+
+•	&lt;form action="#" class="signup"&gt;
+
+Berisikan atribut action yang menandakan URL atau alamat tujuan yang akan menerima informasi pengguna masukkan dalam formulir setelah klik tombol kirim. Tanda pagar disini mengartikan bahwa informasi yang telah dikirim  akan diproses di halaman yang sama.  Class signup berfungsi meberikan gaya tertentu pada formulir melalui CSS
+
+•	&lt;div class="field"&gt;
+
+Berfungsi untuk mengumpulkan elemen input ke dalam field sehingga tampilan formulir terlihat lebih rapi dan teratur
+
+
+
 
 
 
