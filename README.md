@@ -1177,6 +1177,28 @@ Sebuah selector CSS yang mengatur tampilan elemen dengan class field dalam form.
   
 }
 
+Sebuah selector CSS yang mengatur tampilan elemen input dengan class field dalam form. Dengan ketentuan:
+
+•	Tinggi elemen  menjadi 100% dari class form
+
+•	Lebar elemen menjadi 100% dari class form
+
+•	Garis tepi dihilangkan 
+
+•	Memberikan ruang tambahan sepanjang 15 piksel di sisi kiri elemen
+
+•	Sudut bulat 15 piksel
+
+•	Ketebalan garis tepi 1 piksel dan berwarna abu-abu muda
+
+•	Ketebalan garis tepi bagian bawah 2 piksel
+
+•	Ukuran font 17 piksel
+
+•	Efek transisi berdurasi 0,3 detik
+
+
+
 
 
 
