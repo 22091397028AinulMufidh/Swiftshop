@@ -938,6 +938,23 @@ Sebuah selector CSS yang mengatur tampilan elemen HTML class slide-controls dan 
   
 }
 
+Sebuah selector CSS yang mengatur tampilan elemen HTML class slide dan berada pada class slide controls. Dengan ketentuan:
+
+•	Tinggi elemen menjadi 100% dari class slide controls
+
+•	Lebar elemen menjadi 100% dari class slide controls
+
+•	Ukuran fonts 18 piksel
+
+•	Ketebalan fonts ukuran 500
+
+•	Teks berpusat pada elemen
+
+•	Jarak antara garis teks (tinggi baris) 48 piksel
+
+•	Indeks z elemen menjadi 1 dan memengaruhi tumpukan tampilan elemen apabila ada elemen yang tumpeng tindih
+
+•	Transisi perubahan warna, lebar, tinggi posisi elemen dengan durasi 0,6 detik
 
 
 
