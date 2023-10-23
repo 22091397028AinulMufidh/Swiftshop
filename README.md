@@ -744,6 +744,32 @@ Sebuah aturan CSS yang mempengaruhi aturan semua elemen di halaman. Dengan keten
 
 •	Menggunaka jenis huruf poppins dan sans-serf
 
+3.	 /* Aturan CSS untuk elemen html dan body */
+   
+html, body{
+
+  display: grid;
+  
+  height: 100%;
+  
+  width: 100%;
+  
+  place-items: center;
+  
+  background-image: linear-gradient(62deg, #ffe396 0%, #ffb347 100%);
+  
+}
+
+Sebuah aturan CSS yang mengatur tampilan elemen <body> seperti warna, posisi, ukuran. Dengan ketentuan:
+
+•	Mengatur tata letak grid seperti sebuah tabel
+
+•	Menggunakan tinggi dan lebar 100% yang mengisi seluruh halaman web
+
+•	Mengatur konten agar selalu tepat di tengah halaman
+
+•	Menggunakan backgroundlinear dengan warna gradient yaitu oranye tua dan oranye muda
+
 
 
 
