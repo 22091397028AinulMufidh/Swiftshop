@@ -786,6 +786,45 @@ Sebuah pseudo elemen CSS yang dapat memilih teks ketika menggeser kursor di atas
 
 •	Teks yang dipilih berubah menjadi warna putih
 
+5.	/* Aturan CSS untuk elemen dengan kelas "wrapper" */
+   
+.wrapper{
+
+  overflow: hidden;
+  
+  max-width: 390px;
+  
+  background: #fff;
+  
+  padding: 30px;
+  
+  border-radius: 15px;
+  
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  
+}
+
+Sebuah selector CSS yang menentukan gaya yang akan diterapkan pada elemen-elemen yang memiliki class wrapper.  Dengan aturan:
+
+•	Apabila konten melebihi batas maka akan disembunyikan
+
+•	Lebar maksimal elemen 390 piksel
+
+•	Background berwarna putih
+
+•	Padding sekitar konten sebesar 30 piksel
+
+•	Sudut elemen menjadi melengkung dengan radius 15 piksel
+
+•	Menentukan warna bayangan dengan warna (merah, hijau, biru)
+
+•	Jarak bayangan horizontal 0 piksel
+
+•	Jarak bayangan vertical 20 piksel
+
+•	Penyebaran bayangan 30 piksel
+
+•	Penurunan bayangan -10 piksel
 
 
 
