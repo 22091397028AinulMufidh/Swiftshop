@@ -684,7 +684,7 @@ Sebuah tombol daftar yang berfungsi untuk mengirimkan informasi yang telah diiis
 
 Sebuah tautan yang berfungsi membantu pengguna menuju halaman link. Dengan memiliki class “signuplink” maka tampilannya dapat diatur menggunakan CSS
 
-f.	&lt/form&gt;
+f.	&lt;/form&gt;
 Sebuah penutup dari elemen formulir sebelumnya
 
 g.	   &lt;/div&gt;
@@ -1412,6 +1412,32 @@ Sebuah selector CSS yang mengatur tampilan tombol input submit. Dengan ketentuan
 •	Ketebalan font 500
 
 •	Kursor diubah menjadi tanda panah ketika diarahkan
+
+Penjelasan JS Login dan Signup
+
+a.	Pemilihan Elemen HTML
+
+•	const loginText = document.querySelector(".title-text .login");
+
+Mencari elemen yang  memiliki class CSS tittle-text dan login kemudian menyimpannya  pada variabel logintext
+
+•	const loginForm = document.querySelector("form.login");
+
+Mencari elemen &lt;form&gt; dengan class CSS login kemudian menyimpannya pada variabel loginForm
+
+•	const loginBtn = document.querySelector("label.login");
+
+Mencari elemen &lt;label&gt; dengan class CSS login kemudian menyimpannya pada variabel loginBtn
+
+•	const signupBtn = document.querySelector("label.signup");
+
+Mencari elemen &lt;label&gt; dengan class CSS signup kemudian menyimpannya pada variabel signupBtn
+
+•	const signupLink = document.querySelector("form .signup-link a");
+
+Mencari elemen &lt;a&gt; yang berada dalam elemen dengan class CSS signup-link pada elemen &lt;form> kemudian menyimpannya pada variabel signupLink
+
+
 
 
 
