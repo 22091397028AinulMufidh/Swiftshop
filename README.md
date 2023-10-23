@@ -722,11 +722,16 @@ Sebuah perintah untuk mengimpor huruf Poppins dari google fonts ke dalam situs w
 •	Menggunakan display=swap yang berarti apabila jenis huruf belum ada di perangkat pengguna, maka perubahan jenis hurufnya akan terjadi tanpa gangguan yang mencolok
 
 2.	/* Aturan CSS untuk semua elemen */
+   
 *{
   margin: 0;
+  
   padding: 0;
+  
   box-sizing: border-box;
+  
   font-family: 'Poppins', sans-serif;
+  
 }
 
 Sebuah aturan CSS yang mempengaruhi aturan semua elemen di halaman. Dengan ketentuan:
