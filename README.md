@@ -770,6 +770,23 @@ Sebuah aturan CSS yang mengatur tampilan elemen <body> seperti warna, posisi, uk
 
 •	Menggunakan backgroundlinear dengan warna gradient yaitu oranye tua dan oranye muda
 
+4.	/* Aturan CSS untuk teks yang dipilih oleh pengguna */
+   
+::selection{
+
+  background: #1a75ff;
+  
+  color: #fff;
+  
+}
+
+Sebuah pseudo elemen CSS yang dapat memilih teks ketika menggeser kursor di atas teks halaman web. Dengan ketentuan:
+
+•	Background teks yang dipilih berwarna biru tua
+
+•	Teks yang dipilih berubah menjadi warna putih
+
+
 
 
 
