@@ -283,5 +283,24 @@ Dokumentasi pengguna pada Swift Shop Website harus mencakup panduan singkat tent
 1.	Fitur harus mampu menampilkan daftar produk dengan judul, deskripsi, harga, gambar, dan ketersediaan.
 2.	Pengguna harus dapat mengurutkan dan mengelompokkan produk berdasarkan kategori atau fitur lainnya.
 3.	Fitur pencarian produk harus memungkinkan pengguna mencari produk berdasarkan kata kunci.
+   
+3.2	Manajemen Akun
+
+3.2.1	Deskripsi dan Prioritas
+
+	Deskripsi: Memungkinkan pengguna untuk membuat akun.
+ 
+	Prioritas: Tinggi.
+ 
+3.2.2	Urutan Stimulus/Respon
+
+	Stimulus: Pengguna memilih opsi “Membuat Akun”.
+ 
+	Respon: Formulir pendaftaran dan konfirmasi akun.
+ 
+3.2.3	Persyaratan Fungsional
+1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
+2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
+3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman.
 
 
