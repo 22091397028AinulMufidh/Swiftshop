@@ -530,6 +530,17 @@ Pada Swift Shop Website terdapat beberapa hal yang masih perlu diperjelas dan di
 9.	Pemasaran dan Peluncuran: Strategi pemasaran dan pengukuran kesuksesan peluncuran.
 10.	Peraturan dan Kepatuhan Hukum: Pematuhan terhadap regulasi dan hukum yang berlaku, seperti privasi data dan perpajakan e-commerce.
 
+PENJELASAN CODINGAN:
+
+LOGIN DAN SIGNUP
+
+Penjelasan HTML Login dan signup:
+
+
+
+
+
+
 
 
 
