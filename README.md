@@ -1265,6 +1265,26 @@ Sebuah selector CSS yang mengatur tampilan elemen dengan class .signup-link. Den
 
 •	Margin atas berjarak 30 piksel
 
+28.	/* Aturan CSS untuk tautan dalam elemen dengan class .pass-link dan .signup-link */
+    
+.form-inner form .pass-link a,
+
+.form-inner form .signup-link a {
+
+  color: #1a75ff; 
+  
+  text-decoration: none; 
+  
+}
+
+Sebuah selector CSS yang mengatur tampilan tautan pada elemen class .pass-link dan signup-link. Dengan ketentuan:
+
+•	Warna tautan menjadi biru
+
+•	Dekorasi tautan seperti garis bawah akan dihapus
+
+
+
 
 
 
