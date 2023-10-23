@@ -1,7 +1,7 @@
 # Swiftshop
-
-Software Requirements Specification for
-SWIFTSHOP WEBSITE E-COMMERCE
+<div align="center">
+<h2>Software Requirements Specification for</h2>
+<h1>Swiftshop Website E-commerce</h1>
 
 Versi 1.0 Disetujui
 
@@ -24,7 +24,7 @@ D4 Manajemen Informatika
 Fakultas Vokasi
 
 Universitas Negeri Surabaya 2023
-
+</div>
 
 
 
