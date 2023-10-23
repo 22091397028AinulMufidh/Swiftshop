@@ -870,6 +870,35 @@ Sebuah selector CSS yang mengatur elemen class title dalam wrapper. Dengan keten
 
 •	Mengatur animasi bergerak selama 0,6 detik
 
+8.	/* Aturan CSS untuk elemen dengan kelas "slide-controls" dalam "wrapper" */
+   
+.wrapper .slide-controls{
+
+  position: relative;
+  
+  display: flex;
+  
+  height: 50px;
+  
+  width: 100%;
+  
+  overflow: hidden;
+  
+  margin: 30px 0 10px 0;
+  
+  justify-content: space-between;
+  
+  border: 1px solid lightgrey;
+  
+  border-radius: 15px;
+  
+}
+
+Sebuah selector CSS yang mengatur tampilan elemen HTML class slide-controls dan berada pada class wrapper. Dengan ketentuan:
+
+
+
+
 
 
 
