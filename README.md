@@ -186,3 +186,14 @@ Keterbatasan desain dan implementasi pada Swift Shop Website meliputi :
 7.	Peralatan Memenuhi : Akses di beberapa perangkat.
 
 8.	Analisis dan Pemantauan : Alat pelacakan perilaku pengguna.
+
+
+
+1.6	Referensi
+
+Referensi yang digunakan dalam dokumen hasil analisis adalah sebagai berikut :
+
+1.	Artikel/Jurnal Ilmiah
+
+2.	Referensi Website Penjualan
+
