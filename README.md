@@ -436,7 +436,21 @@ Website yang kami kembangkan memiliki beberapa kebutuhan yang berkaitan dengan k
 
 Persyaratan keamanan Swift Shop Website melibatkan enkripsi data, perlindungan data pelanggan, manajemen akses, pemantauan aktivitas, perlindungan aplikasi, dan kebijakan kata sandi kuat. Juga, perlindungan terhadap penipuan dan kecurangan, pemantauan ketersediaan, pemeliharaan rutin, serta pelatihan staff dalam praktik keamanan. Dengan ini, Swift Shop Website akan menjaga keamanan data dan kepercayaan pelanggan.
 
+4.3 Atribut Kualitas Perangkat Lunak
+
 ![tabel 2](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/92b1ced0-e563-451a-be1d-c3e98d8ccfed)
+
+5.4	Peraturan Bisnis
+
+Berikut beberapa aturan bisnis yang diterapkan dalam Swift Shop Website:
+
+1.	Kebijakan pengembalian dan harga yang jelas.
+2.	Privasi data pelanggan dan kualitas produk yang baik.
+3.	Layanan pelanggan yang responsif dan pengamanan transaksi.
+4.	Informasi produk yang lengkap dan pemantauan ketersediaan.
+5.	Kepatuhan hukum dan kredibilitas yang terpercaya.
+
+
 
 
 
