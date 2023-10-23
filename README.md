@@ -507,6 +507,11 @@ Appendix B: Analysis Models
    
 ![Class Diagram](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/627e811f-0569-4df5-b377-47962c56f64e)
 
+4.	Use Cae
+
+![Use Case](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/8a702ef6-80b0-48cb-b024-3fcab2fef7d8)
+
+
 
 
 
