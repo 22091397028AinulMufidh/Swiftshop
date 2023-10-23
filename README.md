@@ -1006,6 +1006,21 @@ Sebuah selector CSS yang mengatur tampilan elemen class slider-tab dan berada pa
 
 •	Perubahan animasi pada elemen terjadi 0,6 detik yang dimulai lambat berakhir cepat
 
+12.	/* Aturan CSS untuk input radio yang tersembunyi */
+    
+input[type="radio"]{
+
+  display: none;
+  
+}
+
+Sebuah selector CSS yang mengatur tampilan elemen input radio yang memiliki atribut type dengan nilai radio. Dengan ketentuan:
+
+•	Menyembunyikan input radio dan tidak akan terlihat oleh pengguna, tetapi digunakan pada pengolahan atau logika JavaScript
+
+
+
+
 
 
 
