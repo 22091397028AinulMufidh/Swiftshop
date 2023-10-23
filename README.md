@@ -1018,6 +1018,18 @@ Sebuah selector CSS yang mengatur tampilan elemen input radio yang memiliki atri
 
 •	Menyembunyikan input radio dan tidak akan terlihat oleh pengguna, tetapi digunakan pada pengolahan atau logika JavaScript
 
+13.	/* Aturan CSS tampilan elemen dengan class .slider-tab saat pilihan "signup" dicentang */
+    
+#signup:checked ~ .slider-tab {
+
+  left: 50%;
+  
+}
+
+Memberikan efek visual yang mengindikasikan pilihan yang dipilih. Dengan ketentuan:
+
+•	Elemen akan bergeser ke kiri sejauh 50% ketika pilihan signup dicentang
+
 
 
 
