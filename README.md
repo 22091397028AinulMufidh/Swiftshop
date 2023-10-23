@@ -550,31 +550,35 @@ c.	&lt;head&gt;
 Sebuah elemen kepala dari dokumen HTML yang berisikan informasi penting untuk pengaturan dan analisis halaman web sepeti tautan file ke CSS dan judul halaman. Yang berisikan:
 
 •	&lt;meta charset="UTF-8"&gt;
+
 Sebuah elemen untuk menentukan karakter set (encoding) dalam dokumen HTML. Deklarasi charset=”UTF-8” merupakan format encoding yang berguna agar halaman web mampu menampilkan teks dalam beragam bahasa dengan tepat.
 
 •	&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+
 Sebuah elemen meta untuk mengatur tampilan web dan konten pada halaman akan menyesuaikan dengan lebar perangkat, kemudian halaman web 1.0 yang artinya web akan ditampilkan pada ukuran aslinya tanpa perbesaran atau perkecilan.
 
 •	&lt;title>Membuat Form Login</title&gt;
+
 Sebuah elemen <tittle> untuk menetapkan judul yang akan ditampilkan pada tab peramban web yang membantu pengguna dan server lebih efektif saat mengenali isi dari halaman web dengan 
 
-•	link rel="stylesheet" href="./style.css"
+•	&lt;link rel="stylesheet" href="./style.css"&gt;
+
 Sebuah elemen <link> yang menghubungkan halaman web dengan file CSS eksternal, dengan penjelasan:
 -rel="stylesheet" : Membuktikan bahwa file yang dihubungkan merupakan file CSS untuk mengubah atau mengendalikan tampilan halaman web
 -href="./style.css": Menentukan lokasi atau URL dari file CSS eksternal untuk mengatur halaman tampilan halaman web sehingga “style.css” harus berada tepat dengan direktori yang sama dengan halaman web.
 
 
-d.	<body>
+d.	&lt;body&gt;
 
 Sebuah bagian yang memuat isi utama dari sebuah elemen web yang isinya akan muncul kepada pengguna ketika mengakses halaman web. Dengan ketentuan:
 
-•	<div class="wrapper">
+•	div class="wrapper"
 Sebuah elemen yang menggunakan atribut class dengan nilai “wrapper” yang mengelompokkan atau mengatur tata letak konten di dalamnya. 
-•	<div class="title-text">
+•	div class="title-text"
 Sebuah elemen yang merupakan turunan dari sebelumnya, berfungsi mengelompokkan teks-teks di dalamnya.
-•	<div class="title login">
+•	div class="title login"
 Berfungsi untuk memberikan judul “Form Login”
-•	<div class="title signup">
+•	div class="title signup"
 Berfungsi untuk memberikan judul “Form Registrasi”
 
 
