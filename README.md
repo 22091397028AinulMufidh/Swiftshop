@@ -235,7 +235,7 @@ Beberapa fungsi yang ada pada Swift Shop Website, antara lain :
 
 
 
-<h3>2.3	Penggolongan Karakteristik Pengguna<h3>
+2.3	Penggolongan Karakteristik Pengguna
 
 Tingkatan kelas dalam Swift Shop Website mengatur hak akses dan persyaratan berikut :
 
@@ -358,6 +358,15 @@ Dokumentasi pengguna pada Swift Shop Website harus mencakup panduan singkat tent
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
 2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
 3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman.
+   
+4.6	Integrasi Pembayaran dan Pengiriman
+
+ 4.6.1	Deskripsi dan Prioritas
+ 
+	Deskripsi: Integrasi dengan gateway pembayaran eksternal dan penyedia pengiriman akan tersedia.
+ 
+	Prioritas: Tinggi
+
 
 
 
