@@ -511,6 +511,12 @@ Appendix B: Analysis Models
 
 ![Use Case](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/8a702ef6-80b0-48cb-b024-3fcab2fef7d8)
 
+5.	Flowchart
+
+![Flowchart](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/5c65c5b9-78bb-42db-9083-bd3d9a1e85a9)
+
+
+
 
 
 
