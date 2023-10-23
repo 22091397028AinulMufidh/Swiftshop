@@ -1103,6 +1103,23 @@ Sebuah selector CSS yang mengatur tampilan elemen class .form-container dan bera
 
 •	Konten yang melebihi lebar akan disembunyikan
 
+19.	/* Aturan CSS untuk elemen dengan class .form-inner dalam .form-container */
+    
+.form-container .form-inner {
+
+  display: flex; 
+  
+  width: 200%; 
+  
+}
+
+Sebuah selector CSS yang mengatur tampilam elemen dengan class form-inner dan berada pada class .form-container. Dengan ketentuan:
+
+•	Isi diatur dengan tata letak yang fleksibel
+
+•	Lebar diatur dua kali lebih lebar dari aslinya
+
+
 
 
 
