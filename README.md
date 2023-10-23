@@ -536,6 +536,18 @@ LOGIN DAN SIGNUP
 
 Penjelasan HTML Login dan signup:
 
+a.	<!DOCTYPE html>
+
+Sebuah pernyataan yang mengidentifikasi bahwa pada halaman web ini menggunakan dokumen HTML yang paling terbaru
+
+b.	<html lang=”en”>
+
+Sebuah elemen akar/root dari dokumen HTML yang di dalamnya terdapat semua elemen HTML dan seluruh konten halaman web. Kemudian lang=”en yang menandakan bahwa isi web ini ditulis dengan bahasa inggris
+
+
+
+
+
 
 
 
