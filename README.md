@@ -144,3 +144,23 @@ Pengembang adalah tiga mahasiswa yang sedang menyelesaikan tugas membuat website
 1.3	Audien yang Dituju dan Pembaca yang Disarankan
 
 Swift Shop Website ditujukan bagi konsumen untuk berbelanja online, penjual untuk menjual produk, pengembang web untuk mengembangkan dan mengelola situs web, pengiriman dan logistik untuk mengirimkan produk, akuntansi dan keamanan pemroses pembayaran untuk transaksi online, pemasaran dan analis untuk mempromosikan dan menganalisis data juga sebagai pemerintah/regulator dan pemilik usaha/investor yang terlibat dalam pengelolaan dan pembiayaan usaha e-commerce.
+
+
+
+1.4	Ruang Lingkup Produk
+
+Lingkup pada Swift Shop Website dapat mencakup fitur berikut :
+
+1.	Katalog Produk.
+
+2.	Manajemen Akun.
+
+3.	Keranjang Belanja.
+
+4.	Manajemen Pesanan.
+
+5.	Pencarian dan Filter Produk.
+
+6.	Integrasi Pembayaran dan Pengiriman.
+
+7.	Manajemen Akun Pengguna.
