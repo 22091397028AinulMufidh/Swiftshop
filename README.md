@@ -1,8 +1,7 @@
 # Swiftshop
 
-Software Requirements Specification
-for
-SWIFT SHOP WEBSITE
+Software Requirements Specification for
+SWIFTSHOP WEBSITE E-COMMERCE
 
 Versi 1.0 Disetujui
 
