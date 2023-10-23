@@ -687,14 +687,19 @@ Sebuah tautan yang berfungsi membantu pengguna menuju halaman link. Dengan memil
 f.	&lt/form&gt;
 Sebuah penutup dari elemen formulir sebelumnya
 
-g.	   &lt/divgt;
+g.	   &lt;/divgt;
 
-  &lt/divgt;
+  &lt;/divgt;
   
-&lt/divgt;
+&lt;/divgt;
 
 Sebuah penutup tiga elemen &ltdivgt;
  yang setiap penutupnya mengakhiri satu tingkat wadah.
+
+ h.	 &lt;script src="./script.js"gt;&lt;/scriptgt;
+ 
+Sebuah bagian JavaScript yang berfungsi mengaitkan kemudian dapat menjalankan file script eksternal yang disebut “script.js” ke halaman web. 
+
 
 
 
