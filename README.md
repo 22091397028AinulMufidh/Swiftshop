@@ -402,6 +402,20 @@ Dokumentasi pengguna pada Swift Shop Website harus mencakup panduan singkat tent
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
 2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
 3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman.
+   
+3.8	Peran Pengguna
+
+3.8.1	Deskripsi dan Prioritas
+
+	Deskripsi: Ada peran pengguna seperti admin, pelanggan, dan penjual.
+ 
+	Prioritas: Sedang.
+ 
+3.8.2	Urutan Stimulus/Respon
+
+	Stimulus: Pengguna memilih peran (misalnya, pelanggan atau penjual) saat mendaftar.
+ 
+	Respon: Hak akses sesuai peran yang dipilih.
 
 
 
