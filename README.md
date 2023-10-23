@@ -656,6 +656,11 @@ Sebuah elemen input yang digunakan untuk mengirimkan formulir. Dengan memiliki a
 
 Sebuah elemen div yang berkaitan dengan “signup-link” dan digunakan sebagai opsi kepada pengguna yangbelum punya akun untuk mendaftar
 
+e.	&ltform&gt
+
+Sebuah elemen awal formulir yang digunakan untuk mengumpulkan data dari pengguna. Dengan ketentuan:
+
+
 
 
 
