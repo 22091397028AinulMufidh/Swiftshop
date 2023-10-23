@@ -503,6 +503,9 @@ Appendix B: Analysis Models
    
 ![ERD](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/af6f2eaf-141c-4c3d-b215-ec16059c89eb)
 
+3.	Class Diagram
+   
+![Class Diagram](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/627e811f-0569-4df5-b377-47962c56f64e)
 
 
 
