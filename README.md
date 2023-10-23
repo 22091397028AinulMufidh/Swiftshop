@@ -856,6 +856,21 @@ Sebuah selector CSS yang mengatur tampilan elemen clss tittle-text dan berada pa
   
   transition: all 0.6s cubic-bezier(0.68,-0.55,0.265,1.55);
 
+}
+
+Sebuah selector CSS yang mengatur elemen class title dalam wrapper. Dengan ketentuan:
+
+•	Lebar elemenmenjadi setengah dari lebar elemen wrapoer yang ada di sekitarnya
+
+•	Ukuran teks 35 piksel
+
+•	Ketebalan teks 600 
+
+•	Teks dalam title akan berada di tengah elemen
+
+•	Mengatur animasi bergerak selama 0,6 detik
+
+
 
 
 
