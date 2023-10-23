@@ -636,8 +636,17 @@ Sebuah elemen input teks yang bisa digunakan untuk menuliskan email yang wajib d
 
 Sebuah elemen input tipe sandi yang bisa digunakan untuk mengisi kata sandi yang wajib diisi sebelum mengirimkan formulir
 
+•	&lt;div class="pass-link"><a href="#">Lupa password?</a></div&gt;
 
+Sebuah elemen div yang berkaitan dengan “lupa password” dan digunakan apabila seseorang lupa kata sandi dan ingin meresetnya
 
+•	&lt;div class="field btn"&gt;
+
+Berfungsi untuk mengelompokkan tombol dalam formulir
+
+•	&lt;div class="btn-layer"></div&gt;
+
+Merupakan elemen kosong yang berfungsi untuk membuat efek visual/layer sehingga tombol terlibat lebih manarik
 
 
 
