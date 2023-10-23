@@ -1135,6 +1135,50 @@ Sebuah selector CSS yang mengatur tampilan elemen yang berada pada class form-in
 
 •	Efek transisi 0,6 detik dengan kurva waktu cubic-bezier
 
+21.	/* Aturan CSS untuk elemen .field dalam form */
+    
+.form-inner form .field {
+
+  height: 50px; 
+  
+  width: 100%; 
+  
+  margin-top: 20px; 
+  
+}
+
+Sebuah selector CSS yang mengatur tampilan elemen dengan class field dalam form. Dengan ketentuan:
+
+•	Tinggi 50 piksel
+•	Lebar 100% mengisi seluruh halaman web
+•	Margin jarak atas 20 piksel
+
+22.	/* Aturan CSS untuk elemen input dalam .field dalam form */
+    
+.form-inner form .field input {
+
+  height: 100%; 
+  
+  width: 100%; 
+  
+  outline: none; 
+  
+  padding-left: 15px;
+  
+  border-radius: 15px; 
+  
+  border: 1px solid lightgrey; 
+  
+  border-bottom-width: 2px; 
+  
+  font-size: 17px; 
+  
+  transition: all 0.3s ease; 
+  
+}
+
+
+
 
 
 
