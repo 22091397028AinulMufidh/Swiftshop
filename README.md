@@ -912,6 +912,33 @@ Sebuah selector CSS yang mengatur tampilan elemen HTML class slide-controls dan 
 
 •	Sudut bulat elemen ukuran jari-jari 15 piksel
 
+9.	/* Aturan CSS untuk elemen dengan kelas "slide" dalam "slide-controls" */
+    
+.slide-controls .slide{
+
+  height: 100%;
+  
+  width: 100%;
+  
+  color: #fff;
+  
+  font-size: 18px;
+  
+  font-weight: 500;
+  
+  text-align: center;
+  
+  line-height: 48px;
+  
+  cursor: pointer;
+  
+  z-index: 1;
+  
+  transition: all 0.6s ease;
+  
+}
+
+
 
 
 
