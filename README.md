@@ -668,6 +668,14 @@ Berisikan atribut action yang menandakan URL atau alamat tujuan yang akan meneri
 
 Berfungsi untuk mengumpulkan elemen input ke dalam field sehingga tampilan formulir terlihat lebih rapi dan teratur
 
+•	&lt;input type="text" placeholder="Masukan Nama" required&gt;
+
+Sebuah elemen dengan tipe teks yang berarti pengguna wajib memasukkan teks. Dengan menggunakan atribut “placeholder” akan memunculkan pesan yang muncul di kotak sebelum pengguna memasukkan informasi. Dan menggunakan atribut “required” yang berarti wajib diisi sebelum mengirimkan formulir
+
+•	&lt;div class="field btn"&gt;
+
+Berfungsi untuk mengumpulkan tombol pendaftaran ke dalam field terpisah, sehingga dapat diubah tampilannya melalui CSS
+
 
 
 
