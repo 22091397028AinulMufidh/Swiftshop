@@ -359,13 +359,32 @@ Dokumentasi pengguna pada Swift Shop Website harus mencakup panduan singkat tent
 2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
 3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman.
    
-4.6	Integrasi Pembayaran dan Pengiriman
+3.6	Integrasi Pembayaran dan Pengiriman
 
- 4.6.1	Deskripsi dan Prioritas
+3.6.1	Deskripsi dan Prioritas
  
 	Deskripsi: Integrasi dengan gateway pembayaran eksternal dan penyedia pengiriman akan tersedia.
  
 	Prioritas: Tinggi
+ 
+ Urutan Stimulus/Respon
+ 
+	Stimulus: Pengguna memilih opsi pembayaran.
+ 
+	Respon: Pilihan pembayaran dan pengisian detail pembayaran.
+ 
+	Stimulus: Pengguna memilih opsi pengiriman.
+ 
+	Respon: Pilihan pengiriman dan estimasi biaya.
+ 
+3.6.3	Persyaratan Fungsional
+
+1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
+2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
+3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman.
+
+
+
 
 
 
