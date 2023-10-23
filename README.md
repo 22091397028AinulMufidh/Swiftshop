@@ -1249,6 +1249,21 @@ Sebuah selector CSS yang mengatur tampilan elemen dengan class .pass-link. Denga
 
 •	Margin atas berjarak 5 piksel
 
+27.	/* Aturan CSS untuk elemen dengan class .signup-link */
+    
+.form-inner form .signup-link {
+
+  text-align: center; 
+  
+  margin-top: 30px; 
+  
+}
+
+Sebuah selector CSS yang mengatur tampilan elemen dengan class .signup-link. Dengan ketentuan:
+
+•	Teks berada di pusat tengah horizontal
+
+•	Margin atas berjarak 30 piksel
 
 
 
