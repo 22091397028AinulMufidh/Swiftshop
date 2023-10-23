@@ -1283,6 +1283,21 @@ Sebuah selector CSS yang mengatur tampilan tautan pada elemen class .pass-link d
 
 •	Dekorasi tautan seperti garis bawah akan dihapus
 
+29.	/* Aturan CSS untuk tautan saat  (hover) dalam elemen dengan class .pass-link dan .signup-link */
+    
+.form-inner form .pass-link a:hover,
+
+.form-inner form .signup-link a:hover {
+
+  text-decoration: underline; 
+  
+}
+
+Sebuah selector CSS yang mengatur tautan saat ditahan atau hover pada elemen class. Dengan ketentuan:
+
+
+
+
 
 
 
