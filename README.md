@@ -1087,6 +1087,23 @@ Sebuah selector CSS yang mengubah tampilan label class login ketika pengguna mem
 
 •	Mencegah pemilihan teks oleh pengguna
 
+18.	/* Aturan CSS untuk elemen dengan class “.form-container” dalam “wrapper” */
+    
+.wrapper .form-container {
+
+  width: 100%; 
+  
+  overflow: hidden; 
+  
+}
+
+Sebuah selector CSS yang mengatur tampilan elemen class .form-container dan berada pada class wrapper. Dengan ketentuan:
+
+•	Lebar menjadi 100%
+
+•	Konten yang melebihi lebar akan disembunyikan
+
+
 
 
 
