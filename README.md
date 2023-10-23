@@ -1345,6 +1345,19 @@ form .btn .btn-layer {
   
 }
 
+32.	/* Aturan CSS untuk tombol input submit */
+    
+form .btn:hover .btn-layer {
+
+  left: 0; 
+  
+}
+
+Sebuah selector CSS yang mengatur tampilan lapisan tombol saat dihover. Dengan ketentuan:
+
+•	Lapisan bergeser ke posisi awal yaitu ke kiri saat tombol dihover
+
+
 
 
 
