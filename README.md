@@ -416,6 +416,13 @@ Dokumentasi pengguna pada Swift Shop Website harus mencakup panduan singkat tent
 	Stimulus: Pengguna memilih peran (misalnya, pelanggan atau penjual) saat mendaftar.
  
 	Respon: Hak akses sesuai peran yang dipilih.
+ 
+4.8.3 Persyaratan Fungsional
+1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
+2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
+3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman
+
+
 
 
 
