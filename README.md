@@ -1031,6 +1031,7 @@ Memberikan efek visual yang mengindikasikan pilihan yang dipilih. Dengan ketentu
 •	Elemen akan bergeser ke kiri sejauh 50% ketika pilihan signup dicentang
 
 14.	/* Aturan CSS tampilan label dengan class .signup saat pilihan "signup" dicentang */
+    
 #signup:checked ~ label.signup {
 
   color: #fff; 
@@ -1057,6 +1058,21 @@ Mengubah tampilan label class signup ketika dicentang. Dengan ketentuan:
 Sebuah selector CSS yang merubah tampilan label class login ketika pilihan signup dicentang. Dengan ketentuan:
 
 •	Warna teks hitam
+
+/* Aturan tampilan label dengan class .signup saat pilihan "login" dicentang */
+
+#login:checked ~ label.signup {
+
+  color: #000; 
+  
+}
+
+Sebuah selector CSS yang merubah tampilan label signup ketika pengguna memilih opsi login. Dengan ketentuan:
+
+•	Warna teks hitam
+
+
+
 
 
 
