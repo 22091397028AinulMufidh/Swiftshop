@@ -967,6 +967,28 @@ Sebuah selector CSS mengatur tampilan elemen label dengan kelas signup dan terle
 
 •	Teks menggunakan warna hitam
 
+11.	/* Aturan CSS untuk elemen dengan kelas "slider-tab" dalam "slide-controls" */
+.slide-controls .slider-tab{
+
+  position: absolute;
+  
+  height: 100%;
+  
+  width: 50%;
+  
+  left: 0;
+  
+  z-index: 0;
+  
+  border-radius: 15px;
+  
+  background: -webkit-linear-gradient(left,#f6e3b4,#eccd89,#f6b375, #f07706);
+  
+  transition: all 0.6s cubic-bezier(0.68,-0.55,0.265,1.55);
+  
+}
+
+
 
 
 
