@@ -450,7 +450,7 @@ Berikut beberapa aturan bisnis yang diterapkan dalam Swift Shop Website:
 4.	Informasi produk yang lengkap dan pemantauan ketersediaan.
 5.	Kepatuhan hukum dan kredibilitas yang terpercaya.
 
-6.	Persyaratan Lainnya
+5.	Persyaratan Lainnya
    
 1.	Persyaratan Basis Data
    
@@ -459,6 +459,17 @@ Mencakup persyaratan yang berkaitan dengan cara data disimpan, diakses dan dikel
 -	Struktur Basis Data: Mencakup pengelolaan data produk, pelanggan, stok, harga dan transaksi disimpan di dalamnya.
 -	Keamanan Basis Data: Mencakup pengelolaan perlindungan informasi pelanggan dan transaksi.
 -	Integritas Basis Data: Mencakup pengelolaan sistem yang berinteraksi dengan data seperti melakukan pembaruan data ketika pembelian dilakukan.
+  
+2.	Persyaratan Internalisasi
+   
+Dukungan bahasa pada Swift Shop Website memprioritaskan pada penggunaan bahasa Indonesia dan juga bahasa Inggris. Terdapat rencana untuk menambahkan beberapa bahasa agar dapat diakses oleh berbagai negara. Harga produk dalam Swift Shop juga dapat diubah menjadi mata uang lokal tiap pengguna dan kemungkinan dapat melakukan pengiriman ke berbagai negara dengan biaya pengiriman yang telah ditentukan.
+
+
+
+  
+
+
+
 
 
 
