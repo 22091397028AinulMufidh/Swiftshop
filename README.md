@@ -588,6 +588,20 @@ Berfungsi untuk memberikan judul “Form Login”
 
 Berfungsi untuk memberikan judul “Form Registrasi”
 
+•	&lt;div class="form-container"&gt;
+
+Berfungsi untuk mengelompokkan elemen-elemen yang ada dalam formulir
+
+•	&lt;div class="slide-controls"&gt;
+
+Berfungsi untuk mengumpulkan elemen yang berhubungan dengan tombol Login dan Daftar
+ 
+•	&lt;input type="radio" name="slide" id="login" checked&gt;
+
+Sebuah elemen input dengan dua atribut yairu “name” dengan nilai “slide” dan “id” 
+
+
+
 
 
 
