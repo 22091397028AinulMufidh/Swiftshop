@@ -572,13 +572,20 @@ d.	&lt;body&gt;
 
 Sebuah bagian yang memuat isi utama dari sebuah elemen web yang isinya akan muncul kepada pengguna ketika mengakses halaman web. Dengan ketentuan:
 
-•	div class="wrapper"
+•	&lt;div class="wrapper"&gt;
+
 Sebuah elemen yang menggunakan atribut class dengan nilai “wrapper” yang mengelompokkan atau mengatur tata letak konten di dalamnya. 
-•	div class="title-text"
+
+•	&lt;div class="title-text"&gt;
+
 Sebuah elemen yang merupakan turunan dari sebelumnya, berfungsi mengelompokkan teks-teks di dalamnya.
-•	div class="title login"
+
+•	&lt;div class="title login"&gt;
+
 Berfungsi untuk memberikan judul “Form Login”
-•	div class="title signup"
+
+•	&lt;div class="title signup"&gt;
+
 Berfungsi untuk memberikan judul “Form Registrasi”
 
 
