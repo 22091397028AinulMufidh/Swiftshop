@@ -1237,6 +1237,19 @@ Sebuah selector CSS yang mengatur tampilan teks petunjuk saat input pada mode fo
 
 •	Warna teks biru saat input mode fokus
 
+26.	/* Aturan CSS elemen class .pass-link */
+    
+.form-inner form .pass-link {
+
+  margin-top: 5px; 
+  
+}
+
+Sebuah selector CSS yang mengatur tampilan elemen dengan class .pass-link. Dengan ketentuan:
+
+•	Margin atas berjarak 5 piksel
+
+
 
 
 
