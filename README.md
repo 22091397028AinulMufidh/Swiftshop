@@ -826,6 +826,21 @@ Sebuah selector CSS yang menentukan gaya yang akan diterapkan pada elemen-elemen
 
 •	Penurunan bayangan -10 piksel
 
+6.	/* Aturan CSS untuk elemen dengan kelas "title-text" dalam "wrapper" */
+   
+.wrapper .title-text{
+
+  display: flex;
+  
+  width: 200%;
+  
+}
+
+Sebuah selector CSS yang mengatur tampilan elemen clss tittle-text dan berada pada class wrapper. Dengan ketentuan:
+
+•	Mengendalikan penataan dan mengatur posisinya lebih flexible
+
+•	Lebar elemen menjadi 2x lipat lebih lebar dari biasanya
 
 
 
