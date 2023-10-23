@@ -1325,6 +1325,26 @@ Sebuah selector CSS yang mengatur tampilan elemen pada class.btn. Dengan ketentu
 
 •	Konten yang melebihi elemen akan disembunyikan
 
+31.	/* Aturan CSS untuk lapisan (layer) tombol */
+    
+form .btn .btn-layer {
+
+  height: 100%; 
+  
+  width: 300%; 
+  
+  position: absolute; 
+  
+  left: -100%; 
+  
+  background: -webkit-linear-gradient(right, #f6e3b4, #eccd89, #f6b375, #f07706); 
+  
+  border-radius: 15px; 
+  
+  transition: all 0.4s ease; 
+  
+}
+
 
 
 
