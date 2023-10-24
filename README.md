@@ -17,17 +17,17 @@ Kelompok 4 PEMWEB Manajemen Informatika A
 <p>Ainul Mufidh - 22091397028</p>
 
 
-<h4>D4 Manajemen Informatika
+<h3>D4 Manajemen Informatika
 
 Fakultas Vokasi
 
-Universitas Negeri Surabaya 2023</h4>
+Universitas Negeri Surabaya 2023</h3>
 </div>
 
 
-<h2>## Daftar Isi</h2>
+<h2>Daftar Isi</h2>
 
-<h3>1.	-[Pendahuluan](#Pendahuluan)</h3>
+<h3>1.	Pendahuluan</h3>
 
 1.1	Tujuan Penulisan Dokumen
 
@@ -100,7 +100,7 @@ Appendix B: Analysis Models
 Appendix C: To Be Determined List
 
 
-<h2>1. ## Pendahuluan</h2>
+<h2>1. Pendahuluan</h2>
 
 <h3>1.1	Tujuan Penulisan Dokumen</h3>
 <div align="justify">
