@@ -1996,3 +1996,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 10. Event Listener untuk Navigasi Kategori: Event listener ini mengatur penggunaan kategori tertentu dengan mengklik elemen <h2> yang mewakili kategori.
 
 11. initApp Function: Ini adalah fungsi yang menginisialisasi aplikasi dengan menambahkan produk ke daftar. Setiap produk direpresentasikan sebagai elemen <div> dalam daftar dengan tombol "Add to Cart".
+
+12. Panggilan initApp Function: Di akhir kode, fungsi initApp dipanggil untuk memulai aplikasi dengan menambahkan produk ke daftar awal.
