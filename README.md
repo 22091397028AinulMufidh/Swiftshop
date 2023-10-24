@@ -1599,3 +1599,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 16. .text: Ini mengatur tampilan teks informasi dalam elemen dengan kelas "box."
 
 17. .text h3: Ini mengatur tampilan judul informasi dalam elemen dengan kelas "box."
+
+18. .contactForm: Ini adalah selector untuk elemen dengan kelas "contactForm." Ini mengatur tampilan formulir kontak.
