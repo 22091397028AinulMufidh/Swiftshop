@@ -1759,3 +1759,15 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
    • margin-top: 50px memberikan margin atas sebesar 50px.
 
    • padding: 0 20px memberikan padding 0px di atas dan bawah, dan 20px di sisi kiri dan kanan daftar produk.
+
+7. Gaya Judul Kategori:
+
+   • Ini adalah aturan CSS yang mengatur tampilan judul kategori dalam daftar produk.
+
+   • grid-column: span 3 membuat judul kategori menjangkau semua tiga kolom.
+
+   • text-align: center memposisikan teks judul di tengah.
+
+   • margin: 20px 0 memberikan margin atas 20px dan margin bawah 0.
+
+   • font-size: 1.5rem mengatur ukuran font judul kategori menjadi 1.5 rem.
