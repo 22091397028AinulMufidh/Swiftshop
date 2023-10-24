@@ -945,8 +945,8 @@ Bintang pada Produk:
 - text-align: justify;: Mengatur teks dalam elemen tersebut menjadi rata kanan dan kiri (justifikasi).
   
 section h3 Selector:
-- font-size: 35px;: Mengatur ukuran font teks untuk elemen <h3> yang berada dalam elemen <section> menjadi 35 piksel.
-- color: #ffa500;: Mengatur warna teks untuk elemen <h3> menjadi oranye (kode warna: #ffa500).
+- font-size: 35px;: Mengatur ukuran font teks untuk elemen h3 yang berada dalam elemen <section> menjadi 35 piksel.
+- color: #ffa500;: Mengatur warna teks untuk elemen h3 menjadi oranye (kode warna: #ffa500).
 
 section #deskripsi Selector:
 - font-size: 16px;: Mengatur ukuran font teks untuk elemen dengan ID deskripsi yang berada dalam elemen <section> menjadi 16 piksel.
@@ -959,6 +959,67 @@ section .image-promotion img Selector:
 - float: right;: Mengatur gambar yang berada dalam elemen dengan kelas .image-promotion untuk mengapung ke kanan.
 - width: 85%;: Mengatur lebar gambar promosi menjadi 85% dari lebar elemen yang mengandungnya.
 
+
+<h3>Konten promosi about</h3>
+
+.about Selector:
+- margin-top: 50px;: Menambahkan margin atas sebesar 50 piksel ke elemen dengan kelas .about.
+  
+.about .row Selector:
+- display: flex;: Mengubah elemen dengan kelas .row menjadi wadah flex untuk mengatur elemen-elemen anaknya.
+- flex-wrap: wrap;: Memungkinkan elemen-elemen anak dalam .row untuk melilit saat mencapai batas lebar wadah.
+- gap: 1.5rem;: Menambahkan jarak sebesar 1.5 rem antara elemen-elemen anak.
+- align-items: center;: Memastikan elemen-elemen anak selaras secara vertikal.
+  
+.about .row .image Selector:
+- flex: 1 1 45rem;: Mengatur elemen dengan kelas .image agar memiliki fleksibilitas, dengan basis ukuran awal 45rem (rem adalah unit yang bergantung pada ukuran font).
+  
+.about .row .image img Selector:
+- width: 80%;: Mengatur lebar gambar yang ada dalam elemen .image menjadi 80% dari lebar elemen yang mengandungnya.
+  
+.about .row .content Selector:
+- flex: 1 1 45rem;: Mengatur elemen dengan kelas .content agar memiliki fleksibilitas, dengan basis ukuran awal 45rem.
+  
+.about .row .content h3 Selector:
+- color: #192a56;: Mengatur warna teks judul h3 menjadi biru tua (#192a56).
+- font-size: 3rem;: Mengatur ukuran font teks h3 menjadi 3 rem (unit relatif terhadap ukuran font root).
+  
+.about .row .content p Selector:
+- color: #666;: Mengatur warna teks deskripsi menjadi abu-abu tua (#666).
+- font-size: 1.5rem;: Mengatur ukuran font teks deskripsi menjadi 1.5 rem.
+- line-height: 2;: Mengatur tinggi baris (line-height) menjadi dua kali ukuran font teks.
+  
+.about .row .content .icons-container Selector:
+- display: flex;: Mengubah elemen dengan kelas .icons-container menjadi wadah flex.
+- gap: 1rem;: Menambahkan jarak sebesar 1 rem antara elemen-elemen anak.
+- flex-wrap: wrap;: Memungkinkan elemen anak melilit saat mencapai batas lebar wadah.
+- padding: 1rem 0;: Menambahkan padding 1 rem pada bagian atas dan bawah.
+- margin-top: 0.5rem;: Menambahkan margin atas sebesar 0.5 rem.
+  
+.about .row .content .icons-container .icons:hover Selector:
+- border: .1rem solid #ffa500;: Ketika elemen .icons dihover, menambahkan garis tepi (border) sebesar 0.1 rem dengan warna oranye (#ffa500).
+  
+.about .row .content .icons-container .icons Selector:
+- background: #fff;: Mengatur latar belakang elemen .icons menjadi putih (#fff).
+- border-radius: .5rem;: Membulatkan sudut elemen .icons dengan radius border 0.5 rem.
+- border: .1rem solid rgba(0,0,0,.2);: Menambahkan border sebesar 0.1 rem dengan warna dan transparansi tertentu.
+- display: flex;: Mengubah elemen .icons menjadi wadah flex.
+- align-items: center;: Memastikan elemen-elemen anak dalam .icons selaras secara vertikal.
+- justify-content: center;: Memastikan elemen-elemen anak dalam .icons selaras secara horizontal.
+- gap: 1rem;: Menambahkan jarak sebesar 1 rem antara elemen-elemen anak.
+- flex: 1 1 17rem;: Mengatur elemen .icons agar memiliki fleksibilitas, dengan basis ukuran awal 17rem.
+- padding: 1.5rem 1rem;: Menambahkan padding sebesar 1.5 rem pada bagian atas dan bawah serta 1 rem pada sisi kiri dan kanan.
+  
+.about .row .content .icons-container .icons i Selector:
+- font-size: 2.5rem;: Mengatur ukuran font ikon (misalnya ikon Font Awesome) menjadi 2.5 rem.
+- color: #ffa600fa;: Mengatur warna ikon menjadi oranye muda semi-transparan (#ffa600fa).
+  
+.about .row .content .icons-container .icons span Selector:
+- font-size: 1.5rem;: Mengatur ukuran font teks yang berada dalam elemen <span> menjadi 1.5 rem.
+- color: #192a56;: Mengatur warna teks menjadi biru tua (#192a56).
+  
+#btn-about Selector:
+- margin-left: -2px;: Menambahkan margin kiri sebesar -2 piksel ke elemen dengan ID btn-about.
 
 
 <h2>LOGIN DAN SIGNUP</h2>
