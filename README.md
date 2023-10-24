@@ -1827,3 +1827,9 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
     • text-overflow: ellipsis mengatur teks yang melebihi ukuran untuk memotong dan menampilkan elipsis.
 
     • font-size: 1rem mengatur ukuran font judul produk menjadi 1 rem.
+
+11. Gaya Harga Produk:
+
+    • Ini adalah aturan CSS yang mengatur tampilan harga produk dalam setiap item.
+
+    • margin: 0 0 10px memberikan margin 0px di atas dan samping, dan 10px di bawah harga.
