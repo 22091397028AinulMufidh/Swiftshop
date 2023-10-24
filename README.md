@@ -547,11 +547,11 @@ Pada Swift Shop Website terdapat beberapa hal yang masih perlu diperjelas dan di
 9.	Pemasaran dan Peluncuran: Strategi pemasaran dan pengukuran kesuksesan peluncuran.
 10.	Peraturan dan Kepatuhan Hukum: Pematuhan terhadap regulasi dan hukum yang berlaku, seperti privasi data dan perpajakan e-commerce.
 
-PENJELASAN CODINGAN:
+<h1>PENJELASAN CODINGAN:</h1>
 
-LOGIN DAN SIGNUP
+<h2>LOGIN DAN SIGNUP</h2>
 
-Penjelasan HTML Login dan signup:
+<h3>Penjelasan HTML Login dan signup:</h3>
 
 a.	&lt;!DOCTYPE html&gt;
 
@@ -726,7 +726,7 @@ j. 	&lt;/html&gt;
 Sebuah elemen penutup untuk seluruh dokumen html dan halaman web
 
 
-Penjelasan CSS Login dan Signup
+<h3>Penjelasan CSS Login dan Signup</h3>
 
 1.	Mengimpor huruf poppins
 
@@ -1430,7 +1430,7 @@ Sebuah selector CSS yang mengatur tampilan tombol input submit. Dengan ketentuan
 
 •	Kursor diubah menjadi tanda panah ketika diarahkan
 
-Penjelasan JS Login dan Signup
+<h3>Penjelasan JS Login dan Signup</h3>
 
 a.	Pemilihan Elemen HTML
 
