@@ -1147,6 +1147,38 @@ section .image-promotion img Selector:
 - border: 0.5px solid rgb(226, 226, 226); Mengatur elemen hr dengan ketebalan 0.5 piksel dan warna border yang sesuai.
 
 
+<h3>Logo Social Media</h3>
+
+.social-media Selector:
+- display: flex;: Mengatur elemen dengan kelas .social-media sebagai kontainer flexbox, yang akan memudahkan penataan elemen-elemen anak di dalamnya secara horisontal.
+- text-align: center;: Mengatur teks dalam elemen dengan kelas .social-media menjadi rata tengah.
+- margin-left: 100px;: Menambahkan margin kiri sebesar 100 piksel pada elemen dengan kelas .social-media.
+- float: right;: Mengatur elemen tersebut agar mengapung ke kanan. Namun, ini mungkin tidak diperlukan jika Anda sudah menggunakan flexbox.
+
+.social-media h3 Selector:
+- font-size: 2rem;: Mengatur ukuran font untuk teks judul (h3) menjadi 2 rem.
+- color: #192a56;: Mengatur warna teks judul menjadi biru tua (#192a56).
+
+.social-media img Selector:
+- width: 30px;: Mengatur lebar gambar menjadi 30 piksel.
+- margin-top: 10px;: Menambahkan margin atas sebesar 10 piksel pada gambar.
+- margin-left: 2px;: Menambahkan margin kiri sebesar 2 piksel pada gambar.
+
+.social-media img:hover Selector:
+- border: 2px solid #ffa500;: Ketika gambar dihover, menambahkan border dengan ketebalan 2 piksel dan warna oranye (#ffa500).
+- border-radius: 50%;: Membulatkan sudut gambar dengan radius border setengah lingkaran.
+- color: #ffa500;: Mengatur warna teks gambar menjadi oranye (#ffa500).
+
+@media (max-width:991px):
+
+html{ font-size: 55%; }: Mengatur ukuran font menjadi 55% dari ukuran default saat lebar layar maksimum mencapai 991 piksel.
+header{ padding: 1rem 2rem; }: Mengatur padding pada elemen header menjadi 1 rem pada bagian atas dan bawah serta 2 rem pada sisi kiri dan kanan.
+@media (max-width:768px):
+
+header .icons #menu-bars{ display: inline-block; }: Mengubah tampilan menu-bars menjadi inline-block saat lebar layar maksimum mencapai 768 piksel.
+header .navbar{ ... }: Menetapkan gaya untuk elemen dengan kelas .navbar ketika lebar layar maksimum mencapai 768 piksel. Ini termasuk menetapkan posisi absolut, mengatur warna latar belakang, dan menambahkan batas atas dan bawah.
+header .navbar a{ ... }: Menetapkan gaya untuk tautan dalam elemen dengan kelas .navbar ketika lebar layar maksimum mencapai 768 piksel. Ini termasuk menetapkan tampilan blok, padding, ukuran font, dan warna latar belakang.
+
 
 <h2>LOGIN DAN SIGNUP</h2>
 
