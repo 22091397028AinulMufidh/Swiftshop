@@ -673,23 +673,23 @@ Elemen ini terdapat beberpa bagian dari halaman beranda (home) dalam situs web A
 
 &lt;img src="./assets/smarphone.png" alt=""&gt; Ini adalah elemen gambar &lt;img&gt; yang menampilkan gambar smartphone dengan atribut src yang mengarah ke berkas "smartphone.png" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif jika gambar tidak dapat ditampilkan.
 
-<div class="content"> Ini adalah div yang berisi konten berisi informasi tentang smartphone.
+&lt;div class="content"&gt; div yang berisi konten berisi informasi tentang smartphone.
 
-<h3>best smartphone in the country</h3> Ini adalah subjudul yang menjelaskan bahwa smartphone yang ditawarkan adalah yang terbaik di negara.
+&lt;h3>best smartphone in the country</h3&gt; Ini adalah subjudul yang menjelaskan bahwa smartphone yang ditawarkan adalah yang terbaik di negara.
 
-<p>Xiaomi 12T 5G hadir dengan kinerja gahar serta kamera yang tak kalah tajam... Core).</p> Ini adalah paragraf yang memberikan deskripsi tentang produk, dalam hal ini, spesifikasinya.
+&lt;p>Xiaomi 12T 5G hadir dengan kinerja gahar serta kamera yang tak kalah tajam... Core).</p&gt; Ini adalah paragraf yang memberikan deskripsi tentang produk, dalam hal ini, spesifikasinya.
 
-<div class="icons-container"> Ini adalah div yang digunakan untuk mengelompokkan ikon-ikon dan teks yang menjelaskan poin-poin penting.
+&lt;div class="icons-container"&gt; div yang digunakan untuk mengelompokkan ikon-ikon dan teks yang menjelaskan poin-poin penting.
 
-<div class="icons"> Ini adalah div yang berisi satu set ikon dan teks yang menjelaskan poin penting.
+&lt;div class="icons"&gt; div yang berisi satu set ikon dan teks yang menjelaskan poin penting.
 
-<i class="fas fa-shipping-fast"></i> Ini adalah elemen ikon dari Font Awesome yang menunjukkan pengiriman cepat.
+&lt;i class="fas fa-shipping-fast"></i&gt; Ini adalah elemen ikon dari Font Awesome yang menunjukkan pengiriman cepat.
 
-<span>free delivery</span> Ini adalah teks yang menjelaskan bahwa pengiriman gratis.
+&lt;span>free delivery</span&gt; Ini adalah teks yang menjelaskan bahwa pengiriman gratis.
 
 Ini diikuti oleh dua div lainnya dengan ikon dan teks yang menjelaskan poin-poin seperti pembayaran mudah dan layanan 24/7.
 
-<a href="login.html" class="btn" id="btn-about">learn more</a> merupakan elemen anchor yang menghubungkan ke halaman "login.html" dan menampilkan tombol dengan teks "learn more" (pelajari lebih lanjut). Atribut class "btn" digunakan untuk mengatur tampilan tombol, dan atribut id "btn-about" digunakan untuk mengatur tampilan tobol secara unik.
+&lt;a href="login.html" class="btn" id="btn-about">learn more</a&gt; merupakan elemen anchor yang menghubungkan ke halaman "login.html" dan menampilkan tombol dengan teks "learn more". Atribut class "btn" digunakan untuk mengatur tampilan tombol, dan atribut id "btn-about" digunakan untuk mengatur tampilan tobol secara unik.
 
 
 
