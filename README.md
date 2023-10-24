@@ -567,13 +567,13 @@ Pada Swift Shop Website terdapat beberapa hal yang masih perlu diperjelas dan di
 
 &lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"&gt; Ini adalah tautan ke sebuah berkas CSS eksternal yang disediakan oleh Font Awesome melalui CDN Cloudflare. Font Awesome adalah kumpulan ikon yang dapat digunakan dalam desain web.
 
-*lt;link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css"&gt; Ini adalah tautan ke berkas CSS eksternal yang disediakan oleh Boxicons melalui unpkg CDN. Boxicons juga adalah koleksi ikon yang dapat digunakan dalam desain web.
+&lt;link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css"&gt; Ini adalah tautan ke berkas CSS eksternal yang disediakan oleh Boxicons melalui unpkg CDN. Boxicons juga adalah koleksi ikon yang dapat digunakan dalam desain web.
 
 &lt;link rel="stylesheet" href="style.css"&gt; tautan ke berkas CSS lokal yaitu "style.css." Berkas CSS ini harus ada di direktori yang sama dengan file HTML yang akan digunakan untuk mengatur tampilan dan gaya visual halaman web.
 
-<link rel="stylesheet" href="cards.css">: Ini adalah tautan ke berkas CSS lokal lainnya bernama "cards.css." Sama seperti sebelumnya, berkas CSS ini juga harus ada di direktori yang sama dengan file HTML dan digunakan untuk mengatur tampilan khusus pada elemen kartu (cards) pada menu product yang menampilkan sebuah produk agar terlihat lebih rapi dan terstruktrur.
+&lt;link rel="stylesheet" href="cards.css"&gt; Ini adalah tautan ke berkas CSS lokal lainnya bernama "cards.css." Sama seperti sebelumnya, berkas CSS ini juga harus ada di direktori yang sama dengan file HTML dan digunakan untuk mengatur tampilan khusus pada elemen kartu (cards) pada menu product yang menampilkan sebuah produk agar terlihat lebih rapi dan terstruktrur.
 
-<title>Home</title>: Elemen ini mengatur judul halaman web. Judul ini akan ditampilkan di bilah judul browser atau tab, serta digunakan ketika pengguna menyimpan halaman Anda sebagai bookmark atau berbagi tautan di media sosial.
+&lt;title>Home</title&gt; Elemen ini mengatur judul halaman web. Judul ini akan ditampilkan di bilah judul browser atau tab, serta digunakan ketika pengguna menyimpan halaman Anda sebagai bookmark atau berbagi tautan di media sosial.
 
 
 
