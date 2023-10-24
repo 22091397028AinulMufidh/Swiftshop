@@ -1975,6 +1975,8 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
 <h3>PENJELASAN JAVA SCRIPT CHECKOUT</h3>
 
+<div align="justify">
+
 1. Inisialisasi Variabel: Kode pertama adalah untuk menginisialisasi sejumlah variabel yang digunakan dalam aplikasi, seperti elemen-elemen DOM (Document Object Model) dan array products yang berisi informasi produk.
 
 2. Event Listener: Dua event listener ditambahkan untuk mengontrol tampilan keranjang belanja. Ketika elemen dengan kelas .shopping diklik, kelas CSS 'active' ditambahkan ke elemen <body>, sehingga menampilkan keranjang belanja. Ketika elemen dengan kelas .closeShopping diklik, kelas 'active' dihapus, menyembunyikan keranjang belanja.
@@ -1998,3 +2000,4 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 11. initApp Function: Ini adalah fungsi yang menginisialisasi aplikasi dengan menambahkan produk ke daftar. Setiap produk direpresentasikan sebagai elemen <div> dalam daftar dengan tombol "Add to Cart".
 
 12. Panggilan initApp Function: Di akhir kode, fungsi initApp dipanggil untuk memulai aplikasi dengan menambahkan produk ke daftar awal.
+</div>
