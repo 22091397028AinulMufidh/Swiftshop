@@ -586,13 +586,13 @@ Selanjutnya yaitu &lt;body&gt;, dalam dokumen HTML elemen body biasanya berisi e
 
 &lt;nav class="navbar"&gt; Ini adalah elemen <nav> yang digunakan untuk mengelompokkan elemen-elemen menu navigasi.
 
-<a class="active" href="index.html">Home</a>: Ini adalah elemen anchor yang menghubungkan ke halaman "index.html" dan disertai dengan atribut class="active", yang biasanya digunakan untuk menandai halaman saat berada di sebuah halaman web..
+&lt;a class="active" href="index.html">Home</a&gt; elemen anchor yang menghubungkan ke halaman "index.html" dan disertai dengan atribut class="active", yang biasanya digunakan untuk menandai halaman saat berada di sebuah halaman web..
 
-&lt;a class="navbar-dropdown" href="">Products</a&gt; Ini adalah elemen anchor untuk menu "Products.
+&lt;a class="navbar-dropdown" href="">Products</a&gt; elemen anchor untuk menu "Products.
 
-&lt;ul class="dropdown"&gt; Ini adalah elemen daftar tak berurutan (unordered list) yang digunakan untuk membuat submenu.
+&lt;ul class="dropdown"&gt; elemen daftar tak berurutan (unordered list) yang digunakan untuk membuat submenu.
 
-&lt;li><a href="smartphone.html">Smartphone</a></li&gt; Ini adalah elemen daftar dengan tautan ke halaman "smartphone.html." Ini adalah salah satu opsi dalam submenu "Products." Anda dapat menambahkan lebih banyak elemen daftar untuk produk lainnya.
+&lt;li>&lt;a href="smartphone.html">Smartphone</a&gt;</li&gt; Ini adalah elemen daftar dengan tautan ke halaman "smartphone.html." Ini adalah salah satu opsi dalam submenu "Products." Anda dapat menambahkan lebih banyak elemen daftar untuk produk lainnya.
 
 &lt;a href="service.html">Services</a&gt; Ini adalah elemen anchor untuk menu "Services," yang menghubungkan ke halaman "service.html."
 
