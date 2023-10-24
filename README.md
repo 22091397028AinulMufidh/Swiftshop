@@ -1609,3 +1609,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 21. .inputBox input, .inputBox textarea: Ini mengatur tampilan input dan textarea dalam elemen dengan kelas "inputBox."
 
 22. .inputBox label: Ini mengatur tampilan label animasi yang melayani sebagai placeholder untuk input.
+
+23. .inputBox input:focus + label, .inputBox input:valid + label, .inputBox textarea:focus + label, .inputBox textarea:valid + label: Ini mengatur tampilan label animasi ketika input dalam fokus atau memiliki nilai yang valid.
