@@ -1611,3 +1611,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 22. .inputBox label: Ini mengatur tampilan label animasi yang melayani sebagai placeholder untuk input.
 
 23. .inputBox input:focus + label, .inputBox input:valid + label, .inputBox textarea:focus + label, .inputBox textarea:valid + label: Ini mengatur tampilan label animasi ketika input dalam fokus atau memiliki nilai yang valid.
+
+24. .inputBox input[type="submit"]: Ini mengatur tampilan tombol "Submit" dalam formulir kontak.
