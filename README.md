@@ -1122,6 +1122,30 @@ section .image-promotion img Selector:
 - margin-bottom: -1rem;: Mengurangi margin bawah sebesar 1 rem pada elemen hak cipta.
 
 
+<h3>About Page</h3>
+
+.about-page p Selector:
+- color: black;: Mengatur warna teks paragraf (p) pada halaman "About" menjadi hitam.
+
+.about-page .card h6 Selector:
+- font-size: 22px;: Mengatur ukuran font untuk teks judul h6 dalam elemen dengan kelas .card menjadi 22 piksel.
+
+.about-page .card p Selector:
+- font-size: 16px;: Mengatur ukuran font untuk teks paragraf dalam elemen dengan kelas .card menjadi 16 piksel.
+- color: #ffa500;: Mengatur warna teks teks paragraf dalam elemen dengan kelas .card menjadi oranye (#ffa500).
+- font-weight: bold;: Mengatur teks paragraf dalam elemen dengan kelas .card menjadi tebal (bold).
+
+.about-page Selector:
+- margin-top: 100px;: Menambahkan margin atas sebesar 100 piksel pada elemen dengan kelas .about-page.
+- font-size: 24px;: Mengatur ukuran font teks dalam elemen dengan kelas .about-page menjadi 24 piksel.
+- justify-content: center;: Memastikan kontennya selaras secara horizontal.
+- align-items: center;: Memastikan kontennya selaras secara vertikal.
+- text-align: center;: Mengatur teks dalam elemen dengan kelas .about-page menjadi rata tengah.
+
+.about-page hr Selector:
+- margin-top: 12px;: Menambahkan margin atas sebesar 12 piksel pada elemen hr (garis horizontal).
+- border: 0.5px solid rgb(226, 226, 226); Mengatur elemen hr dengan ketebalan 0.5 piksel dan warna border yang sesuai.
+
 
 
 <h2>LOGIN DAN SIGNUP</h2>
