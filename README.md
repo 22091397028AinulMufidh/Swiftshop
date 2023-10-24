@@ -1569,3 +1569,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 1. @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');: Ini adalah aturan untuk mengimpor font dari Google Fonts. Font yang diimpor adalah "Poppins" dengan berbagai varian beratnya.
 
 2. *: Ini adalah selektor universal yang memengaruhi semua elemen dalam dokumen HTML. Ini digunakan untuk mengatur beberapa properti dasar untuk semua elemen.
+
+3. margin: 0; padding: 0; box-sizing: border-box;: Ini adalah aturan untuk mengatur margin, padding, dan model kotak (box-sizing) untuk semua elemen. Dalam hal ini, margin dan padding diatur menjadi 0, dan model kotak diatur sebagai "border-box," yang berarti ukuran elemen mencakup padding dan border.
