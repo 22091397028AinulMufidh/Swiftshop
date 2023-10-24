@@ -1881,3 +1881,20 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
     • transform: translateX(-200px) menggeser konten sejauh -200px ke kiri saat keranjang belanja aktif.
 
+16. Gaya Judul dalam Keranjang Belanja:
+
+    • Ini adalah aturan CSS yang mengatur tampilan judul dalam keranjang belanja.
+
+    • color: #000 mengatur warna teks judul menjadi hitam.
+
+    • font-weight: 100 mengatur ketebalan teks judul.
+
+    • margin: 0 menghilangkan margin pada judul.
+
+    • padding: 0 20px memberikan padding 0px di atas dan bawah, dan 20px di sisi kiri dan kanan judul.
+
+    • height: 80px mengatur tinggi judul menjadi 80px.
+
+    • display: flex mengubah judul menjadi kontainer fleksibel.
+
+    • align-items: center memposisikan teks judul secara vertikal di tengah.
