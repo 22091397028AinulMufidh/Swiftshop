@@ -658,19 +658,21 @@ Elemen ini terdapat beberpa bagian dari halaman beranda (home) dalam situs web A
 
 &lt;img src="./assets/content-promosi.gif" alt=""&gt; adalah elemen gambar &lt;img&gt; yang menampilkan gambar promosi dengan atribut src yang mengarah ke berkas "content-promosi.gif" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif jika gambar tidak dapat ditampilkan.
 
+
 <h3>Section About Promotion</h3>
 
 &lt;section class="about" id="about"&gt; elemen section yang memiliki atribut class "about" untuk mengatur tampilan dan gaya bagian ini, dan atribut id "about" digunakan untuk identifikasi unik.
 
 &lt;h3 class="sub-heading">about us</h3&gt; judul sub yang menyampaikan bahwa bagian ini adalah tentang informasi "about us" (tentang kami).
 
-<h1 class="heading">why choose us?</h1> Ini adalah judul utama yang menjelaskan "why choose us?" (mengapa memilih kami?).
+&lt;h1 class="heading">why choose us?</h1&gt; judul utama yang menjelaskan "why choose us?" (mengapa memilih kami?).
 
-<div class="row"> Ini adalah div yang digunakan untuk mengelompokkan elemen dalam satu baris horizontal.
+&lt;div class="row"&gt; div yang digunakan untuk mengelompokkan elemen dalam satu baris horizontal.
 
-<div class="image"> Ini adalah div yang berisi gambar. Dalam kasus ini, itu menampilkan gambar smartphone.
+&lt;div class="image"&gt; div yang berisi gambar. Dalam kasus ini, itu menampilkan gambar smartphone.
 
-<img src="./assets/smarphone.png" alt=""> Ini adalah elemen gambar (<img>) yang menampilkan gambar smartphone dengan atribut src yang mengarah ke berkas "smartphone.png" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif jika gambar tidak dapat ditampilkan.
+&lt;img src="./assets/smarphone.png" alt=""&gt; Ini adalah elemen gambar &lt;img&gt; yang menampilkan gambar smartphone dengan atribut src yang mengarah ke berkas "smartphone.png" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif jika gambar tidak dapat ditampilkan.
+
 <div class="content"> Ini adalah div yang berisi konten berisi informasi tentang smartphone.
 
 <h3>best smartphone in the country</h3> Ini adalah subjudul yang menjelaskan bahwa smartphone yang ditawarkan adalah yang terbaik di negara.
