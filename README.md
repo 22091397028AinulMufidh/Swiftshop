@@ -1668,8 +1668,10 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
 7. Keranjang Belanja:
 
-   • <div class="cart">: Ini adalah bagian yang menunjukkan apa yang ada di keranjang belanja.
+   • &lt;div class="cart"&gt;: Ini adalah bagian yang menunjukkan apa yang ada di keranjang belanja.
 
-   • <ul class="listCart">: Ini adalah daftar item dalam keranjang belanja.
+   • &lt;ul class="listCart"&gt;: Ini adalah daftar item dalam keranjang belanja.
 
-   • <div class="checkOut">: Menampilkan total harga produk dalam keranjang belanja dan tombol "Close" untuk menutup keranjang belanja.
+   • &lt;div class="checkOut"&gt;: Menampilkan total harga produk dalam keranjang belanja dan tombol "Close" untuk menutup keranjang belanja.
+
+8. 
