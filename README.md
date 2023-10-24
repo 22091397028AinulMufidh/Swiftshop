@@ -1511,3 +1511,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 1. &lt;!DOCTYPE html: Ini adalah deklarasi dokumen HTML yang mengindikasikan versi dokumen.&gt;
 
 2. &lt;html: Ini adalah elemen root (utama) dari halaman web.&gt;
+
+3. &lt;head: Bagian ini berisi informasi tentang halaman, seperti judul, tautan CSS, dan pengaturan responsif.&gt;
