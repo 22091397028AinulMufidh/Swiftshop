@@ -432,18 +432,18 @@ Respon: Tampilan daftar produk dengan informasi terperinci.
  
 	Prioritas: Sedang.
  
-<h4>3.8.2	Urutan Stimulus/Respon</h4>
+<h4>3.8.2 Urutan Stimulus/Respon</h4>
 
 	Stimulus: Pengguna memilih peran (misalnya, pelanggan atau penjual) saat mendaftar.
  
 	Respon: Hak akses sesuai peran yang dipilih.
  
-4.8.3 Persyaratan Fungsional
+<h4>4.8.3 Persyaratan Fungsional</h4>
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
 2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
 3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman
    
-4.	Persyaratan Non Fungsional
+<h2>4.	Persyaratan Non Fungsional</h2>
    
 4.1	Persyaratan Kinerja
 
