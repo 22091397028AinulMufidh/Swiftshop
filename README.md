@@ -1729,3 +1729,19 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
    • margin-top: 50px memberikan margin atas sebesar 50px.
 
    • padding: 0 20px memberikan padding 0px di atas dan bawah, dan 20px di sisi kiri dan kanan header.
+
+5. Gaya Ikon Keranjang Belanja:
+
+   • Ini adalah aturan CSS yang mengatur tampilan ikon keranjang belanja.
+
+   • position: relative memberikan posisi relatif pada elemen tersebut.
+
+   • header .shopping img mengatur lebar gambar ikon keranjang belanja menjadi 40px.
+
+   • header .shopping span mengatur latar belakang merah untuk angka item dalam keranjang, membuatnya berbentuk bulat, dan memposisikan teks di tengah.
+
+   • position: absolute memungkinkan elemen angka item untuk ditempatkan secara absolut dengan koordinat tertentu.
+
+   • top: -5px dan right: -10px mengatur posisi angka item.
+
+   • padding: 3px 10px memberikan padding 3px di atas dan bawah, serta 10px di sisi kiri dan kanan angka item.
