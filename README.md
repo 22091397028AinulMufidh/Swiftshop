@@ -1613,3 +1613,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 23. .inputBox input:focus + label, .inputBox input:valid + label, .inputBox textarea:focus + label, .inputBox textarea:valid + label: Ini mengatur tampilan label animasi ketika input dalam fokus atau memiliki nilai yang valid.
 
 24. .inputBox input[type="submit"]: Ini mengatur tampilan tombol "Submit" dalam formulir kontak.
+
+25. @media (max-width: 991px): Ini adalah media query yang mengaktifkan gaya khusus untuk layar berukuran lebih kecil (maksimum lebar 991 piksel).
