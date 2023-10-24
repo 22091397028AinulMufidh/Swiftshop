@@ -1681,3 +1681,15 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
 
 <h3>PENJELASAN CSS CHECKOUT</h3>
+
+1. Reset CSS:
+
+   • Ini adalah aturan CSS yang mengatur ulang tampilan default dari semua elemen HTML di halaman web.
+
+   • * berlaku untuk semua elemen HTML.
+
+   • margin: 0 menghilangkan margin, yaitu ruang di luar elemen.
+
+   • padding: 0 menghilangkan padding, yaitu ruang di dalam elemen.
+
+   • box-sizing: border-box mengubah model kotak elemen sehingga lebar dan tinggi elemen mencakup border dan padding.
