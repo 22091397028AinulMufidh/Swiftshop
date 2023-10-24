@@ -1674,4 +1674,4 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
    • &lt;div class="checkOut"&gt;: Menampilkan total harga produk dalam keranjang belanja dan tombol "Close" untuk menutup keranjang belanja.
 
-8. 
+8. JavaScript Eksternal: &lt;script src="checkout.js"&gt;&lt;/script&gt; menghubungkan halaman dengan file JavaScript eksternal "checkout.js" yang akan mengatur interaksi pengguna seperti menambahkan produk ke keranjang dan menghitung total harga.
