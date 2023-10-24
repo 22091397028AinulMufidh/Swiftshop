@@ -6,7 +6,6 @@
 Versi 1.0 Disetujui
 
 
-
 Disusun Oleh :
 
 Kelompok 4 PEMWEB Manajemen Informatika A
@@ -18,7 +17,6 @@ Anna Berttria Novem Budia - 22091397004
 Ainul Mufidh - 22091397028
 
 
-
 D4 Manajemen Informatika
 
 Fakultas Vokasi
@@ -27,9 +25,7 @@ Universitas Negeri Surabaya 2023
 </div>
 
 
-
 <h2>Daftar Isi</h2>
-
 
 1.	Pendahuluan
 
@@ -104,7 +100,6 @@ Appendix B: Analysis Models
 Appendix C: To Be Determined List
 
 
-
 <h2>1. Pendahuluan</h2>
 
 <h3>1.1	Tujuan Penulisan Dokumen</h3>
@@ -115,7 +110,6 @@ Swift Shop Website memberikan kemampuan untuk melacak perilaku pelanggan, analis
 
 Swift Shop Website telah menjadi salah satu alat yang sangat penting bagi bisnis modern karena memberikan akses ke pasar global dan memungkinkan bisnis untuk beroperasi secara efisien di dunia maya. Dengan fitur yang canggih dan kemampuan untuk melakukan transaksi online, Swift Shop Website memungkinkan pelanggan untuk berbelanja dengan nyaman dan memungkinkan bisnis untuk memperluas jangkauan mereka.
 </div>
-
 
 
 <h3>1.2	Konvensi Dokumen</h3>
@@ -138,7 +132,6 @@ Pengembang adalah tiga mahasiswa yang sedang menyelesaikan tugas membuat website
 7.	Akun pengguna akan memiliki profil dengan kemampuan otentikasi (login/logout).
 
 8.	Peran pengguna akan dibagi menjadi admin, pelanggan, dan penjual, dengan setiap peran memiliki akses yang berbeda sesuai dengan fungsi mereka dalam platform.
-
 
 
 <h3>1.3	Audien yang Dituju dan Pembaca yang Disarankan</h3>
@@ -166,8 +159,7 @@ Lingkup pada Swift Shop Website dapat mencakup fitur berikut :
 7.	Manajemen Akun Pengguna.
 
 
-
-1.5	Batasan Desain dan Implementasi
+<h3>1.5 Batasan Desain dan Implementasi</h3>
 
 Keterbatasan desain dan implementasi pada Swift Shop Website meliputi :
 
@@ -188,15 +180,13 @@ Keterbatasan desain dan implementasi pada Swift Shop Website meliputi :
 8.	Analisis dan Pemantauan : Alat pelacakan perilaku pengguna.
 
 
-
-1.6	Referensi
+<h3>1.6	Referensi</h3>
 
 Referensi yang digunakan dalam dokumen hasil analisis adalah sebagai berikut :
 
 1.	Artikel/Jurnal Ilmiah
 
 2.	Referensi Website Penjualan
-
 
 
 <h2>2.	Deskripsi Keseluruhan</h2>
