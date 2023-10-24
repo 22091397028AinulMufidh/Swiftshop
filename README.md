@@ -1595,3 +1595,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 14. .box: Ini adalah selector untuk elemen dengan kelas "box," yang digunakan untuk mengelompokkan ikon dan teks dalam informasi kontak.
 
 15. .icon: Ini mengatur tampilan ikon dalam elemen dengan kelas "box."
+
+16. .text: Ini mengatur tampilan teks informasi dalam elemen dengan kelas "box."
