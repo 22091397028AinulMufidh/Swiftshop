@@ -705,17 +705,17 @@ atribut class "review" digunakan untuk mengatur tampilan dan gaya bagian ini, da
 
 &lt;div class="fas fa-quote-right"></div&gt; elemen ikon dari Font Awesome yang menampilkan tanda kutip (quote right).
 
-&lt;div class="user"&gt; adalah div yang berisi informasi tentang pengguna yang memberikan ulasan.
+&lt;div class="user"&gt; div yang berisi informasi tentang pengguna yang memberikan ulasan.
 
-&lt;img src="./assets/photo1.jpg" alt=""&gt; Ini adalah elemen gambar &lt;img&gt; yang menampilkan foto pengguna yang memberikan ulasan. Gambar tersebut diarahkan ke berkas "photo1.jpg" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif jika gambar tidak dapat ditampilkan.
+&lt;img src="./assets/photo1.jpg" alt=""&gt; elemen gambar &lt;img&gt; yang menampilkan foto pengguna yang memberikan ulasan. Gambar tersebut diarahkan ke berkas "photo1.jpg" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif jika gambar tidak dapat ditampilkan.
 
-&lt;div class="user-info"&gt; Ini adalah div yang berisi informasi tambahan tentang pengguna.
+&lt;div class="user-info"&gt; div yang berisi informasi tambahan tentang pengguna.
 
-<h3>Caroline</h3>: Ini adalah elemen judul level 3 (<h3>) yang menampilkan nama pengguna yang memberikan ulasan.
+&lt;h3>Caroline</h3&gt; elemen judul level 3 &lt;h3&gt; yang menampilkan nama pengguna yang memberikan ulasan.
 
-<div class="stars">: Ini adalah div yang berisi ikon-ikon bintang yang menggambarkan peringkat atau penilaian pengguna.
+&lt;div class="stars"&gt; Ini adalah div yang berisi ikon-ikon bintang yang menggambarkan peringkat atau penilaian pengguna.
 
-Di bawah div ini, terdapat beberapa elemen <i> yang menggambarkan bintang-bintang dengan perbedaan jumlah tergantung pada peringkat yang diberikan pengguna. Lalu ada elemen <p> Ini adalah elemen paragraf <p> yang berisi ulasan dari pengguna tentang produk atau layanan. Ulasan ini menjelaskan mengapa mereka menganggap produk tersebut bagus.
+Di bawah div ini, terdapat beberapa elemen &lt;i&gt; yang menggambarkan bintang-bintang dengan perbedaan jumlah tergantung pada peringkat yang diberikan pengguna. Lalu ada elemen &lt;p&gt; Ini adalah elemen paragraf <p> yang berisi ulasan dari pengguna tentang produk atau layanan. Ulasan ini menjelaskan mengapa mereka menganggap produk tersebut bagus.
 
 
 <h2>LOGIN DAN SIGNUP</h2>
