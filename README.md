@@ -1588,4 +1588,10 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
 11. .contact h2: Ini mengatur tampilan judul "Contact Us" dalam elemen dengan kelas "contact."
 
-12 .contact p: Ini mengatur tampilan teks deskripsi dalam elemen dengan kelas "contact."
+12. .contact p: Ini mengatur tampilan teks deskripsi dalam elemen dengan kelas "contact."
+
+13. .contactInfo: Ini adalah selector untuk elemen dengan kelas "contactInfo." Ini mengatur tampilan wadah informasi kontak.
+
+14. .box: Ini adalah selector untuk elemen dengan kelas "box," yang digunakan untuk mengelompokkan ikon dan teks dalam informasi kontak.
+
+15. .icon: Ini mengatur tampilan ikon dalam elemen dengan kelas "box."
