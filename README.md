@@ -1251,6 +1251,27 @@ Mendefinisikan box model global, yang memastikan bahwa panjang dan lebar elemen 
 - color: grey;: Mengatur warna teks judul h2 menjadi abu-abu.
 
 
+<h3>Services Page</h3>
+
+&lt;div class="tagline"&gt; elemen div dengan kelas "tagline" yang mewakili tagline atau judul untuk layanan atau fitur yang ditawarkan. Ini mencakup judul h2 dan judul h1.
+
+&lt;h2>FEATURES</h2&gt; subjudul atau keterangan fitur yang mungkin digunakan untuk mengelompokkan layanan atau fitur tertentu.
+
+&lt;h1>Our Services</h1&gt; judul utama yang mungkin menggambarkan layanan atau fitur yang ditawarkan.
+
+&lt;div class="row-service"&gt; Ini adalah elemen div dengan kelas "row-service" yang mewakili baris atau baris layanan. Biasanya, ini digunakan untuk mengelompokkan beberapa layanan bersama.
+
+&lt;div class="box-service"&gt; elemen div dengan kelas "box-service" yang mewakili setiap kotak layanan individual. Terdapat tiga kotak layanan yang akan menampilkan detail masing-masing layanan. Setiap kotak layanan mencakup:
+
+&lt;img src="./assets/undraw1.png" alt=""&gt; Ini adalah gambar yang mewakili layanan atau fitur tertentu. Gambar ini mungkin menjadi ikon yang menggambarkan layanan tersebut.
+
+&lt;h3>Product Guide</h3&gt; Ini adalah judul layanan atau fitur (dalam hal ini, "Product Guide").
+
+&lt;p&gt; Ini adalah deskripsi atau informasi lebih lanjut tentang layanan atau fitur tersebut. Ini dapat berisi penjelasan tentang apa yang ditawarkan oleh layanan, seperti panduan produk, pemecahan masalah, atau pengembalian produk.
+
+&lt;button class="btn-service">See more</button&gt; Ini adalah tombol "See more" yang mungkin mengarahkan pengguna untuk mengetahui lebih lanjut tentang layanan atau fitur tersebut. Kelas "btn-service" mungkin digunakan untuk memberikan gaya pada tombol.
+
+
 <h2>LOGIN DAN SIGNUP</h2>
 
 <h3>Penjelasan HTML Login dan signup:</h3>
