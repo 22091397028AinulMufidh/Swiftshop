@@ -1180,6 +1180,27 @@ header .navbar{ ... }: Menetapkan gaya untuk elemen dengan kelas .navbar ketika 
 header .navbar a{ ... }: Menetapkan gaya untuk tautan dalam elemen dengan kelas .navbar ketika lebar layar maksimum mencapai 768 piksel. Ini termasuk menetapkan tampilan blok, padding, ukuran font, dan warna latar belakang.
 
 
+<h3>Halaman about html</h3>
+
+mewakili halaman "Meet The Team."  mencakup judul, garis pemisah, dan daftar anggota tim.
+
+&lt;h2>Meet The Team</h2&gt; judul halaman "Meet The Team" yang mungkin akan ditampilkan di atas daftar anggota tim.
+
+&lt;hr&gt; elemen garis horizontal yang digunakan untuk memisahkan judul dari daftar anggota tim.
+
+&lt;div class="card-row spacercontent"&gt; wadah (container) untuk baris kartu (card) yang akan menampilkan anggota tim.
+
+&lt;div class="card-column"&gt; kolom kartu yang akan menampilkan detail masing-masing anggota tim. Ada tiga kolom kartu yang akan menampilkan tiga anggota tim.
+
+&lt;div class="card"&gt; elemen div dengan kelas "card" yang mewakili kartu anggota tim. Setiap kartu mencakup gambar, nama, dan jurusan dari anggota tim.
+
+&lt;img src="./assets/ainul.png" alt="" class="img-responsive"&gt; gambar anggota tim (dalam hal ini, Ainul) dengan atribut src yang menunjukkan sumber gambar. Atribut alt digunakan untuk deskripsi alternatif gambar (biasanya digunakan untuk aksesibilitas).
+
+&lt;h6>Ainul</h67gt; judul atau nama anggota tim
+
+&lt;p&gt;Manajemen Informatika</p> informasi tambahan tentang anggota tim, seperti jurusan mereka (dalam hal ini, Manajemen Informatika).
+
+
 <h2>LOGIN DAN SIGNUP</h2>
 
 <h3>Penjelasan HTML Login dan signup:</h3>
