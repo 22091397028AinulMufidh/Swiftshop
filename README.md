@@ -1833,3 +1833,18 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
     • Ini adalah aturan CSS yang mengatur tampilan harga produk dalam setiap item.
 
     • margin: 0 0 10px memberikan margin 0px di atas dan samping, dan 10px di bawah harga.
+
+12. Gaya Tombol "Add To Cart":
+    • Ini adalah aturan CSS yang mengatur tampilan tombol "Add To Cart" dalam setiap item.
+
+    • background-color: #1C1F25 mengatur latar belakang tombol menjadi warna gelap.
+
+    • color: #fff mengatur warna teks tombol menjadi putih.
+
+    • width: 100% membuat tombol mengisi seluruh lebar item.
+
+    • padding: 5px 0 memberikan padding 5px di atas dan bawah tombol.
+
+    • border-radius: 30px membuat tombol berbentuk bulat dengan sudut 30px.
+
+    • margin-top: 10px memberikan margin di atas tombol "Add To Cart" sebesar 10px.
