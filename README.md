@@ -1523,3 +1523,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 7. &lt;link rel="stylesheet" type="text/css" href="contact.css"&gt;: Ini adalah tautan ke file eksternal CSS (style.css) yang akan mengatur tampilan halaman.
 
 8. &lt;body&gt;: Ini adalah elemen yang berisi konten halaman yang akan ditampilkan kepada pengguna.
+
+9. &lt;section class="contact"&gt;: Ini adalah bagian utama halaman yang memiliki kelas "contact" untuk memudahkan pengaturan tampilan.
