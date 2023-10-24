@@ -1521,3 +1521,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 6. &lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"&gt;: Ini adalah tautan ke file CSS Font Awesome, yang mengandung ikon-ikon yang akan digunakan di halaman.
 
 7. &lt;link rel="stylesheet" type="text/css" href="contact.css"&gt;: Ini adalah tautan ke file eksternal CSS (style.css) yang akan mengatur tampilan halaman.
+
+8. &lt;body&gt;: Ini adalah elemen yang berisi konten halaman yang akan ditampilkan kepada pengguna.
