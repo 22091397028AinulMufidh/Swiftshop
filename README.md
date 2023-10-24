@@ -445,7 +445,7 @@ Respon: Tampilan daftar produk dengan informasi terperinci.
    
 <h2>4.	Persyaratan Non Fungsional</h2>
    
-4.1	Persyaratan Kinerja
+<h4>4.1	Persyaratan Kinerja</h4>
 
 Website yang kami kembangkan memiliki beberapa kebutuhan yang berkaitan dengan kinerja website seperti waktu respons, kecepatan pemrosesan, kapasitas, dan efisiensi jaringan yang dijelaskan sebagai berikut :
 1.	Waktu untuk membuka halaman harus di bawah 3 detik.
@@ -453,11 +453,11 @@ Website yang kami kembangkan memiliki beberapa kebutuhan yang berkaitan dengan k
 3.	Keamanan data harus dipastikan dengan mengenkripsi data pelanggan.
 4.	Antarmuka pengguna harus intuitif dan responsif.
    
-4.2	Persyaratan Keamanan
+<h4>4.2	Persyaratan Keamanan</h4>
 
 Persyaratan keamanan Swift Shop Website melibatkan enkripsi data, perlindungan data pelanggan, manajemen akses, pemantauan aktivitas, perlindungan aplikasi, dan kebijakan kata sandi kuat. Juga, perlindungan terhadap penipuan dan kecurangan, pemantauan ketersediaan, pemeliharaan rutin, serta pelatihan staff dalam praktik keamanan. Dengan ini, Swift Shop Website akan menjaga keamanan data dan kepercayaan pelanggan.
 
-4.3 Atribut Kualitas Perangkat Lunak
+<h4>4.3 Atribut Kualitas Perangkat Lunak</h4>
 
 ![tabel 2](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/92b1ced0-e563-451a-be1d-c3e98d8ccfed)
 
