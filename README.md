@@ -1022,6 +1022,62 @@ section .image-promotion img Selector:
 - margin-left: -2px;: Menambahkan margin kiri sebesar -2 piksel ke elemen dengan ID btn-about.
 
 
+<h3>Review user</h3>
+
+.review Selector:
+- background: #fff;: Mengatur latar belakang elemen dengan kelas .review menjadi putih (#fff).
+- margin-top: 50px;: Menambahkan margin atas sebesar 50 piksel ke elemen dengan kelas .review.
+  
+.review .slide Selector:
+- padding: 2rem;: Menambahkan padding sebesar 2 rem di sekitar elemen dengan kelas .slide.
+- color: #192a56;: Mengatur warna teks dalam elemen .slide menjadi biru tua (#192a56).
+- border: .1rem solid rgba(0,0,0,.2);: Menambahkan border sebesar 0.1 rem dengan warna dan transparansi tertentu.
+- border-radius: .5rem;: Membulatkan sudut elemen dengan kelas .slide dengan radius border 0.5 rem.
+- position: relative;: Mengatur elemen .slide sebagai elemen posisi relatif.
+- width: 30%;: Mengatur lebar elemen .slide menjadi 30% dari lebar kontainer yang mengandungnya.
+- display: inline-block;: Mengatur elemen .slide sebagai elemen inline-block.
+- margin-right: 20px;: Menambahkan margin kanan sebesar 20 piksel di antara elemen .slide.
+- align-items: center;: Memastikan elemen .slide selaras secara vertikal.
+- justify-content: center;: Memastikan elemen .slide selaras secara horizontal.
+- background: #fff;: Mengatur latar belakang elemen .slide menjadi putih (#fff).
+  
+.review .slide .fa-quote-right Selector:
+- position: absolute;: Mengatur elemen dengan kelas .fa-quote-right sebagai elemen posisi absolut.
+- top: 2.5rem; right: 2.5rem;: Mengatur posisi elemen .fa-quote-right di atas kanan elemen .slide.
+- font-size: 2.5rem;: Mengatur ukuran font ikon kutipan menjadi 2.5 rem.
+- color: #ccc;: Mengatur warna ikon kutipan menjadi abu-abu (#ccc).
+  
+.review .slide .user Selector:
+- display: flex;: Mengubah elemen dengan kelas .user menjadi wadah flex.
+- gap: 1.5rem;: Menambahkan jarak sebesar 1.5 rem antara elemen-elemen anak.
+- align-items: center;: Memastikan elemen-elemen anak dalam .user selaras secara vertikal.
+- padding-bottom: 1.5rem;: Menambahkan padding sebesar 1.5 rem di bagian bawah elemen .user.
+  
+.review .slide .user img Selector:
+- height: 7rem;: Mengatur tinggi gambar pengguna menjadi 7 rem.
+- width: 7rem;: Mengatur lebar gambar pengguna menjadi 7 rem.
+- border-radius: 50%;: Membulatkan sudut gambar pengguna dengan radius border setengah lingkaran.
+- object-fit: cover;: Memastikan gambar pengguna diatur dengan baik untuk mengisi kotaknya.
+  
+.review .slide .user h3 Selector:
+- color: #192a56;: Mengatur warna teks judul pengguna menjadi biru tua (#192a56).
+- font-size: 2rem;: Mengatur ukuran font teks judul pengguna menjadi 2 rem.
+  
+.review .slide .user i Selector:
+- font-size: 1.3rem;: Mengatur ukuran font ikon (jika ada) dalam elemen .user menjadi 1.3 rem.
+- color: #ffa600fa;: Mengatur warna ikon menjadi oranye muda semi-transparan (#ffa600fa).
+  
+.review .slide p Selector:
+- font-size: 1.5rem;: Mengatur ukuran font teks ulasan menjadi 1.5 rem.
+- line-height: 1.5;: Mengatur tinggi baris (line-height) menjadi 1.5 kali ukuran font teks.
+- text-align: justify;: Mengatur teks ulasan menjadi rata kanan dan kiri (justifikasi).
+- color: #666;: Mengatur warna teks ulasan menjadi abu-abu tua (#666).
+  
+.review .swiper-container .review-slider Selector:
+- display: flex;: Mengubah elemen dengan kelas .review-slider menjadi wadah flex.
+- display: inline-flex;: Mengubah elemen dengan kelas .review-slider menjadi elemen inline-flex.
+
+
 <h2>LOGIN DAN SIGNUP</h2>
 
 <h3>Penjelasan HTML Login dan signup:</h3>
