@@ -639,6 +639,7 @@ Elemen ini terdapat beberpa bagian dari halaman beranda (home) dalam situs web A
 <h3>Section Promotion</h3>
 &lt;section class="about" id="promotion"&gt; elemen section yang memiliki atribut class "about" untuk mengatur gaya dan tampilan dari bagian ini. Atribut id "promotion" digunakan untuk mengidentifikasi bagian ini secara unik.
 
+
 &lt;h3 class="sub-heading">our gadget</h3&gt; merupakan judul sub dalam bagian promosi gadget, dengan teks "our gadget."
 
 &lt;h1 class="heading">popular gadget</h1&gt; judul utama dalam bagian promosi, dengan teks "popular gadget."
@@ -656,6 +657,38 @@ Elemen ini terdapat beberpa bagian dari halaman beranda (home) dalam situs web A
 &lt;div class="image-promotion"&gt; merupakan div yang berisi gambar promosi.
 
 &lt;img src="./assets/content-promosi.gif" alt=""&gt; adalah elemen gambar &lt;img&gt; yang menampilkan gambar promosi dengan atribut src yang mengarah ke berkas "content-promosi.gif" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif jika gambar tidak dapat ditampilkan.
+
+<h3>Section About Promotion</h3>
+
+&lt;section class="about" id="about"&gt; elemen section yang memiliki atribut class "about" untuk mengatur tampilan dan gaya bagian ini, dan atribut id "about" digunakan untuk identifikasi unik.
+
+&lt;h3 class="sub-heading">about us</h3&gt; judul sub yang menyampaikan bahwa bagian ini adalah tentang informasi "about us" (tentang kami).
+
+<h1 class="heading">why choose us?</h1> Ini adalah judul utama yang menjelaskan "why choose us?" (mengapa memilih kami?).
+
+<div class="row"> Ini adalah div yang digunakan untuk mengelompokkan elemen dalam satu baris horizontal.
+
+<div class="image"> Ini adalah div yang berisi gambar. Dalam kasus ini, itu menampilkan gambar smartphone.
+
+<img src="./assets/smarphone.png" alt=""> Ini adalah elemen gambar (<img>) yang menampilkan gambar smartphone dengan atribut src yang mengarah ke berkas "smartphone.png" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif jika gambar tidak dapat ditampilkan.
+<div class="content"> Ini adalah div yang berisi konten berisi informasi tentang smartphone.
+
+<h3>best smartphone in the country</h3> Ini adalah subjudul yang menjelaskan bahwa smartphone yang ditawarkan adalah yang terbaik di negara.
+
+<p>Xiaomi 12T 5G hadir dengan kinerja gahar serta kamera yang tak kalah tajam... Core).</p> Ini adalah paragraf yang memberikan deskripsi tentang produk, dalam hal ini, spesifikasinya.
+
+<div class="icons-container"> Ini adalah div yang digunakan untuk mengelompokkan ikon-ikon dan teks yang menjelaskan poin-poin penting.
+
+<div class="icons"> Ini adalah div yang berisi satu set ikon dan teks yang menjelaskan poin penting.
+
+<i class="fas fa-shipping-fast"></i> Ini adalah elemen ikon dari Font Awesome yang menunjukkan pengiriman cepat.
+
+<span>free delivery</span> Ini adalah teks yang menjelaskan bahwa pengiriman gratis.
+
+Ini diikuti oleh dua div lainnya dengan ikon dan teks yang menjelaskan poin-poin seperti pembayaran mudah dan layanan 24/7.
+
+<a href="login.html" class="btn" id="btn-about">learn more</a> merupakan elemen anchor yang menghubungkan ke halaman "login.html" dan menampilkan tombol dengan teks "learn more" (pelajari lebih lanjut). Atribut class "btn" digunakan untuk mengatur tampilan tombol, dan atribut id "btn-about" digunakan untuk mengatur tampilan tobol secara unik.
+
 
 
 <h2>LOGIN DAN SIGNUP</h2>
