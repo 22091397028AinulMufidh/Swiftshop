@@ -1771,3 +1771,29 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
    • margin: 20px 0 memberikan margin atas 20px dan margin bawah 0.
 
    • font-size: 1.5rem mengatur ukuran font judul kategori menjadi 1.5 rem.
+
+8. Gaya Setiap Item Produk dalam Daftar:
+
+   • Ini adalah aturan CSS yang mengatur tampilan setiap item produk dalam daftar.
+
+   • text-align: center memposisikan teks di tengah item.
+
+   • background-color: #FFA500 mengatur latar belakang item menjadi oranye.
+
+   • padding: 20px memberikan padding 20px di dalam item.
+
+   • border-radius: 30px membuat item berbentuk bulat dengan sudut 30px.
+
+   • box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2) memberikan efek bayangan.
+
+   • letter-spacing: 1px mengatur jarak antar huruf dalam teks.
+
+   • position: relative memberikan posisi relatif pada item tersebut.
+
+   • overflow: hidden menghindari potongan teks yang berlebihan.
+
+   • display: flex mengatur item dalam tata letak fleksibel.
+
+   • flex-direction: column mengatur item dalam kolom.
+
+   • align-items: center memposisikan item secara vertikal di tengah.
