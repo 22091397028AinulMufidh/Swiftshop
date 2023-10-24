@@ -1557,3 +1557,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 24. &lt;h2&gt;Send Message&lt;/h2&gt;: Ini adalah judul formulir "Send Message."
 
 25. Terdapat beberapa &lt;div class="inputBox"&gt; yang berisi kotak masukan untuk nama lengkap, alamat email, pesan, dan tombol "Send."
+
+26. required="required": Ini adalah atribut yang menandakan bahwa masukan tersebut wajib diisi sebelum mengirim pesan.
