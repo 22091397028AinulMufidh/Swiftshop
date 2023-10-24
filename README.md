@@ -1529,3 +1529,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 10. &lt;div class="content"&gt;: Ini adalah sebuah div (kontainer) yang berisi judul dan deskripsi halaman.
 
 11. &lt;h2&gt;Contact Us&lt;/h2&gt;: Ini adalah judul halaman "Contact Us."
+
+12. &lt;p&gt;Kami siap membantu masalah Anda.&lt;/p&gt;: Ini adalah deskripsi atau teks informasi yang menjelaskan tujuan halaman.
