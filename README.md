@@ -608,6 +608,31 @@ Selanjutnya yaitu &lt;body&gt;, dalam dokumen HTML elemen body biasanya berisi e
 
 &lt;a href="checkout.html" class="fas fa-shopping-cart"></a&gt; Ini adalah elemen anchor yang menampilkan ikon keranjang belanja dari Font Awesome. Tautan ini menghubungkan ke halaman "checkout.html," di mana pengguna dapat melakukan proses pembelian.
 
+<h3>Section Home Page</h3>
+
+Elemen ini terdapat beberpa bagian dari halaman beranda (home) dalam situs web Anda. <section> merupakan elemen yang menampilkan konten beranda (home) dengan elemen-elemen seperti teks promosi, judul, gambar, dan tombol pemesanan. 
+
+&lt;section class="home" id="home"&gt; elemen section yang memiliki atribut class dengan nilai "home" untuk mengatur gaya dari bagian beranda (home). Atribut id "home" juga memberikan tanda penanda untuk pengaitan ke bagian tertentu dalam halaman web.
+
+&lt;div class="home-slider"&gt; div yang digunakan untuk mengelompokkan elemen-elemen yang termasuk dalam slider beranda (home slider).
+
+&lt;div class="wrapper"&gt; div yang berfungsi sebagai pembungkus untuk mengatur tata letak konten dalam slider.
+
+&lt;div class="slide"&gt; div yang mewakili satu slide dalam slider beranda.
+
+&lt;div class="content"&gt; div yang berisi teks promosi, judul, deskripsi, dan tombol pemesanan.
+
+&lt;span>our special offers</span&gt; elemen span yang menampilkan teks "our special offers" (penawaran istimewa).
+
+&lt;h3>Smartphone</h3&gt; elemen h3 yang menampilkan judul "Smartphone" (judul promo).
+
+&lt;p>Dapatkan Segera Koleksi Gadget Terbaru dan Favorit Anda dengan Harga Mulai Dari Rp 1 Jutaan, Promo Spesial Diskon Akhir Tahun Buruan Cek Jangan Sampai Ketinggalan.</p&gt; elemen p yang berisi deskripsi sebuah konten promosi.
+
+&lt;a href="login.html" class="btn" id="btn-order">order now</a&gt; elemen anchor (<a>) yang menghubungkan ke halaman "login.html" dan menampilkan tombol dengan teks "order now". Atribut class "btn" digunakan untuk mengatur tampilan tombol, dan atribut id "btn-order" dapat digunakan untuk tujuan JavaScript atau CSS.
+
+&lt;div class="image"&gt; Ini adalah div yang berisi gambar yang mungkin berupa gambar promosi atau ilustrasi yang sesuai dengan promo ini.
+
+&lt;img src="./assets/promosi-gif.gif" alt=""&gt; Ini adalah elemen gambar (<img>) yang menampilkan gambar dengan atribut src yang mengarah ke berkas "promosi-gif.gif" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif yang muncul jika gambar tidak dapat ditampilkan, tetapi dalam contoh ini, itu masih kosong.
 
 
 
