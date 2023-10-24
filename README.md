@@ -1597,3 +1597,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 15. .icon: Ini mengatur tampilan ikon dalam elemen dengan kelas "box."
 
 16. .text: Ini mengatur tampilan teks informasi dalam elemen dengan kelas "box."
+
+17. .text h3: Ini mengatur tampilan judul informasi dalam elemen dengan kelas "box."
