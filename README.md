@@ -1579,3 +1579,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 6. min-height: 100vh;: Ini mengatur ketinggian minimum elemen dengan kelas "contact" menjadi setidaknya 100% dari tinggi viewport.
 
 7. display: flex; flex-direction: column; justify-content: center; align-items: center;: Ini mengatur elemen dengan kelas "contact" sebagai flex container dengan tata letak kolom. Kontennya akan berada di tengah-tengah vertikal dan horizontal.
+
+8. background-color: #fff;: Ini mengatur latar belakang elemen dengan kelas "contact" menjadi putih.
