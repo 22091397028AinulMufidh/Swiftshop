@@ -1649,3 +1649,16 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 4. Judul Halaman: &lt;title&gt;Checkout&lt;/title&gt; menunjukkan judul yang akan ditampilkan di tab browser.
 
 5. Stylesheet Eksternal: &lt;link rel="stylesheet" href="checkout.css"&gt; menghubungkan halaman dengan file CSS eksternal "checkout.css" untuk mengatur tampilan halaman.
+
+6. Konten Utama:
+
+   • &lt;header&gt;: Bagian ini menampilkan judul toko "SwiftShop" dan jumlah item dalam keranjang belanja.
+
+   • &lt;div class="list"&gt;: Ini adalah daftar produk yang akan ditampilkan di halaman. Produknya dikelompokkan menjadi beberapa kategori seperti Handphone, iPad, Jam, TV, dan Laptop.
+
+   • Setiap produk dalam kategori memiliki elemen berikut:
+   
+   	• Gambar produk.
+   	• Nama produk.
+	• Harga produk.
+	• Tombol "Add To Cart" yang memanggil fungsi JavaScript addToCart dengan ID produk sebagai argumen saat diklik.
