@@ -1272,6 +1272,79 @@ Mendefinisikan box model global, yang memastikan bahwa panjang dan lebar elemen 
 &lt;button class="btn-service">See more</button&gt; Ini adalah tombol "See more" yang mungkin mengarahkan pengguna untuk mengetahui lebih lanjut tentang layanan atau fitur tersebut. Kelas "btn-service" mungkin digunakan untuk memberikan gaya pada tombol.
 
 
+<h3>Services css</h3>
+
+* { margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; transition: 0.5s; }:
+
+Mendefinisikan pengaturan default untuk semua elemen HTML. Margin dan padding diatur menjadi 0 untuk menghilangkan ruang tambahan di sekitar elemen, menggunakan font family Arial, Helvetica, sans-serif, dan mengaktifkan transisi dengan durasi 0.5 detik.
+body Selector:
+- padding-top: 50px;: Menambahkan padding di atas elemen body sebesar 50px.
+
+.tagline h1 Selector:
+- color: #ffa500;: Mengatur warna teks judul h1 menjadi oranye (#ffa500).
+- font-size: 45px;: Mengatur ukuran font untuk judul h1 menjadi 45px.
+- margin-top: 10px;: Menambahkan margin atas sebesar 10px pada judul h1.
+- text-align: center;: Mengatur teks judul h1 menjadi rata tengah.
+
+.tagline h2 Selector:
+- color: #ffa500;: Mengatur warna teks judul h2 menjadi oranye (#ffa500).
+- font-weight: 400;: Mengatur ketebalan font judul h2.
+- margin-top: 50px;: Menambahkan margin atas sebesar 50px pada judul h2.
+- font-size: 20px;: Mengatur ukuran font untuk judul h2 menjadi 20px.
+- text-align: center;: Mengatur teks judul h2 menjadi rata tengah.
+
+.row-service Selector:
+- padding-top: 20px;: Menambahkan padding di atas elemen dengan kelas "row-service" sebesar 20px.
+- width: 1000px;: Mengatur lebar elemen dengan kelas "row-service" menjadi 1000px.
+- margin: auto;: Mengatur elemen dengan kelas "row-service" agar terletak di tengah secara horizontal.
+- display: flex;: Mengaktifkan flexbox untuk mengelola tata letak elemen di dalamnya.
+- justify-content: space-between;: Mengatur agar elemen dalam "row-service" memiliki ruang yang sama di antara mereka (space-between).
+- align-items: center;: Mengatur agar elemen dalam "row-service" sejajar secara vertikal.
+- text-align: center;: Mengatur teks di dalam "row-service" menjadi rata tengah.
+- margin-bottom: 50px;: Menambahkan margin bawah sebesar 50px pada "row-service".
+
+.box-service Selector:
+- width: 320px; height: 600px;: Mengatur lebar dan tinggi elemen dengan kelas "box-service."
+- background: #fff;: Mengatur latar belakang elemen menjadi putih (#fff).
+- border-radius: 20px;: Mengatur sudut elemen menjadi lebih melengkung dengan radius border sebesar 20px.
+- border: 2px solid #ffa500;: Menambahkan border sebesar 2px dengan warna oranye (#ffa500).
+
+.box-service img Selector:
+- width: 250px;: Mengatur lebar gambar dalam elemen dengan kelas "box-service" menjadi 250px.
+
+.box-service h3 Selector:
+- font-size: 25px;: Mengatur ukuran font untuk judul h3 menjadi 25px.
+- padding-top: 10px;: Menambahkan padding atas sebesar 10px pada judul h3.
+- margin-top: 20px;: Menambahkan margin atas sebesar 20px pada judul h3.
+- color: #ffa500;: Mengatur warna teks judul h3 menjadi oranye (#ffa500).
+
+.box-service p Selector:
+- color: #4e746b;: Mengatur warna teks paragraf (p) menjadi abu-abu (#4e746b).
+- line-height: 20px;: Mengatur jarak antarbaris menjadi 20px.
+- font-size: 14px;: Mengatur ukuran font untuk teks paragraf menjadi 14px.
+- margin: 25px;: Menambahkan margin sebesar 25px pada paragraf.
+- text-align: justify;: Mengatur teks paragraf menjadi rata kiri-kanan (justify).
+
+.box-service .btn-service Selector:
+- width: 150px; height: 40px;: Mengatur lebar dan tinggi tombol dengan kelas "btn-service."
+- background: #ffa500;: Mengatur latar belakang tombol menjadi oranye (#ffa500).
+- border-radius: 10px;: Mengatur sudut tombol menjadi melengkung dengan radius border sebesar 10px.
+- border: none;: Menghilangkan border tombol.
+- color: #fff;: Mengatur warna teks tombol menjadi putih.
+- font-size: 17px;: Mengatur ukuran font untuk teks tombol menjadi 17px.
+- cursor: pointer;: Mengubah kursor menjadi tanda panah saat mengarahkan ke tombol.
+- font-weight: bold;: Mengatur tebal huruf tombol menjadi tebal.
+
+.box-service .btn-service:hover Selector:
+- Mengatur tampilan tombol saat dihover (saat kursor berada di atasnya):
+- background: #fff;: Mengubah latar belakang tombol menjadi putih.
+- color: #ffa500;: Mengubah warna teks tombol menjadi oranye (#ffa500).
+- border: solid 2px #ffa500;: Menambahkan border sebesar 2px dengan warna oranye (#ffa500).
+- transition: all 0.2s;: Mengaktifkan transisi selama 0.2 detik saat mengubah tampilan tombol.
+
+
+
+
 <h2>LOGIN DAN SIGNUP</h2>
 
 <h3>Penjelasan HTML Login dan signup:</h3>
