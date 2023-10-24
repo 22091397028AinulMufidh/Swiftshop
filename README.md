@@ -1575,3 +1575,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 4. font-family: 'Poppins', sans-serif;: Ini mengatur jenis font default untuk dokumen. Font "Poppins" digunakan sebagai font utama, dan "sans-serif" digunakan sebagai alternatif jika "Poppins" tidak tersedia.
 
 5. .contact: Ini adalah selector untuk elemen dengan kelas "contact." Ini mengatur tampilan wadah utama "contact."
+
+6. min-height: 100vh;: Ini mengatur ketinggian minimum elemen dengan kelas "contact" menjadi setidaknya 100% dari tinggi viewport.
