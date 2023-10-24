@@ -461,7 +461,7 @@ Persyaratan keamanan Swift Shop Website melibatkan enkripsi data, perlindungan d
 
 ![tabel 2](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/92b1ced0-e563-451a-be1d-c3e98d8ccfed)
 
-4.4	Peraturan Bisnis
+<h4>4.4	Peraturan Bisnis</h4>
 
 Berikut beberapa aturan bisnis yang diterapkan dalam Swift Shop Website:
 
@@ -471,7 +471,7 @@ Berikut beberapa aturan bisnis yang diterapkan dalam Swift Shop Website:
 4.	Informasi produk yang lengkap dan pemantauan ketersediaan.
 5.	Kepatuhan hukum dan kredibilitas yang terpercaya.
 
-5.	Persyaratan Lainnya
+<h2>5.	Persyaratan Lainnya</h2>
    
 <h4>1.	Persyaratan Basis Data</h4>
    
