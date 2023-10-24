@@ -1912,3 +1912,23 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
     • display: grid mengubah elemen "Checkout" menjadi grid.
 
     • grid-template-columns: repeat(2, 1fr) mengatur dua kolom dengan lebar yang sama dalam elemen "Checkout."
+
+18. Gaya Tombol "Checkout" dan "Lanjutkan Belanja" dalam Keranjang Belanja:
+
+    • Ini adalah aturan CSS yang mengatur tampilan tombol "Checkout" dan "Lanjutkan Belanja" dalam keranjang belanja.
+
+    • background-color: #E8BC0E mengatur warna latar belakang tombol "Checkout" menjadi kuning.
+
+    • width: 100% membuat tombol mengisi seluruh lebar elemen "Checkout."
+
+    • height: 70px mengatur tinggi tombol sebesar 70px.
+
+    • display: flex mengubah tombol menjadi kontainer fleksibel.
+
+    • justify-content: center memposisikan teks tombol secara horizontal di tengah tombol.
+
+    • align-items: center memposisikan teks tombol secara vertikal di tengah tombol.
+
+    • font-weight: bold mengatur ketebalan teks tombol.
+
+    • cursor: pointer mengubah kursor menjadi tanda panah saat diarahkan ke tombol.
