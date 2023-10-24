@@ -1984,3 +1984,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 4. Array listCarts: Ini adalah array yang digunakan untuk menyimpan barang-barang yang ditambahkan ke keranjang belanja. Setiap elemen dalam array ini adalah objek produk dengan properti tambahan quantity yang menyimpan jumlah barang yang ditambahkan.
 
 5. addToCart Function: Fungsi ini digunakan untuk menambahkan produk ke keranjang belanja. Jika produk sudah ada dalam keranjang, maka kuantitasnya ditingkatkan. Jika belum ada, produk ditambahkan ke keranjang. Fungsi isInCategory digunakan untuk memeriksa apakah produk termasuk dalam kategori tertentu.
+
+6. reloadCart Function: Fungsi ini digunakan untuk memperbarui tampilan keranjang belanja. Itu menghapus konten keranjang belanja saat ini dan membangun ulangnya dengan item-item yang ada dalam array listCarts.
