@@ -1621,3 +1621,6 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 27. .contactInfo: Ini mengatur tampilan wadah informasi kontak dalam mode layar kecil.
 
 28. .box: Ini mengatur tampilan kotak informasi dalam mode layar kecil.
+
+
+<h3>PENJELASAN HTML CHECKOUT</h3>
