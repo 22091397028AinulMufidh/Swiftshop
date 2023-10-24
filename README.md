@@ -331,9 +331,12 @@ Respon: Langkah-langkah pembayaran.
 <h4>3.3.3 Persyaratan Fungsional</h4>
 
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
+
 2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
+
 3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman.
-   
+
+
 3.4	Manajemen Pesanan
 
 3.4.1	Deskripsi dan Prioritas
