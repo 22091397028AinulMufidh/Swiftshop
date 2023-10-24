@@ -1873,4 +1873,11 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
     • left: calc(100% - 500px) menggeser masuk keranjang belanja saat aktif hingga menutupi 500px di sebelah kanan layar.
 
-15.
+15. Menggeser Konten Saat Keranjang Belanja Aktif:
+
+    • Ini adalah aturan CSS yang menggeser konten halaman saat keranjang belanja aktif.
+
+    • .active .container mengatur kontainer dengan kelas "active."
+
+    • transform: translateX(-200px) menggeser konten sejauh -200px ke kiri saat keranjang belanja aktif.
+
