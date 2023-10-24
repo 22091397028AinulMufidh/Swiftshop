@@ -1979,4 +1979,4 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
 2. Event Listener: Dua event listener ditambahkan untuk mengontrol tampilan keranjang belanja. Ketika elemen dengan kelas .shopping diklik, kelas CSS 'active' ditambahkan ke elemen <body>, sehingga menampilkan keranjang belanja. Ketika elemen dengan kelas .closeShopping diklik, kelas 'active' dihapus, menyembunyikan keranjang belanja.
 
-3. 
+3. Array products: Ini adalah array yang berisi informasi produk, termasuk id, name, image, dan price.
