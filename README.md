@@ -1,7 +1,7 @@
 # Swiftshop
 <div align="center">
-<h2>Software Requirements Specification for</h2>
-<h1>Swiftshop Website E-commerce</h1>
+<h2>Software Requirements Specification</h2>
+<h1>Swiftshop Website E-Commerce</h1>
 
 <h3>Versi 1.0 Disetujui</h3>
 
