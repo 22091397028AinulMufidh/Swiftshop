@@ -1864,3 +1864,13 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
     • height: 100vh mengisi tinggi keranjang belanja dengan tinggi tampilan pengguna.
 
     • transition: 0.5s memberikan efek transisi selama 0,5 detik saat ada perubahan pada keranjang.
+
+14. Tampilan Keranjang Belanja Saat Aktif:
+
+    • Ini adalah aturan CSS yang mengatur tampilan keranjang belanja saat menjadi aktif.
+
+    • .active .cart mengatur tampilan keranjang belanja yang memiliki kelas "active."
+
+    • left: calc(100% - 500px) menggeser masuk keranjang belanja saat aktif hingga menutupi 500px di sebelah kanan layar.
+
+15.
