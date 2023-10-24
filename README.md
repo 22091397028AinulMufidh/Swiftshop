@@ -231,8 +231,9 @@ Beberapa fungsi yang ada pada Swift Shop Website, antara lain :
 </div>
 
 
-2.3	Penggolongan Karakteristik Pengguna
+<h3>2.3	Penggolongan Karakteristik Pengguna</h3>
 
+<div align="justify">
 Tingkatan kelas dalam Swift Shop Website mengatur hak akses dan persyaratan berikut :
 
 1.	Pengunjung : Hanya dapat melihat produk dan informasi umum, tidak perlu registrasi.
@@ -246,7 +247,7 @@ Tingkatan kelas dalam Swift Shop Website mengatur hak akses dan persyaratan beri
 5.	Admin/Staff Toko : Pengelolaan website dan pesanan, hanya oleh personel yang berwenang.
 
 6.	Pemilik Toko : Kewenangan penuh untuk mengelola bisnis e-commerce.
-
+</div>
 
 ![SharedScreenshot](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124455536/34f29fd6-7621-4850-bb33-d22b4846200f)
 
