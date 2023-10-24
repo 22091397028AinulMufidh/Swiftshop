@@ -890,6 +890,28 @@ color: #ec3e2bfd; mengatur warna teks menjadi ungu.
 - text-align: justify; mengatur teks menjadi rata kiri-kanan.
 
 
+<h3>Button Slider</h3>
+
+.btn Selector:
+- margin-top: 1rem;: Menambahkan margin atas sebesar 1 rem ke elemen-elemen dengan kelas .btn.
+- display: inline-block;: Membuat elemen-elemen dengan kelas .btn menjadi elemen inline-block, yang memungkinkan elemen tersebut mengalir secara horizontal.
+- font-size: 15px;: Mengatur ukuran font teks dalam elemen-elemen dengan kelas .btn menjadi 15 piksel.
+- color: #fff;: Mengatur warna teks menjadi putih (#fff).
+- background: #ec3e2bfd;: Mengatur warna latar belakang menjadi warna semi-transparan (#ec3e2bfd).
+- border-radius: .5rem;: Membulatkan sudut tombol dengan radius border sebesar 0,5 rem.
+- cursor: pointer;: Mengubah kursor menjadi ikon tangan (pointer) saat dihover di atas elemen-elemen dengan kelas .btn.
+- padding: .8rem 3rem;: Mengatur padding (jarak antara teks dan tepi tombol) sebesar 0,8 rem pada bagian atas dan bawah serta 3 rem pada bagian kiri dan kanan.
+- justify-content: center;: Properti ini biasanya digunakan untuk wadah flex (flex containers), dan tidak umumnya digunakan untuk elemen inline-block seperti tombol.
+- margin-left: 55px;: Menambahkan margin kiri sebesar 55px ke elemen-elemen dengan kelas .btn.
+  
+.btn:hover Selector:
+- background: #ffa600fa;: Mengubah warna latar belakang menjadi warna oranye semi-transparan (#ffa600fa) ketika elemen-elemen dengan kelas .btn dihover (disorot dengan kursor mouse).
+  
+#btn-order Selector:
+- margin-left: 0;: Mengganti properti margin kiri untuk elemen dengan ID btn-order dan mengatur nilainya menjadi 0.
+
+
+
 <h2>LOGIN DAN SIGNUP</h2>
 
 <h3>Penjelasan HTML Login dan signup:</h3>
