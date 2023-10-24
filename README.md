@@ -555,10 +555,10 @@ Pada Swift Shop Website terdapat beberapa hal yang masih perlu diperjelas dan di
 
 <h2>HOME PAGE</h2>
 
-&lt;<!DOCTYPE html>&gt; 
+&lt;!DOCTYPE html&gt; 
 deklarasi dokumen HTML yang mengidentifikasi jenis dokumen sebagai HTML5, versi terbaru dari HTML.
 
-&lt;<html lang="en">&gt;
+&lt;html lang="en"&gt;
 elemen pembuka dokumen HTML. Di dalamnya, lang="en" mengindikasikan bahwa dokumen menggunakan bahasa Inggris.
 
 <head> bagian kepala dokumen HTML, yang berisi informasi meta dan tautan ke sumber  eksternal.
