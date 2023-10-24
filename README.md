@@ -105,7 +105,7 @@ Appendix C: To Be Determined List
 
 
 
-1.	Pendahuluan
+<h2>1. Pendahuluan</h2>
 
 <h3>1.1	Tujuan Penulisan Dokumen</h3>
 <div align="justify">
