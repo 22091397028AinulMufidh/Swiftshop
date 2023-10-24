@@ -17,11 +17,11 @@ Kelompok 4 PEMWEB Manajemen Informatika A
 <p>Ainul Mufidh - 22091397028</p>
 
 
-D4 Manajemen Informatika
+<h4>D4 Manajemen Informatika
 
 Fakultas Vokasi
 
-Universitas Negeri Surabaya 2023
+Universitas Negeri Surabaya 2023</h4>
 </div>
 
 
