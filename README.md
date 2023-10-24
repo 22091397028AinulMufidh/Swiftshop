@@ -1945,4 +1945,13 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
     • row-gap: 10px memberikan jarak 10px di antara item dalam daftar keranjang belanja.
 
-20. 
+20. Gaya Gambar Produk dalam Daftar Keranjang Belanja:
+
+    • Ini adalah aturan CSS yang mengatur tampilan gambar produk dalam daftar keranjang belanja.
+
+    • display: flex mengubah gambar menjadi kontainer fleksibel.
+
+    • justify-content: center memposisikan gambar di tengah secara horizontal.
+
+    • align-items: center memposisikan gambar di tengah secara vertikal.
+
