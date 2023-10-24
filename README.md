@@ -767,15 +767,15 @@ Lalu ada gambar ikon keranjang, terdapat teks "Add to Cart," yang digunakan untu
 
 <h2>Style css</h2>
 
-- (*) Ini adalah selektor universal yang mengatur properti untuk semua elemen dalam halaman web. Dalam hal ini:
+<h4>(*) Ini adalah selektor universal yang mengatur properti untuk semua elemen dalam halaman web.</h4>
 
-font-family: 'Nunito Sans', sans-serif; mengatur font utama yang akan digunakan di seluruh halaman.
-margin: 0;, padding: 0;, dan box-sizing: border-box; menghilangkan margin dan padding bawaan serta mengatur model kotak elemen.
-text-decoration: none; menghilangkan dekorasi teks seperti garis bawah dari tautan.
-outline: none; menghilangkan outline saat elemen menerima fokus.
-border: none; menghilangkan semua border elemen.
-text-transform: capitalize; mengubah teks menjadi huruf kapital setiap kata.
-transition: all .2s linear; mengatur transisi animasi untuk semua elemen dengan durasi 0.2 detik dan efek linear.
+- font-family: 'Nunito Sans', sans-serif; mengatur font utama yang akan digunakan di seluruh halaman.
+- margin: 0;, padding: 0;, dan box-sizing: border-box; menghilangkan margin dan padding bawaan serta mengatur model kotak elemen.
+- text-decoration: none; menghilangkan dekorasi teks seperti garis bawah dari tautan.
+- outline: none; menghilangkan outline saat elemen menerima fokus.
+- border: none; menghilangkan semua border elemen.
+- text-transform: capitalize; mengubah teks menjadi huruf kapital setiap kata.
+- transition: all .2s linear; mengatur transisi animasi untuk semua elemen dengan durasi 0.2 detik dan efek linear.
 
 - html: Ini adalah selektor untuk elemen HTML. 
 
