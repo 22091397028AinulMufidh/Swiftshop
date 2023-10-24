@@ -249,7 +249,9 @@ Tingkatan kelas dalam Swift Shop Website mengatur hak akses dan persyaratan beri
 6.	Pemilik Toko : Kewenangan penuh untuk mengelola bisnis e-commerce.
 </div>
 
+<div align="center">
 ![SharedScreenshot](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124455536/34f29fd6-7621-4850-bb33-d22b4846200f)
+</div>
 
 2.4	Lingkungan Operasi
 
