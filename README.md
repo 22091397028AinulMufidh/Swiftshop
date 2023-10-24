@@ -818,6 +818,33 @@ Lalu ada gambar ikon keranjang, terdapat teks "Add to Cart," yang digunakan untu
 - .navbar:hover ul.dropdown: digunakan mengatur dropdown muncul saat menu navbar dihover (menu utama). Dalam kode ini, dropdown yang sebelumnya memiliki display: none; akan menjadi display: block; saat menu utama dihover.
 
 
+<h4>Search Content</h4>
+
+.search-box: adalah selektor untuk elemen dengan kelas "search-box," yang digunakan untuk membungkus elemen-elemen yang terkait dengan pencarian. Dalam kode ini:
+
+- height: 100vh; mengatur tinggi elemen menjadi setinggi viewport (tinggi layar) pengguna.
+- display: flex; mengatur tampilan elemen sebagai flex container.
+- justify-content: center; mengatur konten agar tengah secara horizontal.
+- align-items: center; mengatur konten agar tengah secara vertikal.
+- background: #fff; mengatur latar belakang elemen dengan warna putih (#fff).
+- margin-top: -180px; dan margin-bottom: -200px; memberikan margin atas dan bawah negatif, yang digunakan untuk mengatur posisi elemen.
+  
+.content-box: adalah selektor untuk elemen dengan kelas "content-box," yang mungkin digunakan untuk mengelilingi kotak pencarian atau elemen-elemen terkait lainnya. Dalam kode ini:
+
+- height: 100vh; mengatur tinggi elemen menjadi setinggi viewport (tinggi layar) pengguna.
+- display: flex; mengatur tampilan elemen sebagai flex container.
+- height: 40px; mengatur tinggi elemen menjadi 40px (namun, ini bisa menggantikan tinggi elemen tersebut).
+- cursor: pointer; mengubah kursor mouse saat berada di atas elemen menjadi tanda panah.
+- padding: 10px 20px; memberikan padding elemen dengan ukuran tertentu.
+- background: #fff; mengatur latar belakang elemen dengan warna putih (#fff).
+- border: 1px solid orange; mengatur border elemen dengan warna oranye dan lebar 1px.
+- border-radius: 30px; mengatur sudut elemen dengan radius 30px.
+- box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1); memberikan bayangan elemen untuk efek lembut. Bayangan ini memiliki horizontal offset 0, vertikal offset 10px, blur radius 25px, dan - warna bayangan dengan opasitas 0.1.
+  
+.content-box input: selektor untuk elemen input yang mungkin digunakan dalam kotak pencarian. Dalam kode ini, lebar elemen input diatur menjadi 500px.
+
+.content-box a .fas: adalah selektor untuk ikon dengan kelas "fas" yang mungkin ada di dalam elemen dengan kelas "content-box." Dalam kode ini, warna ikon diatur menjadi oranye dan ukuran fontnya adalah 18px.
+
 
 <h2>LOGIN DAN SIGNUP</h2>
 
