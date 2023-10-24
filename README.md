@@ -1932,3 +1932,17 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
     • font-weight: bold mengatur ketebalan teks tombol.
 
     • cursor: pointer mengubah kursor menjadi tanda panah saat diarahkan ke tombol.
+
+19. Gaya Daftar Produk dalam Keranjang Belanja:
+
+    • Ini adalah aturan CSS yang mengatur tampilan daftar produk dalam keranjang belanja.
+
+    • display: grid mengubah daftar produk dalam keranjang menjadi grid.
+
+    • grid-template-columns: 100px repeat(3, 1fr) mengatur tiga kolom dengan kolom pertama lebarnya 100px, dan tiga kolom sisanya memiliki lebar yang sama.
+
+    • color: #000 mengatur warna teks daftar produk menjadi hitam.
+
+    • row-gap: 10px memberikan jarak 10px di antara item dalam daftar keranjang belanja.
+
+20. 
