@@ -1971,3 +1971,9 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
     • margin: 0 10px memberikan margin 0px di atas dan samping, dan 10px di sisi kiri dan kanan jumlah produk.
 </div>
+
+
+<h3>PENJELASAN JAVA SCRIPT CHECKOUT</h3>
+
+1. Inisialisasi Variabel: Kode pertama adalah untuk menginisialisasi sejumlah variabel yang digunakan dalam aplikasi, seperti elemen-elemen DOM (Document Object Model) dan array products yang berisi informasi produk.
+
