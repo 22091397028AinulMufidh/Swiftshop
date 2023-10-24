@@ -261,46 +261,47 @@ Perangkat lunak berbasis web ini dapat diakses melalui berbagai perangkat sepert
 
 <h3>2.5	Dokumentasi Pengguna</h3>
 
-<div align="center">
+<div align="justify">
 Dokumentasi pengguna pada Swift Shop Website harus mencakup panduan singkat tentang pendaftaran, navigasi, pencarian produk, pengelolaan keranjang belanja, proses checkout, manajemen akun, pengembalian dan garansi, bantuan, kebijakan privasi, tata cara pengaduan, dan tutorial video. Dokumentasi ini akan mudah diakses dan terus diperbarui.
 </div>
 
 
-<h2>3.	Persyatatan Fungsional</h2>
+<h2>3. Persyatatan Fungsional</h2>
    
 <h3>3.1	Katalog Produk</h3>
 
-<h4>3.1.1	Deskripsi dan Prioritas</h4>
+<h4>3.1.1 Deskripsi dan Prioritas</h4>
 
 Deskripsi: Fitur ini mencakup daftar lengkap produk dengan deskripsi, harga, dan gambar.
- 
 Prioritas: Tinggi.
+
  
-<h4>3.1.2	Urutan Stimulus/Respon</h4>
+<h4>3.1.2 Urutan Stimulus/Respon</h4>
 
 Stimulus: Pengguna mengakses halaman produk.
- 
 Respon: Tampilan daftar produk dengan informasi terperinci.
+
  
-3.1.3	Persyaratan Fungsional
+<h4>3.1.3 Persyaratan Fungsional</h4>
 
 1.	Fitur harus mampu menampilkan daftar produk dengan judul, deskripsi, harga, gambar, dan ketersediaan.
+
 2.	Pengguna harus dapat mengurutkan dan mengelompokkan produk berdasarkan kategori atau fitur lainnya.
+
 3.	Fitur pencarian produk harus memungkinkan pengguna mencari produk berdasarkan kata kunci.
    
 3.2	Manajemen Akun
 
-3.2.1	Deskripsi dan Prioritas
 
-	Deskripsi: Memungkinkan pengguna untuk membuat akun.
- 
-	Prioritas: Tinggi.
- 
-3.2.2	Urutan Stimulus/Respon
+<h4>3.2.1 Deskripsi dan Prioritas</h4>
 
-	Stimulus: Pengguna memilih opsi “Membuat Akun”.
+Deskripsi: Memungkinkan pengguna untuk membuat akun.
+Prioritas: Tinggi.
  
-	Respon: Formulir pendaftaran dan konfirmasi akun.
+<h4>3.2.2 Urutan Stimulus/Respon</h4>
+
+Stimulus: Pengguna memilih opsi “Membuat Akun”.
+Respon: Formulir pendaftaran dan konfirmasi akun.
  
 3.2.3	Persyaratan Fungsional
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
