@@ -1513,3 +1513,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 2. &lt;html: Ini adalah elemen root (utama) dari halaman web.&gt;
 
 3. &lt;head: Bagian ini berisi informasi tentang halaman, seperti judul, tautan CSS, dan pengaturan responsif.&gt;
+
+4. &lt;meta name="viewport" content="width=device-width, initial-scale=1.0": Meta tag ini digunakan untuk mengatur tampilan halaman agar responsif terhadap ukuran perangkat.&gt;
