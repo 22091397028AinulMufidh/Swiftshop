@@ -629,12 +629,33 @@ Elemen ini terdapat beberpa bagian dari halaman beranda (home) dalam situs web A
 
 &lt;p>Dapatkan Segera Koleksi Gadget Terbaru dan Favorit Anda dengan Harga Mulai Dari Rp 1 Jutaan, Promo Spesial Diskon Akhir Tahun Buruan Cek Jangan Sampai Ketinggalan.</p&gt; elemen p yang berisi deskripsi sebuah konten promosi.
 
-&lt;a href="login.html" class="btn" id="btn-order">order now</a&gt; elemen anchor (<a>) yang menghubungkan ke halaman "login.html" dan menampilkan tombol dengan teks "order now". Atribut class "btn" digunakan untuk mengatur tampilan tombol, dan atribut id "btn-order" dapat digunakan untuk tujuan JavaScript atau CSS.
+&lt;a href="login.html" class="btn" id="btn-order">order now</a&gt; elemen anchor &lt;a&gt; yang menghubungkan ke halaman "login.html" dan menampilkan tombol dengan teks "order now". Atribut class "btn" digunakan untuk mengatur tampilan tombol, dan atribut id "btn-order" dapat digunakan untuk tujuan JavaScript atau CSS.
 
 &lt;div class="image"&gt; Ini adalah div yang berisi gambar yang mungkin berupa gambar promosi atau ilustrasi yang sesuai dengan promo ini.
 
-&lt;img src="./assets/promosi-gif.gif" alt=""&gt; Ini adalah elemen gambar (<img>) yang menampilkan gambar dengan atribut src yang mengarah ke berkas "promosi-gif.gif" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif yang muncul jika gambar tidak dapat ditampilkan, tetapi dalam contoh ini, itu masih kosong.
+&lt;img src="./assets/promosi-gif.gif" alt=""&gt; Ini adalah elemen gambar &lt;img&gt; yang menampilkan gambar dengan atribut src yang mengarah ke berkas "promosi-gif.gif" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif yang muncul jika gambar tidak dapat ditampilkan, tetapi dalam contoh ini, itu masih kosong.
 
+
+<h3>Section Promotion</h3>
+&lt;section class="about" id="promotion"&gt; elemen section yang memiliki atribut class "about" untuk mengatur gaya dan tampilan dari bagian ini. Atribut id "promotion" digunakan untuk mengidentifikasi bagian ini secara unik.
+
+&lt;h3 class="sub-heading">our gadget</h3&gt; merupakan judul sub dalam bagian promosi gadget, dengan teks "our gadget."
+
+&lt;h1 class="heading">popular gadget</h1&gt; judul utama dalam bagian promosi, dengan teks "popular gadget."
+
+&lt;div class="content"&gt; div yang berisi konten promosi.
+
+&lt;h3>mega sale smartphone</h3&gt; Ini ialah subjudul yang menggambarkan promo "mega sale smartphone."
+
+<p id="deskripsi">Teknologi terkini dan inovasi terbaik hanya ada di gadget kami! ... teknologi yang luar biasa!</p> Ini adalah paragraf yang memberikan deskripsi promosi dan fitur gadget yang ditawarkan. Terdapat atribut id "deskripsi," yang mungkin digunakan untuk tujuan JavaScript atau CSS tertentu.
+
+<a href="login.html" class="btn" id="btn-about">learn more</a> Ini adalah elemen anchor yang menghubungkan ke halaman "login.html" dan menampilkan tombol dengan teks "learn more". Atribut class "btn" digunakan untuk mengatur tampilan tombol, dan atribut id "btn-about" digunakan untuk mengatur tampilan tombol secara unik..
+
+<div class="row"> adalah div yang digunakan untuk mengelompokkan elemen dalam baris horizontal.
+
+<div class="image-promotion"> merupakan div yang berisi gambar promosi.
+
+<img src="./assets/content-promosi.gif" alt=""> adalah elemen gambar (<img>) yang menampilkan gambar promosi dengan atribut src yang mengarah ke berkas "content-promosi.gif" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif jika gambar tidak dapat ditampilkan.
 
 
 <h2>LOGIN DAN SIGNUP</h2>
