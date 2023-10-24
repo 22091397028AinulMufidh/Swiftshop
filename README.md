@@ -785,11 +785,11 @@ Lalu ada gambar ikon keranjang, terdapat teks "Add to Cart," yang digunakan untu
 - scroll-behavior ⇒ smooth; memberikan efek scroll halus ketika menggulir ke elemen dengan atribut id.
 - header ⇒ selektor untuk elemen header. Dalam hal ini, kode mengatur tampilan header seperti warna latar belakang, padding, display, dan lainnya.
 
-- header .logo ⇒ selektor untuk elemen logo di dalam header. Kode mengatur tampilan logo, warna, dan ukuran font.
-- header .navbar a ⇒ selektor untuk tautan di dalam navbar header. Kode mengatur tampilan tautan seperti ukuran font, warna, padding, dan lainnya.
-- header .icons i, header .icons a ⇒ selektor untuk ikon dan tautan di dalam elemen icons di header. Kode mengatur tampilan ikon dan tautan, termasuk ukuran, warna, dan efek hover.
-- header .icons i:hover, header .icons a:hover ⇒ aturan yang mengatur tampilan ikon dan tautan ketika dihover. Ini termasuk perubahan warna dan rotasi ikon.
-- header .icons #menu-bar ⇒ selektor untuk ikon menu bar yang mungkin digunakan untuk menu responsif, meskipun dalam kode yang Anda bagikan, id yang benar adalah menu-bars.
+header .logo ⇒ selektor untuk elemen logo di dalam header. Kode mengatur tampilan logo, warna, dan ukuran font.
+header .navbar a ⇒ selektor untuk tautan di dalam navbar header. Kode mengatur tampilan tautan seperti ukuran font, warna, padding, dan lainnya.
+header .icons i, header .icons a ⇒ selektor untuk ikon dan tautan di dalam elemen icons di header. Kode mengatur tampilan ikon dan tautan, termasuk ukuran, warna, dan efek hover.
+header .icons i:hover, header .icons a:hover ⇒ aturan yang mengatur tampilan ikon dan tautan ketika dihover. Ini termasuk perubahan warna dan rotasi ikon.
+header .icons #menu-bar ⇒ selektor untuk ikon menu bar yang mungkin digunakan untuk menu responsif, meskipun dalam kode yang Anda bagikan, id yang benar adalah menu-bars.
 
 
 <h3>Dropdown menu css</h3>
@@ -800,11 +800,11 @@ Lalu ada gambar ikon keranjang, terdapat teks "Add to Cart," yang digunakan untu
 - background: #ffa500; mengatur latar belakang daftar dengan warna oranye (#ffa500).
 - ul li ⇒ selektor untuk elemen-elemen li (list item) di dalam daftar ul. Kode ini mengatur elemen-elemen ini untuk ditampilkan secara horizontal (inline-block) dan posisi relatif.
 
-- ul li a ⇒ selektor untuk tautan di dalam elemen li. Kode ini mengatur tampilan tautan, termasuk warna teks, padding, dekorasi teks, ukuran font, dan margin atas.
+ul li a ⇒ selektor untuk tautan di dalam elemen li. Kode ini mengatur tampilan tautan, termasuk warna teks, padding, dekorasi teks, ukuran font, dan margin atas.
 
-- .navbar ul.dropdown li ⇒ selektor khusus untuk tautan yang berada di dalam dropdown. Dalam kode ini, tautan dropdown juga diatur untuk ditampilkan sebagai blok (display: block;).
+.navbar ul.dropdown li ⇒ selektor khusus untuk tautan yang berada di dalam dropdown. Dalam kode ini, tautan dropdown juga diatur untuk ditampilkan sebagai blok (display: block;).
 
-- .navbar ul.dropdown ⇒ selektor khusus untuk daftar dropdown yang muncul ketika menu dihover. Dalam kode ini:
+.navbar ul.dropdown ⇒ selektor khusus untuk daftar dropdown yang muncul ketika menu dihover. Dalam kode ini:
 
 - width: 10%; mengatur lebar dropdown.
 - background: #fff; mengatur latar belakang dropdown dengan warna putih (#fff).
@@ -815,7 +815,7 @@ Lalu ada gambar ikon keranjang, terdapat teks "Add to Cart," yang digunakan untu
 - margin-left: 80px; mengatur jarak dari sisi kiri saat muncul.
 - ul li a:hover: digunakan untuk mengatur tampilan tautan saat dihover. Dalam kode ini, latar belakang tautan akan berubah menjadi oranye (#ffa500).
 
-- .navbar:hover ul.dropdown: digunakan mengatur dropdown muncul saat menu navbar dihover (menu utama). Dalam kode ini, dropdown yang sebelumnya memiliki display: none; akan menjadi display: block; saat menu utama dihover.
+.navbar:hover ul.dropdown: digunakan mengatur dropdown muncul saat menu navbar dihover (menu utama). Dalam kode ini, dropdown yang sebelumnya memiliki display: none; akan menjadi display: block; saat menu utama dihover.
 
 
 <h4>Search Content</h4>
@@ -844,6 +844,50 @@ Lalu ada gambar ikon keranjang, terdapat teks "Add to Cart," yang digunakan untu
 .content-box input: selektor untuk elemen input yang mungkin digunakan dalam kotak pencarian. Dalam kode ini, lebar elemen input diatur menjadi 500px.
 
 .content-box a .fas: adalah selektor untuk ikon dengan kelas "fas" yang mungkin ada di dalam elemen dengan kelas "content-box." Dalam kode ini, warna ikon diatur menjadi oranye dan ukuran fontnya adalah 18px.
+
+
+<h3>Home Slider</h3>
+
+section: Ini adalah selektor umum untuk elemen-elemen section di halaman web Anda. Dalam kode ini:
+
+padding: 2rem 9%; memberikan padding pada semua sisi elemen section. Padding adalah 2 rem pada sisi atas dan bawah serta 9% pada sisi kiri dan kanan.
+section:nth-child(even): Ini adalah selektor untuk elemen section dengan indeks genap (urutan kedua, keempat, dst.). Dalam kode ini:
+
+- background: #fff; memberikan latar belakang putih pada elemen section dengan indeks genap.
+- #gadget: Ini adalah selektor untuk elemen dengan ID "gadget." Dalam kode ini:
+- margin-top: 50px; memberikan margin atas sebesar 50px pada elemen dengan ID "gadget."
+  
+.home .home-slider .slide: Ini adalah rangkaian selektor untuk elemen-elemen yang mungkin digunakan dalam bagian slider di halaman "home." Dalam kode ini:
+
+- display: flex; mengatur tampilan elemen menjadi flex container.
+- align-items: center; mengatur elemen agar berada di tengah secara vertikal.
+- justify-content: center; mengatur elemen agar berada di tengah secara horizontal.
+- flex-wrap: wrap; mengatur elemen agar dapat membalut ke baris berikutnya jika tidak cukup lebar.
+- gap: 2rem; memberikan jarak 2 rem antara elemen-elemen dalam flex container.
+- padding-top: 9rem; memberikan padding atas sebesar 9 rem.
+- 
+.home .home-slider .slide .content: Ini adalah selektor untuk elemen dengan kelas "content" yang mungkin ada dalam slider. Dalam kode ini:
+
+flex: 1 1 45rem; mengatur elemen agar memiliki pertumbuhan fleksibel (1), pertahanan fleksibel (1), dan lebar maksimal 45 rem.
+.home .home-slider .slide .image: Ini adalah selektor untuk elemen dengan kelas "image" yang mungkin ada dalam slider. Dalam kode ini:
+
+flex: 1 1 45rem; mengatur elemen agar memiliki pertumbuhan fleksibel (1), pertahanan fleksibel (1), dan lebar maksimal 45 rem.
+.home .home-slider .slide .image img: Ini adalah selektor untuk gambar yang mungkin ada dalam elemen dengan kelas "image." Dalam kode ini:
+
+width: 100%; mengatur lebar gambar menjadi 100% dari lebar elemen yang mengandungnya.
+.home .home-slider .slide .content span: Ini adalah selektor untuk elemen <span> yang mungkin ada dalam elemen dengan kelas "content" dalam slider. Dalam kode ini:
+
+color: #ffa600fa; mengatur warna teks menjadi oranye.
+.home .home-slider .slide .content h3: Ini adalah selektor untuk elemen heading <h3> yang mungkin ada dalam elemen dengan kelas "content" dalam slider. Dalam kode ini:
+
+color: #ec3e2bfd; mengatur warna teks menjadi ungu.
+.home .home-slider .slide .content p: Ini adalah selektor untuk elemen paragraf <p> yang mungkin ada dalam elemen dengan kelas "content" dalam slider. Dalam kode ini:
+
+- color: #666; mengatur warna teks menjadi abu-abu.
+- font-size: 16px; mengatur ukuran teks menjadi 16px.
+- padding: .5rem 0; memberikan padding di atas dan bawah teks sebesar 0.5 rem.
+- margin-right: 45px; memberikan margin di sisi kanan teks sebesar 45px.
+- text-align: justify; mengatur teks menjadi rata kiri-kanan.
 
 
 <h2>LOGIN DAN SIGNUP</h2>
