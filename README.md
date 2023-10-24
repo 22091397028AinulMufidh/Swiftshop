@@ -1715,3 +1715,17 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
    • transition: 0.5s memberikan efek transisi selama 0,5 detik saat ada perubahan pada elemen.
 
    • padding: 20px menambahkan padding sebesar 20px di sisi kiri dan kanan elemen untuk memberikan ruang.
+
+4. Header:
+
+   • Ini adalah aturan CSS yang mengatur tampilan bagian atas halaman, seperti header.
+
+   • display: flex mengubah header menjadi kontainer fleksibel.
+
+   • justify-content: space-between membuat elemen dalam header tersebar dengan sejumlah ruang di antara mereka.
+
+   • align-items: center memposisikan elemen secara vertikal di tengah header.
+
+   • margin-top: 50px memberikan margin atas sebesar 50px.
+
+   • padding: 0 20px memberikan padding 0px di atas dan bawah, dan 20px di sisi kiri dan kanan header.
