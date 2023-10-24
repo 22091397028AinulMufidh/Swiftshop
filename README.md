@@ -1627,3 +1627,6 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
 
 <h3>PENJELASAN HTML CHECKOUT</h3>
+
+1. Deklarasi Dokumen HTML: &lt;!DOCTYPE html&gt; menunjukkan bahwa halaman ini menggunakan HTML5, versi terbaru dari bahasa pemrograman web.
+
