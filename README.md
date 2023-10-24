@@ -1517,3 +1517,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 4. &lt;meta name="viewport" content="width=device-width, initial-scale=1.0": Meta tag ini digunakan untuk mengatur tampilan halaman agar responsif terhadap ukuran perangkat.&gt;
 
 5. &lt;title&gt;Contact Page&lt;/title&gt;: Ini adalah judul halaman yang akan ditampilkan di tab peramban.
+
+6. &lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"&gt;: Ini adalah tautan ke file CSS Font Awesome, yang mengandung ikon-ikon yang akan digunakan di halaman.
