@@ -1585,3 +1585,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 9. .content: Ini adalah selector untuk elemen dengan kelas "content." Ini mengatur tampilan konten dalam wadah "contact."
 
 10. max-width: 800px;: Ini mengatur lebar maksimum konten agar tidak melebihi 800 piksel.
+
+11. .contact h2: Ini mengatur tampilan judul "Contact Us" dalam elemen dengan kelas "contact."
