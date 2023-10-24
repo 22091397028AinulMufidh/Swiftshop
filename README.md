@@ -715,7 +715,28 @@ atribut class "review" digunakan untuk mengatur tampilan dan gaya bagian ini, da
 
 &lt;div class="stars"&gt; Ini adalah div yang berisi ikon-ikon bintang yang menggambarkan peringkat atau penilaian pengguna.
 
-Di bawah div ini, terdapat beberapa elemen &lt;i&gt; yang menggambarkan bintang-bintang dengan perbedaan jumlah tergantung pada peringkat yang diberikan pengguna. Lalu ada elemen &lt;p&gt; Ini adalah elemen paragraf <p> yang berisi ulasan dari pengguna tentang produk atau layanan. Ulasan ini menjelaskan mengapa mereka menganggap produk tersebut bagus.
+Di bawah div ini, terdapat beberapa elemen &lt;i&gt; yang menggambarkan bintang-bintang dengan perbedaan jumlah tergantung pada peringkat yang diberikan pengguna. Lalu ada elemen &lt;p&gt; Ini adalah elemen paragraf yang berisi ulasan dari pengguna tentang produk atau layanan. Ulasan ini menjelaskan mengapa mereka menganggap produk tersebut bagus.
+
+
+<h3>Footer Section</h3>
+
+&lt;section class="footer"&gt; elemen section yang berisi footer halaman web Anda, yaitu bagian yang berisi tautan bantuan, tautan cepat, informasi kontak, tautan media sosial, dan hak cipta.
+
+&lt;div class="footer-container"&gt; div yang digunakan untuk mengelompokkan konten dalam footer.
+
+Terdapat tiga blok &lt;div class="box"&gt; yang berisi tautan-tautan:
+
+- Blok pertama berjudul "get help" dan berisi tautan ke halaman FAQ, pengiriman, pengembalian, status pembayaran, dan kebijakan privasi.
+- Blok kedua berjudul "quick links" dan berisi tautan ke beranda, produk, layanan, ulasan, dan halaman "about."
+- Blok ketiga berjudul "contact info" dan berisi nomor telepon, alamat email, dan alamat fisik beserta kota dan negara. Tautan email memiliki class "lower" yang  digunakan untuk mengubah tampilan tautan.
+
+&lt;div class="social-media" id="follow"&gt; adalah div yang berisi tautan ke berbagai platform media sosial seperti Facebook, Instagram, Twitter, YouTube, dan LinkedIn. Masing-masing tautan dibuka dalam tab atau jendela baru (atribut target="_blank") untuk mengarahkan pengunjung ke halaman tab baru pada media sosial.
+
+Di bagian bawah footer, ada elemen &lt;div class="copyright"&gt; yang menampilkan hak cipta dan tahun, yang dalam contoh ini menyatakan "All Right Reserved © copyright 2023 by swiftshop."
+
+&lt;script src="script.js"></script&gt; elemen yang menghubungkan ke berkas JavaScript eksternal "script.js." Ini digunakan untuk menambahkan fungsi-fungsi JavaScript khusus ke halaman web. Juga, elemen &lt;script&gt; ini berada di bagian akhir sebelum penutup &lt;/body&gt;.
+
+</body> dan </html> Ini merupakan penutup dari halaman HTML
 
 
 <h2>LOGIN DAN SIGNUP</h2>
