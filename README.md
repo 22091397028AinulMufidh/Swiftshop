@@ -584,7 +584,7 @@ Selanjutnya yaitu &lt;body&gt;, dalam dokumen HTML elemen body biasanya berisi e
 
 &lt;a href="" class="logo"><i class="fas-fa-untensils">swiftshop</i></a&gt;: Ini adalah elemen anchor <a> yang digunakan untuk menampilkan logo atau nama situs web Anda. Dalam kode ini, Anda menggunakan ikon Font Awesome yang memiliki kesalahan penulisan ("fas-fa-untensils" seharusnya "fas fa-utensils") dan nama "swiftshop." 
 
-&lt;nav class="navbar"&gt; Ini adalah elemen <nav> yang digunakan untuk mengelompokkan elemen-elemen menu navigasi.
+&lt;nav class="navbar"&gt; Ini adalah elemen &lt;nav&gt; yang digunakan untuk mengelompokkan elemen-elemen menu navigasi.
 
 &lt;a class="active" href="index.html">Home</a&gt; elemen anchor yang menghubungkan ke halaman "index.html" dan disertai dengan atribut class="active", yang biasanya digunakan untuk menandai halaman saat berada di sebuah halaman web..
 
