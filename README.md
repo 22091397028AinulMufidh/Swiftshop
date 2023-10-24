@@ -1693,3 +1693,13 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
    • padding: 0 menghilangkan padding, yaitu ruang di dalam elemen.
 
    • box-sizing: border-box mengubah model kotak elemen sehingga lebar dan tinggi elemen mencakup border dan padding.
+
+2. Mengatur Tampilan Awal Halaman:
+
+   • Ini adalah aturan CSS yang mengatur tampilan awal halaman web.
+
+   • background-color: #fff mengatur latar belakang halaman menjadi warna putih.
+
+   • font-family: system-ui mengatur jenis font umum menjadi "system-ui."
+
+   • margin: 0 menghilangkan margin pada elemen <body>.
