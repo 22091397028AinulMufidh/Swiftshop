@@ -1988,3 +1988,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 6. reloadCart Function: Fungsi ini digunakan untuk memperbarui tampilan keranjang belanja. Itu menghapus konten keranjang belanja saat ini dan membangun ulangnya dengan item-item yang ada dalam array listCarts.
 
 7. changeQuantity Function: Fungsi ini memungkinkan pengguna untuk mengubah jumlah produk dalam keranjang belanja. Jika jumlah diatur ke 0, item dihapus dari keranjang.
+
+8. filterProducts Function: Fungsi ini memungkinkan pengguna untuk memfilter produk berdasarkan kategori. Ini menyembunyikan atau menampilkan item sesuai dengan kategori yang dipilih.
