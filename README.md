@@ -113,9 +113,8 @@ Swift Shop Website telah menjadi salah satu alat yang sangat penting bagi bisnis
 
 
 <h3>1.2	Konvensi Dokumen</h3>
-<div align="justify">
+
 Pengembang adalah tiga mahasiswa yang sedang menyelesaikan tugas membuat website sebagai bagian dari tugas mata kuliah. Pengembang memiliki kendala waktu dan sumber daya terbatas, tetapi fokus pada pembelajaran serta panduan dari dosen pembimbing. Tujuan kami adalah untuk menyelesaikan proyek Swift Shop Website sesuai dengan persyaratan dan mendapatkan nilai yang baik dalam mata kuliah Pemrograman Web. Maka Swift Shop Website ini akan memiliki kemampuan berikut :
-</div>
 
 
 <div align="justify">
