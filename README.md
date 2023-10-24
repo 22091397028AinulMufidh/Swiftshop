@@ -1797,3 +1797,17 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
    • flex-direction: column mengatur item dalam kolom.
 
    • align-items: center memposisikan item secara vertikal di tengah.
+
+9. Gaya Gambar Produk:
+
+   • Ini adalah aturan CSS yang mengatur tampilan gambar produk dalam setiap item.
+
+   • max-width: 100% membuat gambar mengisi seluruh lebar item.
+
+   • height: auto menjaga aspek gambar sehingga tinggi disesuaikan.
+
+   • object-fit: cover mengatur gambar agar sesuai dengan ukuran kotak gambar.
+
+   • margin: 0 0 20px memberikan margin 0px di atas dan samping, dan 20px di bawah gambar.
+
+   • border-radius: 30px membuat gambar berbentuk bulat dengan sudut 30px.
