@@ -3,7 +3,7 @@
 <h2>Software Requirements Specification for</h2>
 <h1>Swiftshop Website E-commerce</h1>
 
-<h6>Versi 1.0 Disetujui</h6>
+<h3>Versi 1.0 Disetujui</h3>
 
 
 Disusun Oleh :
@@ -27,7 +27,7 @@ Universitas Negeri Surabaya 2023
 
 <h2>Daftar Isi</h2>
 
-<h5>1.	Pendahuluan</h5>
+<h4>1.	Pendahuluan</h4>
 
 1.1	Tujuan Penulisan Dokumen
 
@@ -41,7 +41,7 @@ Universitas Negeri Surabaya 2023
 
 1.6	Referensi
 
-<h5>2.	Deskripsi Keseluruhan</h5>
+<h4>2.	Deskripsi Keseluruhan</h4>
 
 2.1	Deskripsi Produk
 
@@ -53,7 +53,7 @@ Universitas Negeri Surabaya 2023
 
 2.5	Dokumentasi Pengguna
 
-3.	Kebutuhan Antarmuka Eksternal
+<h4>3.	Kebutuhan Antarmuka Eksternal</h4>
 
 3.1	User Interfaces
 
@@ -63,7 +63,7 @@ Universitas Negeri Surabaya 2023
 
 3.4	Communications Interfaces
 
-4.	Persyatatan Fungsional
+<h4>4.	Persyatatan Fungsional</h4>
 
 4.1	Katalog Produk
 
@@ -81,7 +81,7 @@ Universitas Negeri Surabaya 2023
 
 4.8	Peran Pengguna
 
-5.	Persyaratan Non Fungsional
+<h4>5.	Persyaratan Non Fungsional</h4>
 
 5.1	Persyaratan Kinerja
 
@@ -91,7 +91,7 @@ Universitas Negeri Surabaya 2023
 
 5.4	Peraturan Bisnis
 
-6.	Persyaratan Lainnya
+<h4>6.	Persyaratan Lainnya</h4>
    
 Appendix A: Glossary
 
@@ -469,7 +469,7 @@ Berikut beberapa aturan bisnis yang diterapkan dalam Swift Shop Website:
 
 5.	Persyaratan Lainnya
    
-1.	Persyaratan Basis Data
+<h4>1.	Persyaratan Basis Data</h4>
    
 Mencakup persyaratan yang berkaitan dengan cara data disimpan, diakses dan dikelola pada sistem Swift Shop Website, yaitu:
 
@@ -477,19 +477,19 @@ Mencakup persyaratan yang berkaitan dengan cara data disimpan, diakses dan dikel
 -	Keamanan Basis Data: Mencakup pengelolaan perlindungan informasi pelanggan dan transaksi.
 -	Integritas Basis Data: Mencakup pengelolaan sistem yang berinteraksi dengan data seperti melakukan pembaruan data ketika pembelian dilakukan.
   
-2.	Persyaratan Internalisasi
-   
+<h4>2.	Persyaratan Internalisasi</h4>
+<div align="justify">
 Dukungan bahasa pada Swift Shop Website memprioritaskan pada penggunaan bahasa Indonesia dan juga bahasa Inggris. Terdapat rencana untuk menambahkan beberapa bahasa agar dapat diakses oleh berbagai negara. Harga produk dalam Swift Shop juga dapat diubah menjadi mata uang lokal tiap pengguna dan kemungkinan dapat melakukan pengiriman ke berbagai negara dengan biaya pengiriman yang telah ditentukan.
+</div>
+<h4>3.	Persyaratan Resmi</h4>
 
-3.	Persyaratan Resmi
-   
 Mencakup persyaratan pada Swift Shop Website yang wajib dilakukan sesuai dengan peraturan hukum yang berlaku, yaitu:
 
 -	Kebijakan Privasi: Mencakup pengelolaan privasi yang harus dipenuhi mengenai perlindungan data pelanggan.
 -	Kepatuhan Hukum: Mematuhi peraturan perdagangan bidang elektronik serta perlindungan pelanggan telah sesuai dengan yang berlaku di wilayah yang akan dijalankan.
 -	Syarat dan Ketentuan: Menguraikan peraturan yang wajib diikuti oleh konsumen saat melakukan pembelian pada Swift Shop Website.
 
-4.	Gunakan kembali Tujuan Untuk Proyek
+<h4>4.	Gunakan kembali Tujuan Untuk Proyek</h4>
    
 -	Tujuan Pengguna: Pembuatan situs web swift shop diharapkan mampu memberikan kemudahan dalam berbelanja, produk xiaomi terbaru dan pengalaman pembeli yang nyaman.
 -	Tujuan Bisnis: Dengan adanya situs web swift shop diharapkan mampu meningkatkan jangkauan pasar, menaikkan jumlah penjualan, dan branding yang lebih kuat.
@@ -501,34 +501,34 @@ Appendix A: Glossary
 
 Appendix B: Analysis Models
 
-1.	Data Flow Diagram (DFD)
+<h3>1.	Data Flow Diagram (DFD)</h3>
 
--	Data Flow Diagram Level 0
+<h5>Data Flow Diagram Level 0</h5>
 
 ![dfd level 0 revisi drawio](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/eca2772f-5c81-43e1-92dd-e6431518aee7)
 
 
--	Data Flow Diagram Level 1 Bagian 1
+<h5>Data Flow Diagram Level 1 Bagian 1</h5>
 
 ![dfd level 1 revisii drawio](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/e835545e-30d1-4d2a-a1c7-5b1c34486774)
 
--	Data Flow Diagram Level 1 Bagian 2
+<h5>Data Flow Diagram Level 1 Bagian 2</h5>
 
 ![dfd 2 1 revisii](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/5111a80b-ac7e-4d93-9334-f0786defcd05)
 
-2.	Entity Relationship Diagram (ERD)
+<h3>2.	Entity Relationship Diagram (ERD)</h3>
    
 ![ERD](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/af6f2eaf-141c-4c3d-b215-ec16059c89eb)
 
-3.	Class Diagram
+<h3>3.	Class Diagram</h3>
    
 ![Class Diagram](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/627e811f-0569-4df5-b377-47962c56f64e)
 
-4.	Use Cae
+<h3>4.	Use Cae</h3>
 
 ![Use Case](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/8a702ef6-80b0-48cb-b024-3fcab2fef7d8)
 
-5.	Flowchart
+<h3>5.	Flowchart</h3>
 
 ![Flowchart](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/5c65c5b9-78bb-42db-9083-bd3d9a1e85a9)
 
