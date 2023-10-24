@@ -1196,9 +1196,59 @@ mewakili halaman "Meet The Team."  mencakup judul, garis pemisah, dan daftar ang
 
 &lt;img src="./assets/ainul.png" alt="" class="img-responsive"&gt; gambar anggota tim (dalam hal ini, Ainul) dengan atribut src yang menunjukkan sumber gambar. Atribut alt digunakan untuk deskripsi alternatif gambar (biasanya digunakan untuk aksesibilitas).
 
-&lt;h6>Ainul</h67gt; judul atau nama anggota tim
+&lt;h6>Ainul</h6&gt; judul atau nama anggota tim
 
-&lt;p&gt;Manajemen Informatika</p> informasi tambahan tentang anggota tim, seperti jurusan mereka (dalam hal ini, Manajemen Informatika).
+&lt;p>;Manajemen Informatika</p&gt; informasi tambahan tentang anggota tim, seperti jurusan mereka (dalam hal ini, Manajemen Informatika).
+
+
+<h3>Card css</h3>
+
+* { box-sizing: border-box; }:
+
+Mendefinisikan box model global, yang memastikan bahwa panjang dan lebar elemen mencakup padding dan border, serta margin.
+
+.card img Selector:
+- width: 200px; height: 200px; Mengatur lebar dan tinggi gambar dalam kartu (card) menjadi 200 piksel.
+- justify-content: center; untuk mengatur konten gambar ke tengah dalam kartu (tetapi ini biasanya digunakan untuk elemen yang memiliki display: flex;, bukan untuk gambar).
+- margin-left: 10px;: Menambahkan margin kiri sebesar 10 piksel pada gambar.
+
+.card-row Selector:
+- width: 100%;: Mengatur lebar baris kartu menjadi 100% dari wadah induknya.
+- margin: 10px;: Menambahkan margin sebesar 10px di sekitar baris kartu.
+- padding-left: 50px; padding-right: 40px;: Menambahkan padding kiri sebesar 50px dan padding kanan sebesar 40px pada baris kartu.
+- margin-bottom: 50px;: Menambahkan margin bawah sebesar 50px pada baris kartu.
+- overflow: auto;: Jika konten melebihi lebar baris kartu, maka akan ada bilah geser horizontal.
+
+.card-column Selector:
+- width: 25%;: Mengatur lebar kolom kartu menjadi 25% dari baris kartu, yang memungkinkan 4 kolom kartu dalam satu baris.
+- float: left;: Mengatur elemen kolom kartu untuk mengapung ke kiri sehingga mereka sejajar satu sama lain.
+- padding: 0 16px;: Menambahkan padding nol di atas dan bawah, dan 16px di sisi kiri dan kanan kolom kartu.
+- margin-left: 80px;: Menambahkan margin kiri sebesar 80px pada kolom kartu.
+
+.card Selector:
+- background-color: white;: Mengatur latar belakang kartu menjadi putih.
+- padding: 16px;: Menambahkan padding sebesar 16px di dalam kartu.
+- box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);: Menambahkan bayangan pada kartu untuk memberikan efek tiga dimensi.
+- border-radius: 10px;: Mengatur sudut kartu menjadi lebih melengkung dengan radius border sebesar 10px.
+- margin-top: 50px; margin-bottom: 10px;: Menambahkan margin atas sebesar 50px dan margin bawah sebesar 10px pada kartu.
+- text-align: center;: Mengatur teks dalam kartu menjadi rata tengah.
+
+.card:hover Selector:
+- border: 2px solid #ffa200;: Ketika kartu dihover, menambahkan border dengan ketebalan 2px dan warna oranye (#ffa200).
+- box-shadow: 0 8px 16px 0 rgba(189, 2, 2, 0.4);: Mengubah bayangan kartu saat dihover.
+- animation: infinite;: Menerapkan animasi dengan efek yang tak berujung.
+- transition: all 0.2s step-start;: Menambahkan efek transisi dengan durasi 0.2 detik dan efek "step-start".
+
+.card h6 Selector:
+- color: black;: Mengatur warna teks judul h6 menjadi hitam.
+- margin-top: 10px;: Menambahkan margin atas sebesar 10px pada judul h6.
+
+.card p Selector:
+- margin-left: 20px;: Menambahkan margin kiri sebesar 20px pada teks paragraf (p).
+
+.about-page h2 Selector:
+- font-weight: bold;: Mengatur tebal huruf pada judul h2.
+- color: grey;: Mengatur warna teks judul h2 menjadi abu-abu.
 
 
 <h2>LOGIN DAN SIGNUP</h2>
