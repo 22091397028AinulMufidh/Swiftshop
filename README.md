@@ -1680,3 +1680,4 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 </div>
 
 
+<h3>PENJELASAN CSS CHECKOUT</h3>
