@@ -505,14 +505,14 @@ Appendix A: Glossary
 
 Appendix B: Analysis Models
 
-<h3>1.	Data Flow Diagram (DFD)</h3>
+<h2>1.	Data Flow Diagram (DFD)</h2>
 
-<h5>Data Flow Diagram Level 0</h5>
+<h3>Data Flow Diagram Level 0</h3>
 
 ![dfd level 0 revisi drawio](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/eca2772f-5c81-43e1-92dd-e6431518aee7)
 
 
-<h5>Data Flow Diagram Level 1 Bagian 1</h5>
+<h3>Data Flow Diagram Level 1 Bagian 1</h3>
 
 ![dfd level 1 revisii drawio](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/e835545e-30d1-4d2a-a1c7-5b1c34486774)
 
@@ -520,19 +520,19 @@ Appendix B: Analysis Models
 
 ![dfd 2 1 revisii](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/5111a80b-ac7e-4d93-9334-f0786defcd05)
 
-<h3>2.	Entity Relationship Diagram (ERD)</h3>
+<h2>2.	Entity Relationship Diagram (ERD)</h2>
    
 ![ERD](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/af6f2eaf-141c-4c3d-b215-ec16059c89eb)
 
-<h3>3.	Class Diagram</h3>
+<h2>3.	Class Diagram</h2>
    
 ![Class Diagram](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/627e811f-0569-4df5-b377-47962c56f64e)
 
-<h3>4.	Use Cae</h3>
+<h2>4.	Use Cae</h2>
 
 ![Use Case](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/8a702ef6-80b0-48cb-b024-3fcab2fef7d8)
 
-<h3>5.	Flowchart</h3>
+<h2>5.	Flowchart</h2>
 
 ![Flowchart](https://github.com/22091397028AinulMufidh/Swiftshop/assets/124547755/5c65c5b9-78bb-42db-9083-bd3d9a1e85a9)
 
