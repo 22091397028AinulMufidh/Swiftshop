@@ -1745,3 +1745,17 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
    • top: -5px dan right: -10px mengatur posisi angka item.
 
    • padding: 3px 10px memberikan padding 3px di atas dan bawah, serta 10px di sisi kiri dan kanan angka item.
+
+6. Daftar Produk (List):
+
+   • Ini adalah aturan CSS yang mengatur tampilan daftar produk dengan layout grid.
+
+   • display: grid mengubah daftar produk menjadi grid.
+
+   • grid-template-columns: repeat(3, 1fr) mengatur tiga kolom per baris, dan fr (fraksi) memberikan ruang yang sama untuk setiap kolom.
+
+   • gap: 30px memberikan jarak 30px di antara item dalam daftar produk.
+
+   • margin-top: 50px memberikan margin atas sebesar 50px.
+
+   • padding: 0 20px memberikan padding 0px di atas dan bawah, dan 20px di sisi kiri dan kanan daftar produk.
