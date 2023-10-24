@@ -736,7 +736,33 @@ Di bagian bawah footer, ada elemen &lt;div class="copyright"&gt; yang menampilka
 
 &lt;script src="script.js"></script&gt; elemen yang menghubungkan ke berkas JavaScript eksternal "script.js." Ini digunakan untuk menambahkan fungsi-fungsi JavaScript khusus ke halaman web. Juga, elemen &lt;script&gt; ini berada di bagian akhir sebelum penutup &lt;/body&gt;.
 
-</body> dan </html> Ini merupakan penutup dari halaman HTML
+&lt;/body&gt; dan &lt;/html&gt; Ini merupakan penutup dari halaman HTML
+
+
+<h3>Halaman Menu Product</h3>
+
+Pada halaman menu product ini tampilan navbar nya sama seperti pada tampilan halaman home namun perbedaan dari halaman product ini ialah halaman product digunakan khusus untuk menampilkan produk-produk yang ingin dijual dan memudahkan pengguna dalam mencari produk yang mereka inginkan.
+
+main adalah elemen HTML <main> yang digunakan untuk mengelompokkan konten utama halaman web.
+
+Terdapat beberapa blok produk yang diatur dalam baris-baris yang terdiri dari tiga kolom <div class="card-column"> dalam setiap baris. Setiap blok produk memiliki struktur yang serupa:
+
+&lt;div class="card"&gt; adalah div yang digunakan sebagai sebuah wadah atau tempat dalam menampilkan gambar seluruh produk.
+
+<img src="./assets/produk2.jpg" alt="" class="img-responsive">: Ini adalah elemen gambar (<img>) yang menampilkan gambar produk dengan atribut src yang mengarah ke berkas gambar "produk2.jpg" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif jika gambar tidak dapat ditampilkan. Kelas "img-responsive" mungkin digunakan untuk mengatur responsifitas gambar.
+
+<h3>Redmi Note 11</h3> adalah elemen judul level 3 (<h3>) yang menampilkan nama produk.
+
+<span class="price">Rp. 2.899.000</span> Ini adalah elemen <span> yang menampilkan harga produk.
+
+<div class="stars"> adalah div yang berisi ikon-ikon bintang yang menggambarkan peringkat atau penilaian produk.
+
+Di bawah div ini, terdapat beberapa elemen <i> yang menggambarkan bintang-bintang dengan perbedaan jumlah tergantung pada peringkat produk.
+<button type="button" class="btn btn-primary spacercart">: Ini adalah elemen tombol <button> dengan atribut type="button". Kelas "btn" dan "btn-primary" yang  digunakan untuk mengatur tampilan tombol. Kelas "spacercart" digunakan untuk mengatur spasi antara tombol dan konten produk.
+
+<img src="./assets/shopping-cart.png" alt="" class="cart"> Ini adalah elemen gambar <img> yang menampilkan ikon keranjang belanja. Atribut src mengarah ke berkas gambar "shopping-cart.png" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif jika gambar tidak dapat ditampilkan.
+
+Lalu ada gambar ikon keranjang, terdapat teks "Add to Cart," yang digunakan untuk menambahkan produk ke dalam keranjang.
 
 
 <h2>LOGIN DAN SIGNUP</h2>
