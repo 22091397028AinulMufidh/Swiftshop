@@ -555,14 +555,11 @@ Pada Swift Shop Website terdapat beberapa hal yang masih perlu diperjelas dan di
 
 <h2>HOME PAGE</h2>
 
-&lt;!DOCTYPE html&gt; 
-deklarasi dokumen HTML yang mengidentifikasi jenis dokumen sebagai HTML5, versi terbaru dari HTML.
+&lt;!DOCTYPE html&gt; deklarasi dokumen HTML yang mengidentifikasi jenis dokumen sebagai HTML5, versi terbaru dari HTML.
 
-&lt;html lang="en"&gt;
-elemen pembuka dokumen HTML. Di dalamnya, lang="en" mengindikasikan bahwa dokumen menggunakan bahasa Inggris.
+&lt;html lang="en"&gt; elemen pembuka dokumen HTML. Di dalamnya, lang="en" mengindikasikan bahwa dokumen menggunakan bahasa Inggris.
 
-&lt;head&gt;
-bagian kepala dokumen HTML, yang berisi informasi meta dan tautan ke sumber  eksternal.
+&lt;head&gt; bagian kepala dokumen HTML, yang berisi informasi meta dan tautan ke sumber  eksternal.
 
 &lt;meta charset="UTF-8"&gt; menetapkan karakter encoding dokumen ke UTF-8, dengan metode yang umum digunakan untuk mendukung karakter internasional.
 
