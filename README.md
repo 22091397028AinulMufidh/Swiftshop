@@ -608,9 +608,10 @@ Selanjutnya yaitu &lt;body&gt;, dalam dokumen HTML elemen body biasanya berisi e
 
 &lt;a href="checkout.html" class="fas fa-shopping-cart"></a&gt; Ini adalah elemen anchor yang menampilkan ikon keranjang belanja dari Font Awesome. Tautan ini menghubungkan ke halaman "checkout.html," di mana pengguna dapat melakukan proses pembelian.
 
+
 <h3>Section Home Page</h3>
 
-Elemen ini terdapat beberpa bagian dari halaman beranda (home) dalam situs web Anda. <section> merupakan elemen yang menampilkan konten beranda (home) dengan elemen-elemen seperti teks promosi, judul, gambar, dan tombol pemesanan. 
+Elemen ini terdapat beberpa bagian dari halaman beranda (home) dalam situs web Anda. &lt;section&gt; merupakan elemen yang menampilkan konten beranda (home) dengan elemen-elemen seperti teks promosi, judul, gambar, dan tombol pemesanan. 
 
 &lt;section class="home" id="home"&gt; elemen section yang memiliki atribut class dengan nilai "home" untuk mengatur gaya dari bagian beranda (home). Atribut id "home" juga memberikan tanda penanda untuk pengaitan ke bagian tertentu dalam halaman web.
 
