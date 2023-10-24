@@ -1343,6 +1343,13 @@ body Selector:
 - transition: all 0.2s;: Mengaktifkan transisi selama 0.2 detik saat mengubah tampilan tombol.
 
 
+<h3>Navbar javascript</h3>
+
+let navbar = document.querySelector('.navbar'); adalah penggunaan metode document.querySelector() untuk mengambil elemen dengan kelas "navbar" dari dokumen HTML dan menyimpannya dalam variabel navbar.
+
+menu.onclick = () => { ... }: Ini adalah cara untuk menetapkan sebuah fungsi yang akan dijalankan ketika elemen dengan id "menu" diklik. Fungsi ini dijalankan ketika elemen tersebut diklik.
+
+navbar.classList.toggle('active');: Pada setiap klik, kode ini akan mengaktifkan atau menonaktifkan kelas "active" pada elemen yang memiliki kelas "navbar." Jadi, jika elemen "navbar" tidak memiliki kelas "active," maka akan ditambahkan, dan jika sudah memiliki kelas "active," maka akan dihapus.
 
 
 <h2>LOGIN DAN SIGNUP</h2>
