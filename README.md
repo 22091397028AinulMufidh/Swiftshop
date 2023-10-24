@@ -936,6 +936,31 @@ Bintang pada Produk:
 - color: rgb(250, 233, 1);: Mengatur warna teks atau ikon bintang pada produk menjadi warna yang didefinisikan oleh nilai RGB (merah, hijau, biru) dengan nilai 250, 233, 1.
 
 
+<h3>Konten Promosi</h3>
+
+.content Selector:
+- float: left;: Mengatur elemen dengan kelas .content untuk mengapung ke kiri sehingga kontennya akan muncul di sebelah kiri halaman.
+- width: 60%;: Mengatur lebar elemen dengan kelas .content menjadi 60% dari lebar kontainer yang mengandungnya.
+- margin-top: 70px;: Menambahkan margin atas sebesar 70 piksel ke elemen dengan kelas .content.
+- text-align: justify;: Mengatur teks dalam elemen tersebut menjadi rata kanan dan kiri (justifikasi).
+  
+section h3 Selector:
+- font-size: 35px;: Mengatur ukuran font teks untuk elemen <h3> yang berada dalam elemen <section> menjadi 35 piksel.
+- color: #ffa500;: Mengatur warna teks untuk elemen <h3> menjadi oranye (kode warna: #ffa500).
+
+section #deskripsi Selector:
+- font-size: 16px;: Mengatur ukuran font teks untuk elemen dengan ID deskripsi yang berada dalam elemen <section> menjadi 16 piksel.
+- color: #666;: Mengatur warna teks untuk elemen tersebut menjadi abu-abu tua (kode warna: #666).
+- margin-right: 100px;: Menambahkan margin sebesar 100 piksel pada sisi kanan elemen dengan ID deskripsi.
+- line-height: 1.9;: Mengatur jarak antara baris (line-height) menjadi 1.9, yang akan memberikan ruang ekstra antara baris teks.
+- margin-top: 10px;: Menambahkan margin atas sebesar 10 piksel ke elemen dengan ID deskripsi.
+  
+section .image-promotion img Selector:
+- float: right;: Mengatur gambar yang berada dalam elemen dengan kelas .image-promotion untuk mengapung ke kanan.
+- width: 85%;: Mengatur lebar gambar promosi menjadi 85% dari lebar elemen yang mengandungnya.
+
+
+
 <h2>LOGIN DAN SIGNUP</h2>
 
 <h3>Penjelasan HTML Login dan signup:</h3>
