@@ -765,6 +765,37 @@ Di bawah div ini, terdapat beberapa elemen &lt;i&gt; yang menggambarkan bintang-
 Lalu ada gambar ikon keranjang, terdapat teks "Add to Cart," yang digunakan untuk menambahkan produk ke dalam keranjang.
 
 
+<h2>Style css</h2>
+
+- (*) Ini adalah selektor universal yang mengatur properti untuk semua elemen dalam halaman web. Dalam hal ini:
+
+font-family: 'Nunito Sans', sans-serif; mengatur font utama yang akan digunakan di seluruh halaman.
+margin: 0;, padding: 0;, dan box-sizing: border-box; menghilangkan margin dan padding bawaan serta mengatur model kotak elemen.
+text-decoration: none; menghilangkan dekorasi teks seperti garis bawah dari tautan.
+outline: none; menghilangkan outline saat elemen menerima fokus.
+border: none; menghilangkan semua border elemen.
+text-transform: capitalize; mengubah teks menjadi huruf kapital setiap kata.
+transition: all .2s linear; mengatur transisi animasi untuk semua elemen dengan durasi 0.2 detik dan efek linear.
+
+- html: Ini adalah selektor untuk elemen HTML. 
+
+font-size ⇒ 62.5%; mengatur ukuran font menjadi 62.5% dari ukuran font dasar (biasanya 16px), sehingga memudahkan penggunaan unit rem.
+overflow-x ⇒ hidden; menghilangkan scroll horizontal.
+scroll-padding-top ⇒ 5.5rem; mengatur jarak saat menggulir ke elemen dengan atribut id. Ini digunakan untuk menyesuaikan posisi tampilan saat menggunakan scroll smooth.
+scroll-behavior ⇒ smooth; memberikan efek scroll halus ketika menggulir ke elemen dengan atribut id.
+header ⇒ selektor untuk elemen header. Dalam hal ini, kode mengatur tampilan header seperti warna latar belakang, padding, display, dan lainnya.
+
+header .logo ⇒ selektor untuk elemen logo di dalam header. Kode mengatur tampilan logo, warna, dan ukuran font.
+
+header .navbar a ⇒ selektor untuk tautan di dalam navbar header. Kode mengatur tampilan tautan seperti ukuran font, warna, padding, dan lainnya.
+
+header .icons i, header .icons a ⇒ selektor untuk ikon dan tautan di dalam elemen icons di header. Kode mengatur tampilan ikon dan tautan, termasuk ukuran, warna, dan efek hover.
+
+header .icons i:hover, header .icons a:hover ⇒ aturan yang mengatur tampilan ikon dan tautan ketika dihover. Ini termasuk perubahan warna dan rotasi ikon.
+
+header .icons #menu-bar ⇒ selektor untuk ikon menu bar yang mungkin digunakan untuk menu responsif, meskipun dalam kode yang Anda bagikan, id yang benar adalah menu-bars.
+
+
 <h2>LOGIN DAN SIGNUP</h2>
 
 <h3>Penjelasan HTML Login dan signup:</h3>
