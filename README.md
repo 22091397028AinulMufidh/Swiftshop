@@ -117,6 +117,7 @@ Swift Shop Website telah menjadi salah satu alat yang sangat penting bagi bisnis
 Pengembang adalah tiga mahasiswa yang sedang menyelesaikan tugas membuat website sebagai bagian dari tugas mata kuliah. Pengembang memiliki kendala waktu dan sumber daya terbatas, tetapi fokus pada pembelajaran serta panduan dari dosen pembimbing. Tujuan kami adalah untuk menyelesaikan proyek Swift Shop Website sesuai dengan persyaratan dan mendapatkan nilai yang baik dalam mata kuliah Pemrograman Web. Maka Swift Shop Website ini akan memiliki kemampuan berikut :
 </div>
 
+<div align="justify">
 1.	Website akan menampilkan daftar lengkap produk beserta deskripsi, harga, dan gambar.
 
 2.	Pengguna akan dapat membuat akun.
@@ -132,6 +133,7 @@ Pengembang adalah tiga mahasiswa yang sedang menyelesaikan tugas membuat website
 7.	Akun pengguna akan memiliki profil dengan kemampuan otentikasi (login/logout).
 
 8.	Peran pengguna akan dibagi menjadi admin, pelanggan, dan penjual, dengan setiap peran memiliki akses yang berbeda sesuai dengan fungsi mereka dalam platform.
+</div>
 
 
 <h3>1.3	Audien yang Dituju dan Pembaca yang Disarankan</h3>
