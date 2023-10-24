@@ -1955,3 +1955,10 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
     • align-items: center memposisikan gambar di tengah secara vertikal.
 
+21. Gaya Tombol "Remove" dalam Daftar Keranjang Belanja:
+
+    • Ini adalah aturan CSS yang mengatur tampilan tombol "Remove" dalam daftar keranjang belanja.
+
+    • background-color: #fff5 mengatur warna latar belakang tombol "Remove" menjadi putih dengan sedikit keabu-abuan.
+
+    • border: none menghilangkan border tombol "Remove."
