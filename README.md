@@ -349,9 +349,8 @@ Prioritas: Tinggi.
 
 3.4.2	Urutan Stimulus/Respon
 
-	Stimulus: Pengguna mengakses halaman manajemen pesanan.
- 
-	Respon: Tampilan daftar pesanan dan status pengiriman.
+Stimulus: Pengguna mengakses halaman manajemen pesanan.
+Respon: Tampilan daftar pesanan dan status pengiriman.
  
 3.4.3	Persyaratan Fungsional
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
