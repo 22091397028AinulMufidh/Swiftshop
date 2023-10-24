@@ -1682,6 +1682,8 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
 <h3>PENJELASAN CSS CHECKOUT</h3>
 
+<div align="justify">
+
 1. Reset CSS:
 
    • Ini adalah aturan CSS yang mengatur ulang tampilan default dari semua elemen HTML di halaman web.
@@ -1968,3 +1970,4 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
     • Ini adalah aturan CSS yang mengatur tampilan jumlah produk dalam daftar keranjang belanja.
 
     • margin: 0 10px memberikan margin 0px di atas dan samping, dan 10px di sisi kiri dan kanan jumlah produk.
+</div>
