@@ -1647,3 +1647,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
    • &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;: Mengatur tampilan responsif agar sesuai dengan berbagai perangkat.
 
 4. Judul Halaman: &lt;title&gt;Checkout&lt;/title&gt; menunjukkan judul yang akan ditampilkan di tab browser.
+
+5. Stylesheet Eksternal: &lt;link rel="stylesheet" href="checkout.css"&gt; menghubungkan halaman dengan file CSS eksternal "checkout.css" untuk mengatur tampilan halaman.
