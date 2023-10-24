@@ -553,6 +553,35 @@ Pada Swift Shop Website terdapat beberapa hal yang masih perlu diperjelas dan di
 
 <h1>PENJELASAN CODINGAN:</h1>
 
+<h2>HOME PAGE</h2>
+
+&lt;<!DOCTYPE html>&gt; 
+deklarasi dokumen HTML yang mengidentifikasi jenis dokumen sebagai HTML5, versi terbaru dari HTML.
+
+&lt;<html lang="en">&gt;
+elemen pembuka dokumen HTML. Di dalamnya, lang="en" mengindikasikan bahwa dokumen menggunakan bahasa Inggris.
+
+<head> bagian kepala dokumen HTML, yang berisi informasi meta dan tautan ke sumber  eksternal.
+
+<meta charset="UTF-8"> menetapkan karakter encoding dokumen ke UTF-8, dengan metode yang umum digunakan untuk mendukung karakter internasional.
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Elemen meta ini digunakan untuk mengatur tampilan responsif halaman web, dengan mengatur lebar viewport (layar) ke lebar perangkat (width=device-width) dan tingkat zoom awal (initial-scale) ke 1.0. Ini membantu agar halaman web dapat tampil dengan baik pada berbagai perangkat.
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">: Ini adalah tautan ke sebuah berkas CSS eksternal yang disediakan oleh Font Awesome melalui CDN Cloudflare. Font Awesome adalah kumpulan ikon yang dapat digunakan dalam desain web.
+
+<link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">: Ini adalah tautan ke berkas CSS eksternal yang disediakan oleh Boxicons melalui unpkg CDN. Boxicons juga adalah koleksi ikon yang dapat digunakan dalam desain web.
+
+<link rel="stylesheet" href="style.css">: Ini adalah tautan ke berkas CSS lokal yaitu "style.css." Berkas CSS ini harus ada di direktori yang sama dengan file HTML yang akan digunakan untuk mengatur tampilan dan gaya visual halaman web.
+
+<link rel="stylesheet" href="cards.css">: Ini adalah tautan ke berkas CSS lokal lainnya bernama "cards.css." Sama seperti sebelumnya, berkas CSS ini juga harus ada di direktori yang sama dengan file HTML dan digunakan untuk mengatur tampilan khusus pada elemen kartu (cards) pada menu product yang menampilkan sebuah produk agar terlihat lebih rapi dan terstruktrur.
+
+<title>Home</title>: Elemen ini mengatur judul halaman web. Judul ini akan ditampilkan di bilah judul browser atau tab, serta digunakan ketika pengguna menyimpan halaman Anda sebagai bookmark atau berbagi tautan di media sosial.
+
+
+
+
+
+
 <h2>LOGIN DAN SIGNUP</h2>
 
 <h3>Penjelasan HTML Login dan signup:</h3>
