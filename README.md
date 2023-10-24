@@ -1645,3 +1645,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
    • &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;: Mengatur kompatibilitas dengan Internet Explorer.
 
    • &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;: Mengatur tampilan responsif agar sesuai dengan berbagai perangkat.
+
+4. Judul Halaman: &lt;title&gt;Checkout&lt;/title&gt; menunjukkan judul yang akan ditampilkan di tab browser.
