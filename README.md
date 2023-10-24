@@ -878,10 +878,10 @@ width: 100%; mengatur lebar gambar menjadi 100% dari lebar elemen yang mengandun
 .home .home-slider .slide .content span: Ini adalah selektor untuk elemen <span> yang mungkin ada dalam elemen dengan kelas "content" dalam slider. Dalam kode ini:
 
 color: #ffa600fa; mengatur warna teks menjadi oranye.
-.home .home-slider .slide .content h3: Ini adalah selektor untuk elemen heading <h3> yang mungkin ada dalam elemen dengan kelas "content" dalam slider. Dalam kode ini:
+.home .home-slider .slide .content h3: Ini adalah selektor untuk elemen heading h3 yang mungkin ada dalam elemen dengan kelas "content" dalam slider. Dalam kode ini:
 
 color: #ec3e2bfd; mengatur warna teks menjadi ungu.
-.home .home-slider .slide .content p: Ini adalah selektor untuk elemen paragraf <p> yang mungkin ada dalam elemen dengan kelas "content" dalam slider. Dalam kode ini:
+.home .home-slider .slide .content p: Ini adalah selektor untuk elemen paragraf yang mungkin ada dalam elemen dengan kelas "content" dalam slider. Dalam kode ini:
 
 - color: #666; mengatur warna teks menjadi abu-abu.
 - font-size: 16px; mengatur ukuran teks menjadi 16px.
@@ -910,6 +910,30 @@ color: #ec3e2bfd; mengatur warna teks menjadi ungu.
 #btn-order Selector:
 - margin-left: 0;: Mengganti properti margin kiri untuk elemen dengan ID btn-order dan mengatur nilainya menjadi 0.
 
+
+<h3>Ukuan gambar produk</h3>
+
+.box img Selector:
+- width: 24%;: Mengatur lebar gambar produk menjadi 24% dari lebar kontainer yang mengandungnya.
+- display: inline-flex;: Mengubah tampilan gambar menjadi elemen inline-flex, yang memungkinkan elemen gambar untuk mengalir secara horizontal.
+  
+.cart Selector:
+- width: 18px;: Mengatur lebar ikon keranjang belanja (cart) menjadi 18 piksel.
+- margin-right: 5px;: Menambahkan margin sebesar 5 piksel pada sisi kanan ikon keranjang belanja.
+  
+Harga Produk:
+
+.price Selector:
+- font-size: 15px;: Mengatur ukuran font teks untuk harga produk menjadi 15 piksel.
+- font-family: 'Times New Roman', Times, serif;: Menentukan jenis font untuk harga produk.
+- font-weight: bold;: Mengatur teks harga produk menjadi tebal.
+  
+.card span Selector:
+- color: orangered;: Mengubah warna teks yang berada dalam elemen <span> di dalam elemen dengan kelas .card menjadi oranye merah (orangered). Ini mungkin digunakan untuk menunjukkan elemen tertentu dalam kartu produk.
+Bintang pada Produk:
+
+.stars Selector:
+- color: rgb(250, 233, 1);: Mengatur warna teks atau ikon bintang pada produk menjadi warna yang didefinisikan oleh nilai RGB (merah, hijau, biru) dengan nilai 250, 233, 1.
 
 
 <h2>LOGIN DAN SIGNUP</h2>
