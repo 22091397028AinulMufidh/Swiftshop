@@ -25,9 +25,9 @@ Universitas Negeri Surabaya 2023
 </div>
 
 
-<h2>Daftar Isi</h2>
+<h2>##Daftar Isi</h2>
 
-<h3>1.	[Pendahuluan](#Pendahuluan)</h3>
+<h3>1.	-[Pendahuluan](#Pendahuluan)</h3>
 
 1.1	Tujuan Penulisan Dokumen
 
