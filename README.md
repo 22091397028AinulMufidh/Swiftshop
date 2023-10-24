@@ -1615,3 +1615,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 24. .inputBox input[type="submit"]: Ini mengatur tampilan tombol "Submit" dalam formulir kontak.
 
 25. @media (max-width: 991px): Ini adalah media query yang mengaktifkan gaya khusus untuk layar berukuran lebih kecil (maksimum lebar 991 piksel).
+
+26. .contact, .content, .contactForm: Ini mengatur tampilan elemen dengan kelas "contact," "content," dan "contactForm" saat media query aktif.
