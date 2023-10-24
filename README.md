@@ -1637,3 +1637,11 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
    • &lt;head&gt;: Ini adalah bagian kepala halaman yang berisi informasi metadata dan pengaturan penting.
    
    • &lt;body&gt;: Ini adalah tempat konten utama halaman web, yang akan dilihat oleh pengguna.
+
+3. Metadata:
+
+   • &lt;meta charset="UTF-8"&gt;: Mengatur karakter set ke UTF-8, sehingga teks dalam berbagai bahasa dapat ditampilkan dengan benar.
+
+   • &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;: Mengatur kompatibilitas dengan Internet Explorer.
+
+   • &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;: Mengatur tampilan responsif agar sesuai dengan berbagai perangkat.
