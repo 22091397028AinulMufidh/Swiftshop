@@ -1573,3 +1573,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 3. margin: 0; padding: 0; box-sizing: border-box;: Ini adalah aturan untuk mengatur margin, padding, dan model kotak (box-sizing) untuk semua elemen. Dalam hal ini, margin dan padding diatur menjadi 0, dan model kotak diatur sebagai "border-box," yang berarti ukuran elemen mencakup padding dan border.
 
 4. font-family: 'Poppins', sans-serif;: Ini mengatur jenis font default untuk dokumen. Font "Poppins" digunakan sebagai font utama, dan "sans-serif" digunakan sebagai alternatif jika "Poppins" tidak tersedia.
+
+5. .contact: Ini adalah selector untuk elemen dengan kelas "contact." Ini mengatur tampilan wadah utama "contact."
