@@ -647,15 +647,15 @@ Elemen ini terdapat beberpa bagian dari halaman beranda (home) dalam situs web A
 
 &lt;h3>mega sale smartphone</h3&gt; Ini ialah subjudul yang menggambarkan promo "mega sale smartphone."
 
-<p id="deskripsi">Teknologi terkini dan inovasi terbaik hanya ada di gadget kami! ... teknologi yang luar biasa!</p> Ini adalah paragraf yang memberikan deskripsi promosi dan fitur gadget yang ditawarkan. Terdapat atribut id "deskripsi," yang mungkin digunakan untuk tujuan JavaScript atau CSS tertentu.
+&lt;p id="deskripsi">Teknologi terkini dan inovasi terbaik hanya ada di gadget kami! ... teknologi yang luar biasa!</p&gt; Ini adalah paragraf yang memberikan deskripsi promosi dan fitur gadget yang ditawarkan. Terdapat atribut id "deskripsi," yang mungkin digunakan untuk tujuan JavaScript atau CSS tertentu.
 
-<a href="login.html" class="btn" id="btn-about">learn more</a> Ini adalah elemen anchor yang menghubungkan ke halaman "login.html" dan menampilkan tombol dengan teks "learn more". Atribut class "btn" digunakan untuk mengatur tampilan tombol, dan atribut id "btn-about" digunakan untuk mengatur tampilan tombol secara unik..
+&lt;a href="login.html" class="btn" id="btn-about">learn more</a&gt; elemen anchor yang menghubungkan ke halaman "login.html" dan menampilkan tombol dengan teks "learn more". Atribut class "btn" digunakan untuk mengatur tampilan tombol, dan atribut id "btn-about" digunakan untuk mengatur tampilan tombol secara unik..
 
-<div class="row"> adalah div yang digunakan untuk mengelompokkan elemen dalam baris horizontal.
+&lt;div class="row"&gt; div yang digunakan untuk mengelompokkan elemen dalam baris horizontal.
 
-<div class="image-promotion"> merupakan div yang berisi gambar promosi.
+&lt;div class="image-promotion"&gt; merupakan div yang berisi gambar promosi.
 
-<img src="./assets/content-promosi.gif" alt=""> adalah elemen gambar (<img>) yang menampilkan gambar promosi dengan atribut src yang mengarah ke berkas "content-promosi.gif" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif jika gambar tidak dapat ditampilkan.
+&lt;img src="./assets/content-promosi.gif" alt=""&gt; adalah elemen gambar &lt;img&gt; yang menampilkan gambar promosi dengan atribut src yang mengarah ke berkas "content-promosi.gif" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif jika gambar tidak dapat ditampilkan.
 
 
 <h2>LOGIN DAN SIGNUP</h2>
