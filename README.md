@@ -1811,3 +1811,19 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
    • margin: 0 0 20px memberikan margin 0px di atas dan samping, dan 20px di bawah gambar.
 
    • border-radius: 30px membuat gambar berbentuk bulat dengan sudut 30px.
+
+10. Gaya Judul Produk:
+
+    • Ini adalah aturan CSS yang mengatur tampilan judul produk dalam setiap item.
+
+    • font-weight: bold membuat teks produk menjadi tebal.
+
+    • margin: 0 0 10px memberikan margin 0px di atas dan samping, dan 10px di bawah judul.
+
+    • white-space: nowrap menghindari pemotongan teks yang terlalu panjang.
+
+    • overflow: hidden menghindari potongan teks yang berlebihan.
+
+    • text-overflow: ellipsis mengatur teks yang melebihi ukuran untuk memotong dan menampilkan elipsis.
+
+    • font-size: 1rem mengatur ukuran font judul produk menjadi 1 rem.
