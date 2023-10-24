@@ -1703,3 +1703,15 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
    • font-family: system-ui mengatur jenis font umum menjadi "system-ui."
 
    • margin: 0 menghilangkan margin pada elemen <body>.
+
+3. Container:
+
+   • Ini adalah aturan CSS untuk mengatur elemen dengan kelas "container."
+
+   • max-width: 1000px mengatur lebar maksimum elemen menjadi 1000px.
+
+   • margin: 0 auto memposisikan elemen di tengah secara horizontal.
+
+   • transition: 0.5s memberikan efek transisi selama 0,5 detik saat ada perubahan pada elemen.
+
+   • padding: 20px menambahkan padding sebesar 20px di sisi kiri dan kanan elemen untuk memberikan ruang.
