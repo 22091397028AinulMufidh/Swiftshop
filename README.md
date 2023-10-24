@@ -1539,3 +1539,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 15. &lt;div class="box"&gt;: Ini adalah kotak kontak yang berisi ikon dan teks.
 
 16. &lt;div class="icon"&gt;: Ini adalah div untuk ikon kontak.
+
+17. &lt;i class="fas fa-map-marker" aria-hidden="true"&gt;&lt;/i&gt;: Ini adalah ikon alamat menggunakan Font Awesome.
