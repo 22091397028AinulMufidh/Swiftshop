@@ -1992,3 +1992,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 8. filterProducts Function: Fungsi ini memungkinkan pengguna untuk memfilter produk berdasarkan kategori. Ini menyembunyikan atau menampilkan item sesuai dengan kategori yang dipilih.
 
 9. isInCategory Function: Fungsi ini digunakan untuk memeriksa apakah produk berada dalam kategori tertentu berdasarkan itemId.
+
+10. Event Listener untuk Navigasi Kategori: Event listener ini mengatur penggunaan kategori tertentu dengan mengklik elemen <h2> yang mewakili kategori.
