@@ -1543,3 +1543,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 17. &lt;i class="fas fa-map-marker" aria-hidden="true"&gt;&lt;/i&gt;: Ini adalah ikon alamat menggunakan Font Awesome.
 
 18. &lt;div class="text"&gt;: Ini adalah div yang berisi teks informasi kontak.
+
+19. &lt;h3&gt;Address&gt;/h3&gt;: Ini adalah judul untuk alamat.
