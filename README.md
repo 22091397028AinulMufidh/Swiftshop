@@ -1605,3 +1605,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 19. .contactForm h2: Ini mengatur tampilan judul formulir dalam elemen dengan kelas "contactForm."
 
 20. .inputBox: Ini adalah selector untuk elemen dengan kelas "inputBox," yang digunakan untuk mengelompokkan masukan dalam formulir kontak.
+
+21. .inputBox input, .inputBox textarea: Ini mengatur tampilan input dan textarea dalam elemen dengan kelas "inputBox."
