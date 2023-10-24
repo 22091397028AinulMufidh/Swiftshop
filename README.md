@@ -1995,9 +1995,9 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
 9. isInCategory Function: Fungsi ini digunakan untuk memeriksa apakah produk berada dalam kategori tertentu berdasarkan itemId.
 
-10. Event Listener untuk Navigasi Kategori: Event listener ini mengatur penggunaan kategori tertentu dengan mengklik elemen <h2> yang mewakili kategori.
+10. Event Listener untuk Navigasi Kategori: Event listener ini mengatur penggunaan kategori tertentu dengan mengklik elemen &lt;h2&gt; yang mewakili kategori.
 
-11. initApp Function: Ini adalah fungsi yang menginisialisasi aplikasi dengan menambahkan produk ke daftar. Setiap produk direpresentasikan sebagai elemen <div> dalam daftar dengan tombol "Add to Cart".
+11. initApp Function: Ini adalah fungsi yang menginisialisasi aplikasi dengan menambahkan produk ke daftar. Setiap produk direpresentasikan sebagai elemen &lt;div&gt; dalam daftar dengan tombol "Add to Cart".
 
 12. Panggilan initApp Function: Di akhir kode, fungsi initApp dipanggil untuk memulai aplikasi dengan menambahkan produk ke daftar awal.
 </div>
