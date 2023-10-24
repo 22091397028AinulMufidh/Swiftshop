@@ -350,9 +350,11 @@ Prioritas: Tinggi.
 3.4.2	Urutan Stimulus/Respon
 
 Stimulus: Pengguna mengakses halaman manajemen pesanan.
+
 Respon: Tampilan daftar pesanan dan status pengiriman.
  
 3.4.3	Persyaratan Fungsional
+
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
 2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
 3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman.
@@ -361,16 +363,18 @@ Respon: Tampilan daftar pesanan dan status pengiriman.
 
 3.5.1	Deskripsi dan Prioritas
 
-	Deskripsi: Sistem memiliki kemampuan untuk mencari dan memfilter produk.
+Deskripsi: Sistem memiliki kemampuan untuk mencari dan memfilter produk.
  
-	Prioritas: Sedang.
+Prioritas: Sedang.
  
 3.5.2	Urutan Stimulus/Respon
 
-	Stimulus: Pengguna melakukan pencarian produk.
+Stimulus: Pengguna melakukan pencarian produk.
  
-	Respon: Hasil pencarian dengan produk yang sesuai.
+Respon: Hasil pencarian dengan produk yang sesuai.
+
  3.5.3	Persyaratan Fungsional
+ 
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
 2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
 3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman.
@@ -379,9 +383,9 @@ Respon: Tampilan daftar pesanan dan status pengiriman.
 
 3.6.1	Deskripsi dan Prioritas
  
-	Deskripsi: Integrasi dengan gateway pembayaran eksternal dan penyedia pengiriman akan tersedia.
+Deskripsi: Integrasi dengan gateway pembayaran eksternal dan penyedia pengiriman akan tersedia.
  
-	Prioritas: Tinggi
+Prioritas: Tinggi
  
  Urutan Stimulus/Respon
  
@@ -403,15 +407,15 @@ Respon: Tampilan daftar pesanan dan status pengiriman.
 
 3.7.1	Deskripsi dan Prioritas
 
-	Deskripsi: Akun pengguna akan memiliki profil dan otentikasi.
+Deskripsi: Akun pengguna akan memiliki profil dan otentikasi.
  
-	Prioritas: Sedang.
+Prioritas: Sedang.
  
 3.7.2	Urutan Stimulus/Respon
 
-	Stimulus: Pengguna mengakses halaman produk.
+Stimulus: Pengguna mengakses halaman produk.
  
-	Respon: Tampilan daftar produk dengan informasi terperinci.
+Respon: Tampilan daftar produk dengan informasi terperinci.
  
 3.7.3	Persyaratan Fungsional
 
