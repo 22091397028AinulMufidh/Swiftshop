@@ -1535,3 +1535,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 13. &lt;div class="container"&gt;: Ini adalah div yang berfungsi sebagai kontainer untuk mengelompokkan elemen-elemen kontak.
 
 14. &lt;div class="contactInfo"&gt;: Ini adalah div yang berisi informasi kontak.
+
+15. &lt;div class="box"&gt;: Ini adalah kotak kontak yang berisi ikon dan teks.
