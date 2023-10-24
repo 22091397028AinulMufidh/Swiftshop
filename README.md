@@ -386,8 +386,9 @@ Respon: Hasil pencarian dengan produk yang sesuai.
 Deskripsi: Integrasi dengan gateway pembayaran eksternal dan penyedia pengiriman akan tersedia.
  
 Prioritas: Tinggi
+
  
- Urutan Stimulus/Respon
+Urutan Stimulus/Respon
  
 	Stimulus: Pengguna memilih opsi pembayaran.
  
@@ -402,6 +403,7 @@ Prioritas: Tinggi
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
 2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
 3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman.
+
    
 <h3>3.7	Manajemen Akun Pengguna</h3>
 
