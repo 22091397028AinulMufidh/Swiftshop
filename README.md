@@ -1525,3 +1525,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 8. &lt;body&gt;: Ini adalah elemen yang berisi konten halaman yang akan ditampilkan kepada pengguna.
 
 9. &lt;section class="contact"&gt;: Ini adalah bagian utama halaman yang memiliki kelas "contact" untuk memudahkan pengaturan tampilan.
+
+10. &lt;div class="content"&gt;: Ini adalah sebuah div (kontainer) yang berisi judul dan deskripsi halaman.
