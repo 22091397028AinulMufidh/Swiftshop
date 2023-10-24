@@ -1501,3 +1501,9 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 •	Melakukan Tindakan klik pada tautan signup degan perintah click()
 
 •	Menghentikan aksi saat mengklik tautan dengan mengembalikan nilai false untuk mencegah pengguna dialihkan ke tautan halaman lain.
+
+
+
+CONTACT
+
+PENJELASAN HTML CONTACT
