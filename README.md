@@ -1566,6 +1566,8 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
 <h3>PENJELASAN CSS CONTACT</h3>
 
+<div align="justify">
+
 1. @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');: Ini adalah aturan untuk mengimpor font dari Google Fonts. Font yang diimpor adalah "Poppins" dengan berbagai varian beratnya.
 
 2. *: Ini adalah selektor universal yang memengaruhi semua elemen dalam dokumen HTML. Ini digunakan untuk mengatur beberapa properti dasar untuk semua elemen.
@@ -1621,6 +1623,7 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 27. .contactInfo: Ini mengatur tampilan wadah informasi kontak dalam mode layar kecil.
 
 28. .box: Ini mengatur tampilan kotak informasi dalam mode layar kecil.
+</div>
 
 
 <h3>PENJELASAN HTML CHECKOUT</h3>
