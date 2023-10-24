@@ -3,7 +3,7 @@
 <h2>Software Requirements Specification for</h2>
 <h1>Swiftshop Website E-commerce</h1>
 
-Versi 1.0 Disetujui
+<h6>Versi 1.0 Disetujui</h6>
 
 
 Disusun Oleh :
@@ -27,7 +27,7 @@ Universitas Negeri Surabaya 2023
 
 <h2>Daftar Isi</h2>
 
-1.	Pendahuluan
+<h5>1.	Pendahuluan</h5>
 
 1.1	Tujuan Penulisan Dokumen
 
@@ -41,7 +41,7 @@ Universitas Negeri Surabaya 2023
 
 1.6	Referensi
 
-2.	Deskripsi Keseluruhan
+<h5>2.	Deskripsi Keseluruhan</h5>
 
 2.1	Deskripsi Produk
 
