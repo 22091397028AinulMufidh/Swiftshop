@@ -1537,3 +1537,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 14. &lt;div class="contactInfo"&gt;: Ini adalah div yang berisi informasi kontak.
 
 15. &lt;div class="box"&gt;: Ini adalah kotak kontak yang berisi ikon dan teks.
+
+16. &lt;div class="icon"&gt;: Ini adalah div untuk ikon kontak.
