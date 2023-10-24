@@ -385,9 +385,8 @@ Respon: Hasil pencarian dengan produk yang sesuai.
  
 Deskripsi: Integrasi dengan gateway pembayaran eksternal dan penyedia pengiriman akan tersedia.
  
-Prioritas: Tinggi
+<h5>Prioritas: Tinggi</h5>
 
- 
 Urutan Stimulus/Respon
  
 	Stimulus: Pengguna memilih opsi pembayaran.
