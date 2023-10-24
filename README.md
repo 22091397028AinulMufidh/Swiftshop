@@ -1962,3 +1962,9 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
     • background-color: #fff5 mengatur warna latar belakang tombol "Remove" menjadi putih dengan sedikit keabu-abuan.
 
     • border: none menghilangkan border tombol "Remove."
+
+22. Gaya Jumlah Produk dalam Keranjang Belanja:
+
+    • Ini adalah aturan CSS yang mengatur tampilan jumlah produk dalam daftar keranjang belanja.
+
+    • margin: 0 10px memberikan margin 0px di atas dan samping, dan 10px di sisi kiri dan kanan jumlah produk.
