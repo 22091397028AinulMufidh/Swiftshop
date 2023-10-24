@@ -292,7 +292,8 @@ Respon: Tampilan daftar produk dengan informasi terperinci.
 
 3.	Fitur pencarian produk harus memungkinkan pengguna mencari produk berdasarkan kata kunci.
    
-3.2	Manajemen Akun
+
+<h3>3.2	Manajemen Akun</h3>
 
 
 <h4>3.2.1 Deskripsi dan Prioritas</h4>
