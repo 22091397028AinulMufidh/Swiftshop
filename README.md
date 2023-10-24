@@ -1078,6 +1078,52 @@ section .image-promotion img Selector:
 - display: inline-flex;: Mengubah elemen dengan kelas .review-slider menjadi elemen inline-flex.
 
 
+<h3>Footer Section</h3>
+
+.footer .footer-container Selector:
+- display: grid;: Mengubah elemen dengan kelas .footer-container menjadi wadah grid.
+- grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));: Menentukan grid dengan kolom yang akan menyesuaikan dengan lebar layar (auto-fit) dengan lebar minimum 20 rem, dan fraksi 1 (1fr) yang memungkinkan elemen-elemen untuk mengisi ruang yang tersedia secara merata.
+- gap: 3.2rem;: Menambahkan jarak antara elemen-elemen anak sebesar 3.2 rem.
+- margin-top: 60px;: Menambahkan margin atas sebesar 60 piksel pada elemen dengan kelas .footer-container.
+- margin-bottom: 20px;: Menambahkan margin bawah sebesar 20 piksel pada elemen dengan kelas .footer-container.
+  
+#contact a Selector:
+- text-decoration: none;: Menghilangkan dekorasi tautan (misalnya, garis bawah) untuk tautan yang berada dalam elemen dengan ID contact.
+  
+#follow Selector:
+- margin-left: 30px;: Menambahkan margin kiri sebesar 30 piksel pada elemen dengan ID follow.
+
+.lower Selector:
+- text-transform: lowercase;: Mengubah semua teks dalam elemen dengan kelas .lower menjadi huruf kecil.
+
+.footer .footer-container .box h3 Selector:
+- padding: .5rem 0;: Menambahkan padding sebesar 0.5 rem di atas dan bawah judul h3 dalam elemen dengan kelas .box.
+- font-size: 2rem;: Mengatur ukuran font judul h3 menjadi 2 rem.
+- color: #192a56;: Mengatur warna teks judul h3 menjadi biru tua (#192a56).
+  
+.footer .footer-container .box a Selector:
+- display: block;: Mengubah tautan dalam elemen dengan kelas .box menjadi elemen blok.
+- padding: .5rem 0;: Menambahkan padding sebesar 0.5 rem di atas dan bawah tautan.
+- font-size: 16px;: Mengatur ukuran font teks tautan menjadi 16 piksel.
+- color: #666;: Mengatur warna teks tautan menjadi abu-abu tua (#666).
+
+.footer .footer-container .box a:hover Selector:
+- color: #ffa600fa;: Ketika tautan dihover, mengubah warna teks tautan menjadi oranye muda semi-transparan (#ffa600fa).
+- text-decoration: underline;: Menambahkan garis bawah pada tautan saat dihover.
+
+.footer .copyright Selector:
+- text-align: center;: Mengatur teks hak cipta menjadi rata tengah.
+- border-top: .1rem solid rgba(0,0,0,.1);: Menambahkan border di atas elemen hak cipta dengan ketebalan 0.1 rem dan warna transparan.
+- font-size: 1.5rem;: Mengatur ukuran font teks hak cipta menjadi 1.5 rem.
+- color: #192a56;: Mengatur warna teks hak cipta menjadi biru tua (#192a56).
+- padding: .5rem;: Menambahkan padding sebesar 0.5 rem pada elemen hak cipta.
+- padding-top: 2rem;: Menambahkan padding atas sebesar 2 rem pada elemen hak cipta.
+- margin-top: 2rem;: Menambahkan margin atas sebesar 2 rem pada elemen hak cipta.
+- margin-bottom: -1rem;: Mengurangi margin bawah sebesar 1 rem pada elemen hak cipta.
+
+
+
+
 <h2>LOGIN DAN SIGNUP</h2>
 
 <h3>Penjelasan HTML Login dan signup:</h3>
