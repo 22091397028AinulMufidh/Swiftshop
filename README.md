@@ -10,11 +10,11 @@ Disusun Oleh :
 
 Kelompok 4 PEMWEB Manajemen Informatika A
 
-Adellia - 22091397002
+<p>Adellia - 22091397002</p>
 
-Anna Berttria Novem Budia - 22091397004
+<p>Anna Berttria Novem Budia - 22091397004</p>
 
-Ainul Mufidh - 22091397028
+<p>Ainul Mufidh - 22091397028</p>
 
 
 D4 Manajemen Informatika
@@ -25,7 +25,7 @@ Universitas Negeri Surabaya 2023
 </div>
 
 
-<h2>##Daftar Isi</h2>
+<h2>## Daftar Isi</h2>
 
 <h3>1.	-[Pendahuluan](#Pendahuluan)</h3>
 
@@ -100,7 +100,7 @@ Appendix B: Analysis Models
 Appendix C: To Be Determined List
 
 
-<h2>1. ##Pendahuluan</h2>
+<h2>1. ## Pendahuluan</h2>
 
 <h3>1.1	Tujuan Penulisan Dokumen</h3>
 <div align="justify">
