@@ -576,7 +576,7 @@ Pada Swift Shop Website terdapat beberapa hal yang masih perlu diperjelas dan di
 &lt;title>Home</title&gt; Elemen ini mengatur judul halaman web. Judul ini akan ditampilkan di bilah judul browser atau tab, serta digunakan ketika pengguna menyimpan halaman sebagai bookmark atau berbagi tautan di media sosial.
 
 
-<h4>Header Home Page</h4>
+<h3>Header Home Page</h3>
 
 Selanjutnya yaitu &lt;body&gt;, dalam dokumen HTML elemen body biasanya berisi elemen-elemen yang akan tampil di bagian atas halaman web, seperti header.
 
