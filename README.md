@@ -1545,3 +1545,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 18. &lt;div class="text"&gt;: Ini adalah div yang berisi teks informasi kontak.
 
 19. &lt;h3&gt;Address&gt;/h3&gt;: Ini adalah judul untuk alamat.
+
+20. &lt;p&gt;Jl. Ketintang, Ketintang, &lt;br&gt;Kec. Gayungan, Kota Surabaya, &lt;br&gt;Jawa Timur (60230)&lt;/br&gt;&lt;/p&gt;: Ini adalah alamat fisik dengan garis baru (line break) untuk pemformatan yang baik.
