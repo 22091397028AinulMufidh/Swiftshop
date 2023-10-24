@@ -578,9 +578,9 @@ Pada Swift Shop Website terdapat beberapa hal yang masih perlu diperjelas dan di
 
 <h4>Header Home Page</h4>
 
-Selanjutnya yaitu <body>, dalam dokumen HTML elemen body biasanya berisi elemen-elemen yang akan tampil di bagian atas halaman web, seperti header.
+Selanjutnya yaitu &lt;body&gt;, dalam dokumen HTML elemen body biasanya berisi elemen-elemen yang akan tampil di bagian atas halaman web, seperti header.
 
-&ltheader&gt; Ini adalah elemen yang digunakan untuk menentukan bagian header halaman web. Header biasanya berisi logo, menu navigasi, dan elemen-elemen lain yang muncul di bagian atas halaman.
+&lt;header&gt; Ini adalah elemen yang digunakan untuk menentukan bagian header halaman web. Header biasanya berisi logo, menu navigasi, dan elemen-elemen lain yang muncul di bagian atas halaman.
 
 <a href="" class="logo"><i class="fas-fa-untensils">swiftshop</i></a>: Ini adalah elemen anchor <a> yang digunakan untuk menampilkan logo atau nama situs web Anda. Dalam kode ini, Anda menggunakan ikon Font Awesome yang memiliki kesalahan penulisan ("fas-fa-untensils" seharusnya "fas fa-utensils") dan nama "swiftshop." 
 
