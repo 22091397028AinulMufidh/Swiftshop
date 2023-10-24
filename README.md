@@ -792,6 +792,33 @@ Lalu ada gambar ikon keranjang, terdapat teks "Add to Cart," yang digunakan untu
 - header .icons #menu-bar ⇒ selektor untuk ikon menu bar yang mungkin digunakan untuk menu responsif, meskipun dalam kode yang Anda bagikan, id yang benar adalah menu-bars.
 
 
+<h3>Dropdown menu css</h3>
+
+- ul ⇒ selektor yang mengatur elemen ul (unordered list) di dalam halaman web. 
+
+- list-style ⇒ none; menghilangkan tanda bullet pada daftar (list-style).
+- background: #ffa500; mengatur latar belakang daftar dengan warna oranye (#ffa500).
+- ul li ⇒ selektor untuk elemen-elemen li (list item) di dalam daftar ul. Kode ini mengatur elemen-elemen ini untuk ditampilkan secara horizontal (inline-block) dan posisi relatif.
+
+- ul li a ⇒ selektor untuk tautan di dalam elemen li. Kode ini mengatur tampilan tautan, termasuk warna teks, padding, dekorasi teks, ukuran font, dan margin atas.
+
+- .navbar ul.dropdown li ⇒ selektor khusus untuk tautan yang berada di dalam dropdown. Dalam kode ini, tautan dropdown juga diatur untuk ditampilkan sebagai blok (display: block;).
+
+- .navbar ul.dropdown ⇒ selektor khusus untuk daftar dropdown yang muncul ketika menu dihover. Dalam kode ini:
+
+- width: 10%; mengatur lebar dropdown.
+- background: #fff; mengatur latar belakang dropdown dengan warna putih (#fff).
+- position: absolute; mengatur posisi dropdown secara absolut.
+- z-index: 999; memberikan indeks z tinggi agar dropdown muncul di atas elemen-elemen lain.
+- display: none; mengatur dropdown untuk disembunyikan secara default.
+- border-radius: 5px; mengatur sudut dengan radius 5px.
+- margin-left: 80px; mengatur jarak dari sisi kiri saat muncul.
+- ul li a:hover: digunakan untuk mengatur tampilan tautan saat dihover. Dalam kode ini, latar belakang tautan akan berubah menjadi oranye (#ffa500).
+
+- .navbar:hover ul.dropdown: digunakan mengatur dropdown muncul saat menu navbar dihover (menu utama). Dalam kode ini, dropdown yang sebelumnya memiliki display: none; akan menjadi display: block; saat menu utama dihover.
+
+
+
 <h2>LOGIN DAN SIGNUP</h2>
 
 <h3>Penjelasan HTML Login dan signup:</h3>
