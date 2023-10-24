@@ -1631,6 +1631,7 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 1. Deklarasi Dokumen HTML: &lt;!DOCTYPE html&gt; menunjukkan bahwa halaman ini menggunakan HTML5, versi terbaru dari bahasa pemrograman web.
 
 2. Elemen HTML Utama:
+
    • &lt;html lang="en&gt;: Mengawali dokumen HTML.
    • &lt;head&gt;: Ini adalah bagian kepala halaman yang berisi informasi metadata dan pengaturan penting.
    • &lt;body&gt;: Ini adalah tempat konten utama halaman web, yang akan dilihat oleh pengguna.
