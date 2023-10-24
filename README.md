@@ -28,7 +28,7 @@ Universitas Negeri Surabaya 2023
 
 
 
-Daftar Isi
+<h2>Daftar Isi</h2>
 
 
 1.	Pendahuluan
