@@ -1986,3 +1986,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 5. addToCart Function: Fungsi ini digunakan untuk menambahkan produk ke keranjang belanja. Jika produk sudah ada dalam keranjang, maka kuantitasnya ditingkatkan. Jika belum ada, produk ditambahkan ke keranjang. Fungsi isInCategory digunakan untuk memeriksa apakah produk termasuk dalam kategori tertentu.
 
 6. reloadCart Function: Fungsi ini digunakan untuk memperbarui tampilan keranjang belanja. Itu menghapus konten keranjang belanja saat ini dan membangun ulangnya dengan item-item yang ada dalam array listCarts.
+
+7. changeQuantity Function: Fungsi ini memungkinkan pengguna untuk mengubah jumlah produk dalam keranjang belanja. Jika jumlah diatur ke 0, item dihapus dari keranjang.
