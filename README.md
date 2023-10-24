@@ -273,12 +273,14 @@ Dokumentasi pengguna pada Swift Shop Website harus mencakup panduan singkat tent
 <h4>3.1.1 Deskripsi dan Prioritas</h4>
 
 Deskripsi: Fitur ini mencakup daftar lengkap produk dengan deskripsi, harga, dan gambar.
+
 Prioritas: Tinggi.
 
  
 <h4>3.1.2 Urutan Stimulus/Respon</h4>
 
 Stimulus: Pengguna mengakses halaman produk.
+
 Respon: Tampilan daftar produk dengan informasi terperinci.
 
  
@@ -296,14 +298,17 @@ Respon: Tampilan daftar produk dengan informasi terperinci.
 <h4>3.2.1 Deskripsi dan Prioritas</h4>
 
 Deskripsi: Memungkinkan pengguna untuk membuat akun.
+
 Prioritas: Tinggi.
  
 <h4>3.2.2 Urutan Stimulus/Respon</h4>
 
 Stimulus: Pengguna memilih opsi “Membuat Akun”.
+
 Respon: Formulir pendaftaran dan konfirmasi akun.
  
-3.2.3	Persyaratan Fungsional
+<h4>3.2.3	Persyaratan Fungsional</h4>
+
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
 
 2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
@@ -311,16 +316,15 @@ Respon: Formulir pendaftaran dan konfirmasi akun.
 3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman.
 
 
+<h4>3.3.2	Urutan Stimulus/Respon</h4>
 
-3.3.2	Urutan Stimulus/Respon
-
-	Stimulus: Pengguna menambahkan produk ke keranjang.
+Stimulus: Pengguna menambahkan produk ke keranjang.
  
-	Respon: Produk ditambahkan ke keranjang.
+Respon: Produk ditambahkan ke keranjang.
  
-	Stimulus: Pengguna mengklik "Selesaikan Pembelian."
+Stimulus: Pengguna mengklik "Selesaikan Pembelian."
  
-	Respon: Langkah-langkah pembayaran.
+Respon: Langkah-langkah pembayaran.
  
 3.3.3	Persyaratan Fungsional
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
