@@ -339,12 +339,14 @@ Respon: Langkah-langkah pembayaran.
 
 <h3>3.4	Manajemen Pesanan</h3>
 
+
 <h4>3.4.1	Deskripsi dan Prioritas</h4>
 
-	Deskripsi: Pengguna dapat mengelola pesanan mereka, termasuk melacak status pengiriman.
+Deskripsi: Pengguna dapat mengelola pesanan mereka, termasuk melacak status pengiriman.
  
-	Prioritas: Tinggi.
- 
+Prioritas: Tinggi.
+
+
 3.4.2	Urutan Stimulus/Respon
 
 	Stimulus: Pengguna mengakses halaman manajemen pesanan.
