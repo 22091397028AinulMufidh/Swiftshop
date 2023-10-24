@@ -1508,6 +1508,8 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
 <h3>PENJELASAN HTML CONTACT</h3>
 
+<div align="justify">
+
 1. &lt;!DOCTYPE html: Ini adalah deklarasi dokumen HTML yang mengindikasikan versi dokumen.&gt;
 
 2. &lt;html: Ini adalah elemen root (utama) dari halaman web.&gt;
@@ -1559,6 +1561,7 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 25. Terdapat beberapa &lt;div class="inputBox"&gt; yang berisi kotak masukan untuk nama lengkap, alamat email, pesan, dan tombol "Send."
 
 26. required="required": Ini adalah atribut yang menandakan bahwa masukan tersebut wajib diisi sebelum mengirim pesan.
+</div>
 
 
 <h3>PENJELASAN CSS CONTACT</h3>
