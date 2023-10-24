@@ -1898,3 +1898,17 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
     • display: flex mengubah judul menjadi kontainer fleksibel.
 
     • align-items: center memposisikan teks judul secara vertikal di tengah.
+
+17. Gaya Bagian "Checkout" dalam Keranjang Belanja:
+
+    • Ini adalah aturan CSS yang mengatur tampilan bagian "Checkout" dalam keranjang belanja.
+
+    • position: absolute memungkinkan elemen "Checkout" ditempatkan secara absolut di bagian bawah keranjang.
+
+    • bottom: 0 memposisikan elemen di bagian bawah keranjang.
+
+    • width: 100% membuat elemen "Checkout" mengisi seluruh lebar keranjang.
+
+    • display: grid mengubah elemen "Checkout" menjadi grid.
+
+    • grid-template-columns: repeat(2, 1fr) mengatur dua kolom dengan lebar yang sama dalam elemen "Checkout."
