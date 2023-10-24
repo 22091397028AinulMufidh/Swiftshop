@@ -27,7 +27,7 @@ Universitas Negeri Surabaya 2023
 
 <h2>Daftar Isi</h2>
 
-<h4>1.	Pendahuluan</h4>
+<h3>1.	Pendahuluan</h3>
 
 1.1	Tujuan Penulisan Dokumen
 
@@ -41,7 +41,7 @@ Universitas Negeri Surabaya 2023
 
 1.6	Referensi
 
-<h4>2.	Deskripsi Keseluruhan</h4>
+<h3>2.	Deskripsi Keseluruhan</h3>
 
 2.1	Deskripsi Produk
 
@@ -63,7 +63,7 @@ Universitas Negeri Surabaya 2023
 
 3.4	Communications Interfaces
 
-<h4>4.	Persyatatan Fungsional</h4>
+<h3>4.	Persyatatan Fungsional</h3>
 
 4.1	Katalog Produk
 
@@ -81,7 +81,7 @@ Universitas Negeri Surabaya 2023
 
 4.8	Peran Pengguna
 
-<h4>5.	Persyaratan Non Fungsional</h4>
+<h3>5.	Persyaratan Non Fungsional</h3>
 
 5.1	Persyaratan Kinerja
 
@@ -91,7 +91,7 @@ Universitas Negeri Surabaya 2023
 
 5.4	Peraturan Bisnis
 
-<h4>6.	Persyaratan Lainnya</h4>
+<h3>6.	Persyaratan Lainnya</h3>
    
 Appendix A: Glossary
 
