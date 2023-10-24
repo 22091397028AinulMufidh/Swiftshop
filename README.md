@@ -147,7 +147,7 @@ Swift Shop Website ditujukan bagi konsumen untuk berbelanja online, penjual untu
 </div>
 
 
-1.4	Ruang Lingkup Produk
+<h3>1.4 Ruang Lingkup Produk</h3>
 
 Lingkup pada Swift Shop Website dapat mencakup fitur berikut :
 
