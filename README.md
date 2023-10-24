@@ -690,6 +690,33 @@ Elemen ini terdapat beberpa bagian dari halaman beranda (home) dalam situs web A
 &lt;a href="login.html" class="btn" id="btn-about">learn more</a&gt; merupakan elemen anchor yang menghubungkan ke halaman "login.html" dan menampilkan tombol dengan teks "learn more". Atribut class "btn" digunakan untuk mengatur tampilan tombol, dan atribut id "btn-about" digunakan untuk mengatur tampilan tombol secara unik.
 
 
+<h3>Section Review</h3>
+atribut class "review" digunakan untuk mengatur tampilan dan gaya bagian ini, dan atribut id "review" digunakan untuk identifikasi unik.
+
+&lt;h3 class="sub-heading">customer's review</h3&gt; judul sub yang menyampaikan bahwa bagian ini adalah tentang ulasan pelanggan.
+
+&lt;h1 class="heading">what the say</h1&gt; judul utama yang menampilkan pertanyaan "what they say".
+
+&lt;div class="swiper-container review-slider"&gt; div yang yang digunakan untuk menampilkan konten review dari user.. 
+
+&lt;div class="swiper-wrapper"&gt; div yang berisi elemen-elemen yang akan menjadi bagian dari slider.
+
+&lt;div class="swiper-slide slide"&gt; div yang mewakili satu slide dalam slider.
+
+&lt;div class="fas fa-quote-right"></div&gt; elemen ikon dari Font Awesome yang menampilkan tanda kutip (quote right).
+
+&lt;div class="user"&gt; adalah div yang berisi informasi tentang pengguna yang memberikan ulasan.
+
+&lt;img src="./assets/photo1.jpg" alt=""&gt; Ini adalah elemen gambar &lt;img&gt; yang menampilkan foto pengguna yang memberikan ulasan. Gambar tersebut diarahkan ke berkas "photo1.jpg" dalam direktori "assets." Atribut alt digunakan untuk teks alternatif jika gambar tidak dapat ditampilkan.
+
+&lt;div class="user-info"&gt; Ini adalah div yang berisi informasi tambahan tentang pengguna.
+
+<h3>Caroline</h3>: Ini adalah elemen judul level 3 (<h3>) yang menampilkan nama pengguna yang memberikan ulasan.
+
+<div class="stars">: Ini adalah div yang berisi ikon-ikon bintang yang menggambarkan peringkat atau penilaian pengguna.
+
+Di bawah div ini, terdapat beberapa elemen <i> yang menggambarkan bintang-bintang dengan perbedaan jumlah tergantung pada peringkat yang diberikan pengguna. Lalu ada elemen <p> Ini adalah elemen paragraf <p> yang berisi ulasan dari pengguna tentang produk atau layanan. Ulasan ini menjelaskan mengapa mereka menganggap produk tersebut bagus.
+
 
 <h2>LOGIN DAN SIGNUP</h2>
 
