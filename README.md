@@ -1583,3 +1583,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 8. background-color: #fff;: Ini mengatur latar belakang elemen dengan kelas "contact" menjadi putih.
 
 9. .content: Ini adalah selector untuk elemen dengan kelas "content." Ini mengatur tampilan konten dalam wadah "contact."
+
+10. max-width: 800px;: Ini mengatur lebar maksimum konten agar tidak melebihi 800 piksel.
