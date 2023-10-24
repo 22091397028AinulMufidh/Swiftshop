@@ -1848,3 +1848,19 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
     • border-radius: 30px membuat tombol berbentuk bulat dengan sudut 30px.
 
     • margin-top: 10px memberikan margin di atas tombol "Add To Cart" sebesar 10px.
+
+13. Tampilan Keranjang Belanja:
+
+    • Ini adalah aturan CSS yang mengatur tampilan keranjang belanja.
+
+    • position: fixed membuat keranjang belanja tetap saat digulir.
+
+    • top: 0 memposisikan keranjang di bagian atas halaman.
+
+    • right: -100% awalnya memposisikan keranjang di luar layar, dengan lebar 500px.
+
+    • background-color: #d3d3d3 mengatur latar belakang keranjang belanja menjadi abu-abu.
+
+    • height: 100vh mengisi tinggi keranjang belanja dengan tinggi tampilan pengguna.
+
+    • transition: 0.5s memberikan efek transisi selama 0,5 detik saat ada perubahan pada keranjang.
