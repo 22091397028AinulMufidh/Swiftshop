@@ -1601,3 +1601,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 17. .text h3: Ini mengatur tampilan judul informasi dalam elemen dengan kelas "box."
 
 18. .contactForm: Ini adalah selector untuk elemen dengan kelas "contactForm." Ini mengatur tampilan formulir kontak.
+
+19. .contactForm h2: Ini mengatur tampilan judul formulir dalam elemen dengan kelas "contactForm."
