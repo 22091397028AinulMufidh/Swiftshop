@@ -308,7 +308,7 @@ Stimulus: Pengguna memilih opsi “Membuat Akun”.
 
 Respon: Formulir pendaftaran dan konfirmasi akun.
  
-<h4>3.2.3	Persyaratan Fungsional</h4>
+<h4>3.2.3 Persyaratan Fungsional</h4>
 
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
 
@@ -317,7 +317,7 @@ Respon: Formulir pendaftaran dan konfirmasi akun.
 3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman.
 
 
-<h4>3.3.2	Urutan Stimulus/Respon</h4>
+<h4>3.3.2 Urutan Stimulus/Respon</h4>
 
 Stimulus: Pengguna menambahkan produk ke keranjang.
  
@@ -326,8 +326,10 @@ Respon: Produk ditambahkan ke keranjang.
 Stimulus: Pengguna mengklik "Selesaikan Pembelian."
  
 Respon: Langkah-langkah pembayaran.
- 
-3.3.3	Persyaratan Fungsional
+
+
+<h4>3.3.3 Persyaratan Fungsional</h4>
+
 1.	Pengguna harus dapat membuat akun dengan mengisi informasi pribadi seperti nama, alamat email, dan kata sandi.
 2.	Sistem harus mengirimkan email verifikasi ke pengguna untuk mengaktifkan akun mereka.
 3.	Pengguna yang sudah terdaftar harus dapat masuk ke akun mereka dengan otentikasi yang aman.
