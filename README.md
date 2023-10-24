@@ -1504,6 +1504,8 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
 
 
-CONTACT
+<h2>CONTACT</h2>
 
-PENJELASAN HTML CONTACT
+<h3>PENJELASAN HTML CONTACT</h3>
+
+1. &lt;<!DOCTYPE html>: Ini adalah deklarasi dokumen HTML yang mengindikasikan versi dokumen.&gt;
