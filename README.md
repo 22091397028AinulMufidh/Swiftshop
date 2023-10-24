@@ -1658,7 +1658,10 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
    • Setiap produk dalam kategori memiliki elemen berikut:
    
-   	• Gambar produk.
-   	• Nama produk.
-	• Harga produk.
-	• Tombol "Add To Cart" yang memanggil fungsi JavaScript addToCart dengan ID produk sebagai argumen saat diklik.
+   	- Gambar produk.
+   
+   	- Nama produk.
+   
+	- Harga produk.
+
+	- Tombol "Add To Cart" yang memanggil fungsi JavaScript addToCart dengan ID produk sebagai argumen saat diklik.
