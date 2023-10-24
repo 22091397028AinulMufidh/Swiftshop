@@ -582,31 +582,31 @@ Selanjutnya yaitu &lt;body&gt;, dalam dokumen HTML elemen body biasanya berisi e
 
 &lt;header&gt; Ini adalah elemen yang digunakan untuk menentukan bagian header halaman web. Header biasanya berisi logo, menu navigasi, dan elemen-elemen lain yang muncul di bagian atas halaman.
 
-<a href="" class="logo"><i class="fas-fa-untensils">swiftshop</i></a>: Ini adalah elemen anchor <a> yang digunakan untuk menampilkan logo atau nama situs web Anda. Dalam kode ini, Anda menggunakan ikon Font Awesome yang memiliki kesalahan penulisan ("fas-fa-untensils" seharusnya "fas fa-utensils") dan nama "swiftshop." 
+&lt;a href="" class="logo"><i class="fas-fa-untensils">swiftshop</i></a&gt;: Ini adalah elemen anchor <a> yang digunakan untuk menampilkan logo atau nama situs web Anda. Dalam kode ini, Anda menggunakan ikon Font Awesome yang memiliki kesalahan penulisan ("fas-fa-untensils" seharusnya "fas fa-utensils") dan nama "swiftshop." 
 
-<nav class="navbar">: Ini adalah elemen <nav> yang digunakan untuk mengelompokkan elemen-elemen menu navigasi.
+&lt;nav class="navbar"&gt; Ini adalah elemen <nav> yang digunakan untuk mengelompokkan elemen-elemen menu navigasi.
 
 <a class="active" href="index.html">Home</a>: Ini adalah elemen anchor yang menghubungkan ke halaman "index.html" dan disertai dengan atribut class="active", yang biasanya digunakan untuk menandai halaman saat berada di sebuah halaman web..
 
-<a class="navbar-dropdown" href="">Products</a> Ini adalah elemen anchor untuk menu "Products.
+&lt;a class="navbar-dropdown" href="">Products</a&gt; Ini adalah elemen anchor untuk menu "Products.
 
-<ul class="dropdown"> Ini adalah elemen daftar tak berurutan (unordered list) yang digunakan untuk membuat submenu.
+&lt;ul class="dropdown"&gt; Ini adalah elemen daftar tak berurutan (unordered list) yang digunakan untuk membuat submenu.
 
-<li><a href="smartphone.html">Smartphone</a></li> Ini adalah elemen daftar dengan tautan ke halaman "smartphone.html." Ini adalah salah satu opsi dalam submenu "Products." Anda dapat menambahkan lebih banyak elemen daftar untuk produk lainnya.
+&lt;li><a href="smartphone.html">Smartphone</a></li&gt; Ini adalah elemen daftar dengan tautan ke halaman "smartphone.html." Ini adalah salah satu opsi dalam submenu "Products." Anda dapat menambahkan lebih banyak elemen daftar untuk produk lainnya.
 
-<a href="service.html">Services</a> Ini adalah elemen anchor untuk menu "Services," yang menghubungkan ke halaman "service.html."
+&lt;a href="service.html">Services</a&gt; Ini adalah elemen anchor untuk menu "Services," yang menghubungkan ke halaman "service.html."
 
-<a href="contact.html">Contacts</a> Ini adalah elemen anchor untuk menu "Contacts," yang menghubungkan ke halaman "contact.html."
+&lt;a href="contact.html">Contacts</a&gt; Ini adalah elemen anchor untuk menu "Contacts," yang menghubungkan ke halaman "contact.html."
 
-<a href="about.html">About</a> Ini adalah elemen anchor untuk menu "About," yang menghubungkan ke halaman "about.html."
+&lt;a href="about.html">About</a&gt; Ini adalah elemen anchor untuk menu "About," yang menghubungkan ke halaman "about.html."
 
-<div class="icons"> Ini adalah elemen div yang berisi ikon-ikon yang mungkin digunakan dalam header.
+&lt;div class="icons"&gt; Ini adalah elemen div yang berisi ikon-ikon yang mungkin digunakan dalam header.
 
-<i class="fas fa-bars" id="menu-bars"></i> Ini adalah elemen ikon Font Awesome yang mewakili ikon menu (garis tiga). ID "menu-bars" digunakan untuk mengidentifikasi ikon yang ada di navbar.
+&lt;i class="fas fa-bars" id="menu-bars"></i&gt; Ini adalah elemen ikon Font Awesome yang mewakili ikon menu (garis tiga). ID "menu-bars" digunakan untuk mengidentifikasi ikon yang ada di navbar.
 
-<a href="#" class="fas fa-heart"></a> Ini adalah elemen anchor yang menampilkan ikon hati dari Font Awesome dan akan digunakan untuk menambahkan barang ke daftar keinginan.
+&lt;a href="#" class="fas fa-heart"></a&gt; Ini adalah elemen anchor yang menampilkan ikon hati dari Font Awesome dan akan digunakan untuk menambahkan barang ke daftar keinginan.
 
-<a href="checkout.html" class="fas fa-shopping-cart"></a> Ini adalah elemen anchor yang menampilkan ikon keranjang belanja dari Font Awesome. Tautan ini menghubungkan ke halaman "checkout.html," di mana pengguna dapat melakukan proses pembelian.
+&lt;a href="checkout.html" class="fas fa-shopping-cart"></a&gt; Ini adalah elemen anchor yang menampilkan ikon keranjang belanja dari Font Awesome. Tautan ini menghubungkan ke halaman "checkout.html," di mana pengguna dapat melakukan proses pembelian.
 
 
 
