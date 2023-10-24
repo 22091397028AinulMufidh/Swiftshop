@@ -1533,3 +1533,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 12. &lt;p&gt;Kami siap membantu masalah Anda.&lt;/p&gt;: Ini adalah deskripsi atau teks informasi yang menjelaskan tujuan halaman.
 
 13. &lt;div class="container"&gt;: Ini adalah div yang berfungsi sebagai kontainer untuk mengelompokkan elemen-elemen kontak.
+
+14. &lt;div class="contactInfo"&gt;: Ini adalah div yang berisi informasi kontak.
