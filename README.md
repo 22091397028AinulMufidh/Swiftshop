@@ -1990,3 +1990,5 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 7. changeQuantity Function: Fungsi ini memungkinkan pengguna untuk mengubah jumlah produk dalam keranjang belanja. Jika jumlah diatur ke 0, item dihapus dari keranjang.
 
 8. filterProducts Function: Fungsi ini memungkinkan pengguna untuk memfilter produk berdasarkan kategori. Ini menyembunyikan atau menampilkan item sesuai dengan kategori yang dipilih.
+
+9. isInCategory Function: Fungsi ini digunakan untuk memeriksa apakah produk berada dalam kategori tertentu berdasarkan itemId.
