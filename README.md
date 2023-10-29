@@ -1193,6 +1193,8 @@ header .navbar a{ ... }: Menetapkan gaya untuk tautan dalam elemen dengan kelas 
 
 <h3>Halaman about html</h3>
 
+![about](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/06e839e0-f1e6-45ee-bd7c-efd6ac17b39d)
+
 mewakili halaman "Meet The Team."  mencakup judul, garis pemisah, dan daftar anggota tim.
 
 &lt;h2>Meet The Team</h2&gt; judul halaman "Meet The Team" yang mungkin akan ditampilkan di atas daftar anggota tim.
@@ -1263,6 +1265,11 @@ Mendefinisikan box model global, yang memastikan bahwa panjang dan lebar elemen 
 
 
 <h3>Services Page</h3>
+
+![services](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/bf44b6a3-dfc7-4f63-97fe-427ba62d52ae)
+
+![services2](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/f5b0d142-7e63-49ff-88c1-6b9b4fcc88b0)
+
 
 &lt;div class="tagline"&gt; elemen div dengan kelas "tagline" yang mewakili tagline atau judul untuk layanan atau fitur yang ditawarkan. Ini mencakup judul h2 dan judul h1.
 
@@ -1364,6 +1371,11 @@ navbar.classList.toggle('active');: Pada setiap klik, kode ini akan mengaktifkan
 
 
 <h2>LOGIN DAN SIGNUP</h2>
+
+![login](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/72d73fcd-73e1-4cb7-b518-fd84e6c9f9e3)
+
+![signup](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/2a6b3571-1d95-4f6d-b955-5a45b954e0bf)
+
 
 <h3>Penjelasan HTML Login dan signup:</h3>
 
@@ -2320,6 +2332,11 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
 <h2>CONTACT</h2>
 
+![contact1](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/c5f03a55-39c0-4dc0-b003-7b64184afc0f)
+
+![contact2](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/d24c933f-277c-47df-a279-799f3f25a93e)
+
+
 <h3>PENJELASAN HTML CONTACT</h3>
 
 <div align="justify">
@@ -2441,6 +2458,11 @@ Pada bagian ini menjelaskan apa yang akan terjadi ketika mengklik tautan signup.
 
 
 <h3>PENJELASAN HTML CHECKOUT</h3>
+
+![checkout1](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/3c442b16-34d1-4a43-89e5-819bc8756fcf)
+
+![checkout2](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/afeb2e4d-0197-4bb5-800e-8346d8f2f89d)
+
 
 <div align="justify">
 
