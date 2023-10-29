@@ -555,6 +555,17 @@ Pada Swift Shop Website terdapat beberapa hal yang masih perlu diperjelas dan di
 
 <h2>HOME PAGE</h2>
 
+![home1](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/8a7a42af-3356-4eea-8336-9b9fba15101e)
+
+![home2](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/127a2966-2224-4101-82ba-150a01e48897)
+
+![home3](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/cc270f9a-b8ab-4a86-b741-f3362e899fc5)
+
+![home4](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/b9c9a033-fc00-4dd2-8119-f6e042bd39c5)
+
+![home5(footer)](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/1f6fcece-4b90-4e1a-8c47-692668ba4ba1)
+
+
 &lt;!DOCTYPE html&gt; deklarasi dokumen HTML yang mengidentifikasi jenis dokumen sebagai HTML5, versi terbaru dari HTML.
 
 &lt;html lang="en"&gt; elemen pembuka dokumen HTML. Di dalamnya, lang="en" mengindikasikan bahwa dokumen menggunakan bahasa Inggris.
