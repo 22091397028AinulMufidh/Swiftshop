@@ -752,6 +752,8 @@ Di bagian bawah footer, ada elemen &lt;div class="copyright"&gt; yang menampilka
 
 <h2>Halaman Menu Product</h2>
 
+![product](https://github.com/22091397028AinulMufidh/Swiftshop/assets/64142746/f8595e29-245a-42c6-9d50-1b58ec01cb9d)
+
 Pada halaman menu product ini tampilan navbar nya sama seperti pada tampilan halaman home namun perbedaan dari halaman product ini ialah halaman product digunakan khusus untuk menampilkan produk-produk yang ingin dijual dan memudahkan pengguna dalam mencari produk yang mereka inginkan.
 
 main adalah elemen HTML &lt;main&gt; yang digunakan untuk mengelompokkan konten utama halaman web.
